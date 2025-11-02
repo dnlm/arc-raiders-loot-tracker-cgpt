@@ -16,10 +16,11 @@ SESSION.headers.update({
     "User-Agent": "ArcLootBot/1.0 (+github action; contact via repo issues)",
 })
 
+# Accepts "1,750", "1 750", "1.750", "1750"
+NUM_RE = re.compile(r"([0-9][0-9.,\s]*)")
+
 PRICE_PATTERNS = [
-    re.compile(r"Sell\s*Price\s*[:]?\\s*(\\d+)", re.I),
-    re.compile(r"Price\s*[:]?\\s*(\\d+)", re.I),
-    re.compile(r"Coins?\s*[:]?\\s*(\\d+)", re.I),
+    re.compile(r"(?:Sell(?:ing)?\s*Price|Sell\s*Value|Price|Value)\s*[:\-]?\s*([0-9][0-9.,\s]*)", re.I),
 ]
 
 LINK_RE = re.compile(r"^/wiki/", re.I)
@@ -28,8 +29,21 @@ CACHE_DIR = Path(".cache/arc_loot")
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
 
+def parse_number(s: str) -> int | None:
+    """Normalize a number with separators and return int."""
+    m = NUM_RE.search(s)
+    if not m:
+        return None
+    raw = m.group(1)
+    # remove spaces and thousands separators; assume integer coin values
+    normalized = raw.replace(" ", "").replace(",", "").replace(".", "")
+    try:
+        return int(normalized)
+    except ValueError:
+        return None
+
+
 def cached_get(url: str, force: bool = False, sleep: float = 0.5) -> str:
-    """Fetch a page with optional caching."""
     fname = CACHE_DIR / (re.sub(r"[^a-zA-Z0-9]+", "_", url.strip("/")) + ".html")
     if fname.exists() and not force:
         return fname.read_text(encoding="utf-8", errors="ignore")
@@ -42,21 +56,26 @@ def cached_get(url: str, force: bool = False, sleep: float = 0.5) -> str:
 
 
 def parse_price_from_soup(soup: BeautifulSoup) -> int | None:
-    """Try to extract a sell price from a wiki item page."""
-    # 1) Check infobox entries
-    for dt in soup.select(".infobox dt, table.infobox th"):
-        if re.search(r"Sell\\s*Price|Price", dt.get_text(" ", strip=True), re.I):
-            dd = dt.find_next(["dd", "td"]) if dt else None
-            if dd:
-                m = re.search(r"(\\d+)", dd.get_text(" ", strip=True))
-                if m:
-                    return int(m.group(1))
-    # 2) Fallback to searching the text
-    text = soup.get_text("\\n", strip=True)
+    """Extract a sell price from an item page (best-effort)."""
+    # 1) infobox-style tables with th/td
+    for tr in soup.select(".infobox tr, table.infobox tr"):
+        th = tr.find(["th", "dt"])
+        td = tr.find(["td", "dd"])
+        if not th or not td:
+            continue
+        if re.search(r"sell(?:ing)?\s*price|sell\s*value|price|value", th.get_text(" ", strip=True), re.I):
+            n = parse_number(td.get_text(" ", strip=True))
+            if n is not None:
+                return n
+
+    # 2) any labeled patterns in text
+    text = soup.get_text("\n", strip=True)
     for pat in PRICE_PATTERNS:
         m = pat.search(text)
         if m:
-            return int(m.group(1))
+            n = parse_number(m.group(1))
+            if n is not None:
+                return n
     return None
 
 
@@ -117,17 +136,8 @@ def main():
     except StopIteration:
         name_idx = 0
 
-    sell_idx = None
-    for i, h in enumerate(headers):
-        if re.search(r"sell\\s*price|price", h, re.I):
-            sell_idx = i
-            break
-
-    recycles_idx = None
-    for i, h in enumerate(headers):
-        if re.search(r"recycles\\s*to", h, re.I):
-            recycles_idx = i
-            break
+    sell_idx = next((i for i, h in enumerate(headers) if re.search(r"sell\s*price|price", h, re.I)), None)
+    recycles_idx = next((i for i, h in enumerate(headers) if re.search(r"recycles\s*to", h, re.I)), None)
 
     out_headers = list(headers)
     if "Recycled Sell Price" not in out_headers:
@@ -141,11 +151,10 @@ def main():
         cells = row["cells"]
         links = row["links"]
         name = cells[name_idx] if name_idx < len(cells) else ""
+
         sell_price = None
         if sell_idx is not None and sell_idx < len(cells):
-            m = re.search(r"(\\d+)", cells[sell_idx])
-            if m:
-                sell_price = int(m.group(1))
+            sell_price = parse_number(cells[sell_idx])
 
         recycled_sum = 0
         found_any = False
@@ -158,7 +167,6 @@ def main():
                 if p is not None:
                     recycled_sum += p
                     found_any = True
-
         recycled_price = recycled_sum if found_any else None
 
         decision = "Unknown"
@@ -192,10 +200,10 @@ def main():
             w.writerow(d["row"])
 
     with open(args.out_md, "w", encoding="utf-8") as f:
-        f.write("| " + " | ".join(out_headers) + " |\\n")
-        f.write("|" + "---|" * len(out_headers) + "\\n")
+        f.write("| " + " | ".join(out_headers) + " |\n")
+        f.write("|" + "---|" * len(out_headers) + "\n")
         for d in data:
-            f.write("| " + " | ".join(c if isinstance(c, str) else str(c) for c in d["row"]) + " |\\n")
+            f.write("| " + " | ".join(c if isinstance(c, str) else str(c) for c in d["row"]) + " |\n")
 
     print(f"Wrote {args.out_json}, {args.out_csv}, {args.out_md}")
 
