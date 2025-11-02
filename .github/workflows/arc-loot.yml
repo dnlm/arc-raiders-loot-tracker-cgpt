@@ -1,8 +1,15 @@
-name: Arc Raiders – Loot table scraper
-# Runs daily at 03:27 Europe/Berlin ≈ 02:27 UTC in winter, 01:27 UTC in summer.
-# GitHub cron uses **UTC**; the two lines below cover DST shifts.
-- cron: "27 2 * 10-3 *" # Oct–Mar (CET) → 03:27 Berlin == 02:27 UTC
-- cron: "27 1 * 4-9 *" # Apr–Sep (CEST) → 03:27 Berlin == 01:27 UTC
+name: Arc Raiders - Loot table scraper
+workflow_dispatch:
+inputs:
+force:
+description: "Ignore cache and refetch all linked pages"
+required: false
+default: "false"
+schedule:
+# GitHub cron is UTC. These two rules fire daily at ~03:27 Europe/Berlin,
+# accounting for DST by using month lists instead of wrap-around ranges.
+- cron: "27 2 * JAN,FEB,MAR,OCT,NOV,DEC *" # 03:27 CET => 02:27 UTC
+- cron: "27 1 * APR,MAY,JUN,JUL,AUG,SEP *" # 03:27 CEST => 01:27 UTC
 
 
 permissions:
@@ -20,7 +27,7 @@ uses: actions/checkout@v4
 - name: Set up Python
 uses: actions/setup-python@v5
 with:
-python-version: '3.11'
+python-version: "3.11"
 
 
 - name: Install dependencies
