@@ -36,11 +36,96 @@ dialog{border:none;border-radius:12px;max-width:720px;width:96vw}
 <script>
 const STORAGE_KEY='ARC_LOOT_USERCFG';
 let cfg={};
-try{cfg=JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}')}catch{}
-const state={headers:[],rows:[],idx:{}};
-async function load(){const res=await fetch('data.json',{cache:'no-store'});const data=await res.json();state.headers=data.headers;state.rows=data.rows;state.idx.name=state.headers.findIndex(h=>/^item/i.test(h));state.idx.decision=state.headers.findIndex(h=>/^decision/i.test(h));render();}
-function render(){const tbody=document.querySelector('#tbl tbody');const thead=document.querySelector('#tbl thead');thead.innerHTML='<tr>'+state.headers.map(h=>`<th>${h}</th>`).join('')+'</tr>';const q=document.getElementById('q').value.toLowerCase();const onlyRec=document.getElementById('onlyRecycle').checked;tbody.innerHTML='';for(const row of state.rows){const name=row[state.idx.name]||'';const decision=row[state.idx.decision]||'';if(q&&!name.toLowerCase().includes(q))continue;if(onlyRec&&decision!=='Recycle')continue;const tr=document.createElement('tr');row.forEach((c,i)=>{const td=document.createElement('td');if(i===state.idx.name){const star=document.createElement('span');star.className='star'+(cfg[name]?' on':'');star.textContent=cfg[name]?'★':'☆';star.onclick=()=>{if(cfg[name])delete cfg[name];else cfg[name]={};localStorage.setItem(STORAGE_KEY,JSON.stringify(cfg));render();};const span=document.createElement('span');span.textContent=name;const wrap=document.createElement('div');wrap.className='namecell';wrap.append(star,span);td.append(wrap);}else if(i===state.idx.decision){const cls=decision==='Recycle'?'rec':'sell';td.innerHTML=decision?`<span class="pill ${cls}">${decision}</span>`:'';}else td.textContent=c;tr.append(td);});tbody.append(tr);}}
-document.getElementById('q').oninput=render;document.getElementById('onlyRecycle').onchange=render;document.getElementById('btnSettings').onclick=()=>{document.getElementById('cfg').value=JSON.stringify(cfg,null,2);document.getElementById('dlg').showModal();};document.getElementById('btnSave').onclick=e=>{e.preventDefault();try{cfg=JSON.parse(document.getElementById('cfg').value);localStorage.setItem(STORAGE_KEY,JSON.stringify(cfg));render();document.getElementById('dlg').close();}catch{alert('Invalid JSON');}};document.getElementById('btnCancel').onclick=()=>document.getElementById('dlg').close();load();
+try{ cfg = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}') } catch {}
+
+const state = { headers:[], rows:[], idx:{} };
+
+async function load(){
+  const res = await fetch('data.json',{cache:'no-store'});
+  const data = await res.json();
+  state.headers = data.headers;
+  state.rows = data.rows;
+
+  // Robust index detection
+  let nidx = state.headers.findIndex(h => /^(item|name)/i.test(h));
+  state.idx.name = nidx === -1 ? 0 : nidx;
+
+  let didx = state.headers.findIndex(h => /decision/i.test(h));
+  state.idx.decision = didx; // can be -1 if missing
+
+  render();
+}
+
+function render(){
+  const tbody = document.querySelector('#tbl tbody');
+  const thead = document.querySelector('#tbl thead');
+  thead.innerHTML = '<tr>' + state.headers.map(h=>`<th>${h}</th>`).join('') + '</tr>';
+
+  const q = (document.getElementById('q').value || '').toLowerCase();
+  const onlyRec = document.getElementById('onlyRecycle').checked;
+
+  tbody.innerHTML = '';
+  for (const row of state.rows){
+    const name = row[state.idx.name] || '';
+    const decision = state.idx.decision >= 0 ? (row[state.idx.decision] || '') : '';
+
+    if (q && !name.toLowerCase().includes(q)) continue;
+    if (onlyRec && decision !== 'Recycle') continue;
+
+    const tr = document.createElement('tr');
+    row.forEach((c,i)=>{
+      const td = document.createElement('td');
+
+      if (i === state.idx.name){
+        const star = document.createElement('span');
+        star.className = 'star' + (cfg[name] ? ' on' : '');
+        star.textContent = cfg[name] ? '★' : '☆';
+        star.onclick = ()=>{
+          if (cfg[name]) delete cfg[name]; else cfg[name] = {};
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(cfg));
+          render();
+        };
+        const span = document.createElement('span');
+        span.textContent = name;
+        const wrap = document.createElement('div');
+        wrap.className = 'namecell';
+        wrap.append(star, span);
+        td.append(wrap);
+
+      } else if (state.idx.decision >= 0 && i === state.idx.decision){
+        const cls = decision === 'Recycle' ? 'rec' : 'sell';
+        td.innerHTML = decision ? `<span class="pill ${cls}">${decision}</span>` : '';
+
+      } else {
+        td.textContent = c;
+      }
+
+      tr.append(td);
+    });
+    tbody.append(tr);
+  }
+}
+
+document.getElementById('q').oninput = render;
+document.getElementById('onlyRecycle').onchange = render;
+document.getElementById('btnSettings').onclick = ()=>{
+  document.getElementById('cfg').value = JSON.stringify(cfg, null, 2);
+  document.getElementById('dlg').showModal();
+};
+document.getElementById('btnSave').onclick = e=>{
+  e.preventDefault();
+  try{
+    cfg = JSON.parse(document.getElementById('cfg').value);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(cfg));
+    render();
+    document.getElementById('dlg').close();
+  }catch{
+    alert('Invalid JSON');
+  }
+};
+document.getElementById('btnCancel').onclick = ()=> document.getElementById('dlg').close();
+
+load();
 </script>
 </body>
 </html>
