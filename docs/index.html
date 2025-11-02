@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Arc Raiders – Loot Table</title>
+<style>
+body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;line-height:1.35;margin:24px}
+.controls{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
+input[type="text"],textarea{padding:8px 10px;border:1px solid #ccc;border-radius:8px}
+input[type="text"]{min-width:260px}
+button{padding:8px 12px;border:1px solid #ddd;border-radius:10px;background:#fff;cursor:pointer}
+table{border-collapse:collapse;width:100%}
+th,td{border-bottom:1px solid #eee;padding:8px 10px;text-align:left}
+th{position:sticky;top:0;background:#fff}
+tr.hide{display:none}
+.pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px}
+.pill.rec{background:#eef7ee}
+.pill.sell{background:#f7eeee}
+.pill.need{background:#eef1ff}
+.namecell{display:flex;gap:8px;align-items:center}
+.star{cursor:pointer;user-select:none;font-size:16px;line-height:1}
+.star.on{color:#f2b01e}
+dialog{border:none;border-radius:12px;max-width:720px;width:96vw}
+</style>
+</head>
+<body>
+<h1>Arc Raiders – Loot Table</h1>
+<div class="controls">
+<input id="q" type="text" placeholder="Filter by item name…" />
+<label><input type="checkbox" id="onlyRecycle"/> Only Recycle</label>
+<button id="btnSettings">Settings</button>
+</div>
+<table id="tbl"><thead></thead><tbody></tbody></table>
+<dialog id="dlg"><form method="dialog"><h2>Settings</h2><p>Edit your upgrades JSON below.</p><textarea id="cfg" rows="10" style="width:100%"></textarea><div style="text-align:right;margin-top:10px"><button id="btnCancel">Cancel</button><button id="btnSave">Save</button></div></form></dialog>
+<script>
+const STORAGE_KEY='ARC_LOOT_USERCFG';
+let cfg={};
+try{cfg=JSON.parse(localStorage.getItem(STORAGE_KEY)||'{}')}catch{}
+const state={headers:[],rows:[],idx:{}};
+async function load(){const res=await fetch('data.json',{cache:'no-store'});const data=await res.json();state.headers=data.headers;state.rows=data.rows;state.idx.name=state.headers.findIndex(h=>/^item/i.test(h));state.idx.decision=state.headers.findIndex(h=>/^decision/i.test(h));render();}
+function render(){const tbody=document.querySelector('#tbl tbody');const thead=document.querySelector('#tbl thead');thead.innerHTML='<tr>'+state.headers.map(h=>`<th>${h}</th>`).join('')+'</tr>';const q=document.getElementById('q').value.toLowerCase();const onlyRec=document.getElementById('onlyRecycle').checked;tbody.innerHTML='';for(const row of state.rows){const name=row[state.idx.name]||'';const decision=row[state.idx.decision]||'';if(q&&!name.toLowerCase().includes(q))continue;if(onlyRec&&decision!=='Recycle')continue;const tr=document.createElement('tr');row.forEach((c,i)=>{const td=document.createElement('td');if(i===state.idx.name){const star=document.createElement('span');star.className='star'+(cfg[name]?' on':'');star.textContent=cfg[name]?'★':'☆';star.onclick=()=>{if(cfg[name])delete cfg[name];else cfg[name]={};localStorage.setItem(STORAGE_KEY,JSON.stringify(cfg));render();};const span=document.createElement('span');span.textContent=name;const wrap=document.createElement('div');wrap.className='namecell';wrap.append(star,span);td.append(wrap);}else if(i===state.idx.decision){const cls=decision==='Recycle'?'rec':'sell';td.innerHTML=decision?`<span class="pill ${cls}">${decision}</span>`:'';}else td.textContent=c;tr.append(td);});tbody.append(tr);}}
+document.getElementById('q').oninput=render;document.getElementById('onlyRecycle').onchange=render;document.getElementById('btnSettings').onclick=()=>{document.getElementById('cfg').value=JSON.stringify(cfg,null,2);document.getElementById('dlg').showModal();};document.getElementById('btnSave').onclick=e=>{e.preventDefault();try{cfg=JSON.parse(document.getElementById('cfg').value);localStorage.setItem(STORAGE_KEY,JSON.stringify(cfg));render();document.getElementById('dlg').close();}catch{alert('Invalid JSON');}};document.getElementById('btnCancel').onclick=()=>document.getElementById('dlg').close();load();
+</script>
+</body>
+</html>
