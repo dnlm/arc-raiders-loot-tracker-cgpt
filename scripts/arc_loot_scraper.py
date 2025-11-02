@@ -30,12 +30,10 @@ CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def parse_number(s: str) -> int | None:
-    """Normalize a number with separators and return int."""
     m = NUM_RE.search(s)
     if not m:
         return None
     raw = m.group(1)
-    # remove spaces and thousands separators; assume integer coin values
     normalized = raw.replace(" ", "").replace(",", "").replace(".", "")
     try:
         return int(normalized)
@@ -56,8 +54,7 @@ def cached_get(url: str, force: bool = False, sleep: float = 0.5) -> str:
 
 
 def parse_price_from_soup(soup: BeautifulSoup) -> int | None:
-    """Extract a sell price from an item page (best-effort)."""
-    # 1) infobox-style tables with th/td
+    # 1) infobox-like rows
     for tr in soup.select(".infobox tr, table.infobox tr"):
         th = tr.find(["th", "dt"])
         td = tr.find(["td", "dd"])
@@ -67,8 +64,7 @@ def parse_price_from_soup(soup: BeautifulSoup) -> int | None:
             n = parse_number(td.get_text(" ", strip=True))
             if n is not None:
                 return n
-
-    # 2) any labeled patterns in text
+    # 2) labeled patterns in free text
     text = soup.get_text("\n", strip=True)
     for pat in PRICE_PATTERNS:
         m = pat.search(text)
@@ -80,7 +76,6 @@ def parse_price_from_soup(soup: BeautifulSoup) -> int | None:
 
 
 def extract_table_rows(soup: BeautifulSoup):
-    """Extract the main loot table and parse cell + link data."""
     table = soup.find("table")
     if not table:
         raise RuntimeError("No table found on Loot page")
@@ -112,6 +107,26 @@ def extract_table_rows(soup: BeautifulSoup):
         })
 
     return headers, rows
+
+
+def qty_for_title_in_text(title: str, text: str) -> int:
+    """
+    Find 'Nx <Title>' where x can be 'x' or '×', with optional spaces.
+    Examples: '2x ARC Powercell', '3 × Wires', '12 x Metal Parts'
+    Defaults to 1 if not found.
+    """
+    # Escape title as literal for regex search
+    t = re.escape(title)
+    # Look for the closest 'number x' directly before the title
+    # Use a small lookbehind window to avoid matching numbers far away.
+    pat = re.compile(rf"(\d+)\s*[x×]\s*{t}", re.IGNORECASE)
+    m = pat.search(text)
+    if m:
+        try:
+            return int(m.group(1))
+        except ValueError:
+            pass
+    return 1
 
 
 def main():
@@ -159,13 +174,15 @@ def main():
         recycled_sum = 0
         found_any = False
         if recycles_idx is not None and recycles_idx < len(links):
+            cell_text = cells[recycles_idx]
             for lk in links[recycles_idx]:
                 item_url = f"{args.base_url}{lk['href']}"
                 html = cached_get(item_url, force=force)
                 s = BeautifulSoup(html, "lxml")
                 p = parse_price_from_soup(s)
                 if p is not None:
-                    recycled_sum += p
+                    q = qty_for_title_in_text(lk["title"], cell_text)
+                    recycled_sum += p * q
                     found_any = True
         recycled_price = recycled_sum if found_any else None
 
