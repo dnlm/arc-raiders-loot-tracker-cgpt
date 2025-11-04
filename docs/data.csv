@@ -180,7 +180,7 @@ Syringe,Rare,3x Plastic Parts 2x Chemicals,500,Topside Material,,280,Sell
 Tattered ARC Lining,Uncommon,12x Fabric,640,Recyclable,,600,Sell
 Tattered Clothes,Uncommon,11x Fabric,270,Recyclable,,550,Recycle
 Thermostat,Rare,6x Rubber Parts 2x Sensors,"1,000",Recyclable,,1300,Recycle
-Tick Pod,Uncommon,1x ARC Alloy 1x Metal Parts,640,Recyclable,8x Workshop,275,Sell
+Tick Pod,Uncommon,1x Chemicals 1x Metal Parts,640,Recyclable,8x Workshop,125,Sell
 Toaster,Rare,5x Plastic Parts 3x Wires,"1,000",Recyclable,3x Workshop,900,Sell
 Torn Book,Common,Cannot be recycled,"1,000",Trinket,,,Unknown
 Torn Blanket,Rare,12x Fabric,640,Recyclable,,600,Sell
@@ -192,5 +192,5 @@ Volcanic Rock,Common,Cannot be recycled,270,Misc,,,Unknown
 Voltage Converter,Rare,1x Wires 1x Rubber Parts,500,Topside Material,,250,Sell
 Wasp Driver,Rare,1x ARC Alloy 1x Electrical Components,"1,000",Recyclable,8x Workshop,840,Sell
 Water Filter,Rare,2x Rubber Parts 3x Canister,"1,000",Recyclable,,1000,Sell
-Water Pump,Rare,4x Metal Parts 2x Oil,"1,000",Recyclable,,900,Sell
+Water Pump,Rare,4x Metal Parts 2x Oil,"1,000",Recyclable,2x Quest,900,Sell
 Wires,Uncommon,2x Rubber Parts,200,Topside Material,30x Expedition,100,Sell
