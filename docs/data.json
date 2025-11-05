@@ -342,7 +342,7 @@
     ],
     [
       "Buried City Hospital Key",
-      "Uncommon",
+      "Rare",
       "Cannot be recycled",
       "100",
       "Key",
@@ -372,7 +372,7 @@
     ],
     [
       "Buried City Town Hall Key",
-      "Uncommon",
+      "Epic",
       "Cannot be recycled",
       "100",
       "Key",
@@ -444,7 +444,7 @@
       "Coffee Pot",
       "Common",
       "Cannot be recycled",
-      "2,000",
+      "1,000",
       "Trinket",
       "",
       "",
@@ -522,7 +522,7 @@
     ],
     [
       "Dam Control Tower Key",
-      "Uncommon",
+      "Epic",
       "Cannot be recycled",
       "100",
       "Key",
@@ -863,12 +863,12 @@
     [
       "Garlic Press",
       "Uncommon",
-      "14x Metal Parts",
+      "12x Metal Parts",
       "1,000",
       "Recyclable",
       "",
-      "1050",
-      "Recycle"
+      "900",
+      "Sell"
     ],
     [
       "Great Mullein",
@@ -1026,7 +1026,7 @@
       "Cannot be recycled",
       "2,000",
       "Trinket",
-      "",
+      "5x Expedition",
       "",
       "Unknown"
     ],
@@ -1189,16 +1189,6 @@
       "6x Scrappy",
       "200",
       "Sell"
-    ],
-    [
-      "Outskirts Bunker Key",
-      "Rare",
-      "Cannot be recycled",
-      "100",
-      "Key",
-      "",
-      "",
-      "Unknown"
     ],
     [
       "Painted Box",
@@ -1672,7 +1662,7 @@
     ],
     [
       "Spaceport Container Storage Key",
-      "Uncommon",
+      "Rare",
       "Cannot be recycled",
       "100",
       "Key",
@@ -1681,8 +1671,8 @@
       "Unknown"
     ],
     [
-      "Spaceport Ground Control Key",
-      "Uncommon",
+      "Spaceport Control Tower Key",
+      "Rare",
       "Cannot be recycled",
       "100",
       "Key",
@@ -1724,11 +1714,11 @@
       "Spring Cushion",
       "Rare",
       "2x Durable Cloth 2x Steel Spring",
-      "1,000",
+      "2,000",
       "Recyclable",
       "",
       "1880",
-      "Recycle"
+      "Sell"
     ],
     [
       "Spotter Relay",
@@ -1961,5 +1951,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-04T02:59:40Z"
+  "generated_at": "2025-11-05T03:00:00Z"
 }

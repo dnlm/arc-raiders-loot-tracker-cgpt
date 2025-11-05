@@ -32,17 +32,17 @@ Broken Flashlight,Rare,3x Battery 7x Metal Parts,"1,000",Recyclable,,1275,Recycl
 Broken Guidance System,Rare,4x Processor,"2,000",Recyclable,,2000,Sell
 Broken Handheld Radio,Rare,3x Sensors 3x Wires,"1,000",Recyclable,,2100,Recycle
 Broken Taser,Rare,2x Battery 2x Wires,"1,000",Recyclable,,900,Sell
-Buried City Hospital Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
+Buried City Hospital Key,Rare,Cannot be recycled,100,Key,,,Unknown
 Buried City JKV Employee Access Card,Uncommon,Cannot be recycled,100,Key,,,Unknown
 Buried City Residential Mastery Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
-Buried City Town Hall Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
+Buried City Town Hall Key,Epic,Cannot be recycled,100,Key,,,Unknown
 Burned ARC Circuitry,Uncommon,2x ARC Alloy,640,Recyclable,,400,Sell
 Camera Lens,Uncommon,8x Plastic Parts,640,Recyclable,,480,Sell
 Candle Holder,Uncommon,8x Metal Parts,270,Recyclable,,600,Recycle
 Canister,Uncommon,3x Plastic Parts,300,Topside Material,,180,Sell
 Cat Bed,Common,Cannot be recycled,"1,000",Trinket,1x Scrappy,,Unknown
 Chemicals,Common,Cannot be recycled,50,Basic Material,50x Workshop,,Unknown
-Coffee Pot,Common,Cannot be recycled,"2,000",Trinket,,,Unknown
+Coffee Pot,Common,Cannot be recycled,"1,000",Trinket,,,Unknown
 Complex Gun Parts,Epic,3x Simple Gun Parts,"1,000",Topside Material,,990,Sell
 Coolant,Rare,5x Chemicals 2x Oil,"1,000",Recyclable,,850,Sell
 Cooling Coil,Rare,6x Chemicals 2x Steel Spring,"1,000",Recyclable,,900,Sell
@@ -50,7 +50,7 @@ Cooling Fan,Rare,14x Plastic Parts 4x Battery,"2,000",Recyclable,5x Expedition,1
 Cracked Bioscanner,Rare,3x Rubber Parts 5x Battery,"1,000",Recyclable,2x Workshop,1400,Recycle
 Crude Explosives,Uncommon,3x Chemicals,270,Refined Material,5x Workshop,150,Sell
 Crumpled Plastic Bottle,Uncommon,3x Plastic Parts,80,Recyclable,,180,Recycle
-Dam Control Tower Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
+Dam Control Tower Key,Epic,Cannot be recycled,100,Key,,,Unknown
 Dam Staff Room Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
 Dam Surveillance Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
 Dam Testing Annex Key,Rare,Cannot be recycled,100,Key,,,Unknown
@@ -84,7 +84,7 @@ Fine Wristwatch,Common,Cannot be recycled,"3,000",Trinket,,,Unknown
 Fireball Burner,Uncommon,1x ARC Alloy 1x Chemicals,640,Recyclable,8x Workshop,250,Sell
 Fried Motherboard,Rare,5x Plastic Parts 1x Electrical Components,"2,000",Recyclable,3x Workshop,940,Sell
 Frying Pan,Rare,8x Metal Parts,270,Recyclable,,600,Recycle
-Garlic Press,Uncommon,14x Metal Parts,"1,000",Recyclable,,1050,Recycle
+Garlic Press,Uncommon,12x Metal Parts,"1,000",Recyclable,,900,Sell
 Great Mullein,Uncommon,4x Assorted Seeds,300,Topside Material,,400,Recycle
 Headphones,Rare,6x Rubber Parts 2x Speaker Component,"1,000",Recyclable,,1300,Recycle
 Heavy Gun Parts,Rare,2x Simple Gun Parts,700,Topside Material,,660,Sell
@@ -100,7 +100,7 @@ Laboratory Reagents,Rare,2x Chemicals 2x Crude Explosives,"2,000",Recyclable,3x 
 Lance's Mixtape (5th Edition),Epic,Cannot be recycled,"10,000",Trinket,,,Unknown
 Lemon,Common,3x Assorted Seeds,640,Nature,3x Scrappy,300,Sell
 Leaper Pulse Unit,Epic,2x Advanced Mechanical Components 3x ARC Alloy,"5,000",Recyclable,3x Expedition 4x Workshop,4100,Sell
-Light Bulb,Uncommon,Cannot be recycled,"2,000",Trinket,,,Unknown
+Light Bulb,Uncommon,Cannot be recycled,"2,000",Trinket,5x Expedition,,Unknown
 Light Gun Parts,Rare,2x Simple Gun Parts,700,Topside Material,,660,Sell
 Magnet,Uncommon,3x Metal Parts,300,Topside Material,,225,Sell
 Magnetic Accelerator,Epic,1x Advanced Mechanical Components 1x ARC Motion Core,"5,500",Refined Material,3x Expedition,2750,Sell
@@ -117,7 +117,6 @@ Music Box,Rare,Cannot be recycled,"5,000",Trinket,,,Unknown
 Number Plate,Uncommon,3x Metal Parts,80,Recyclable,,225,Recycle
 Oil,Uncommon,3x Chemicals,300,Topside Material,,150,Sell
 Olives,Common,2x Assorted Seeds,640,Nature,6x Scrappy,200,Sell
-Outskirts Bunker Key,Rare,Cannot be recycled,100,Key,,,Unknown
 Painted Box,Common,Cannot be recycled,"2,000",Trinket,,,Unknown
 Patrol Car Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
 Plastic Parts,Common,Cannot be recycled,60,Basic Material,75x Workshop,,Unknown
@@ -165,12 +164,12 @@ Sentinel Firing Core,Rare,2x ARC Alloy 3x Mechanical Components,"3,000",Recyclab
 Silver Teaspoon Set,Common,Cannot be recycled,"3,000",Trinket,,,Unknown
 Simple Gun Parts,Uncommon,2x Metal Parts,330,Topside Material,,150,Sell
 Snitch Scanner,Uncommon,4x ARC Alloy 2x Electrical Components,"2,000",Recyclable,6x Workshop,2080,Recycle
-Spaceport Container Storage Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
-Spaceport Ground Control Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
+Spaceport Container Storage Key,Rare,Cannot be recycled,100,Key,,,Unknown
+Spaceport Control Tower Key,Rare,Cannot be recycled,100,Key,,,Unknown
 Spaceport Trench Tower Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
 Spaceport Warehouse Key,Uncommon,Cannot be recycled,100,Key,,,Unknown
 Speaker Component,Rare,2x Plastic Parts 2x Rubber Parts,500,Topside Material,,220,Sell
-Spring Cushion,Rare,2x Durable Cloth 2x Steel Spring,"1,000",Recyclable,,1880,Recycle
+Spring Cushion,Rare,2x Durable Cloth 2x Steel Spring,"2,000",Recyclable,,1880,Sell
 Spotter Relay,Uncommon,2x Electrical Components 1x ARC Alloy,"5,000",Recyclable,,1480,Sell
 Statuette,Common,Cannot be recycled,"3,000",Trinket,,,Unknown
 Steel Spring,Uncommon,3x Metal Parts,300,Topside Material,15x Expedition,225,Sell
