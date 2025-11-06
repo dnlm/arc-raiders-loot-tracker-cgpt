@@ -6,7 +6,7 @@
 | Agave | Uncommon | 3x Assorted Seeds | 1,000 | Nature |  | 300 | Sell |
 | Air Freshener | Common | Cannot be recycled | 2,000 | Trinket |  |  | Unknown |
 | Alarm Clock | Rare | 1x Processor 6x Plastic Parts | 1,000 | Recyclable |  | 860 | Sell |
-| Antiseptic | Rare | 10x Chemicals | 1,000 | Refined Material | 8x Workshop | 500 | Sell |
+| Antiseptic | Rare | 10x Chemicals | 1,000 | Refined Material | 8x Workshop 2x Quest | 500 | Sell |
 | Apricot | Uncommon | 3x Assorted Seeds | 640 | Nature | 15x Scrappy | 300 | Sell |
 | ARC Alloy | Uncommon | 2x Metal Parts | 200 | Topside Material | 18x Workshop 80x Expedition | 150 | Sell |
 | ARC Circuitry | Rare | 2x ARC Alloy | 1,000 | Topside Material | 10x Workshop | 400 | Sell |
@@ -38,6 +38,7 @@
 | Buried City Residential Mastery Key | Uncommon | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Buried City Town Hall Key | Epic | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Burned ARC Circuitry | Uncommon | 2x ARC Alloy | 640 | Recyclable |  | 400 | Sell |
+| Burned Tick Pod | Common | ? | ? | Recyclable |  |  | Unknown |
 | Camera Lens | Uncommon | 8x Plastic Parts | 640 | Recyclable |  | 480 | Sell |
 | Candle Holder | Uncommon | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
 | Canister | Uncommon | 3x Plastic Parts | 300 | Topside Material |  | 180 | Sell |
@@ -62,6 +63,7 @@
 | Damaged Heat Sink | Rare | 6x Metal Parts 2x Wires | 1,000 | Recyclable | 2x Workshop | 850 | Sell |
 | Damaged Hornet Driver | Common | 2x ARC Alloy | 640 | Recyclable |  | 400 | Sell |
 | Damaged Rocketeer Driver | Common | 3x ARC Alloy | 2,000 | Recyclable |  | 600 | Sell |
+| Damaged Snitch Scanner | Common | - | 659 | Recyclable |  |  | Unknown |
 | Damaged Wasp Driver | Common | 1x ARC Alloy | 270 | Recyclable |  | 200 | Sell |
 | Dart Board | Uncommon | Cannot be recycled | 2,000 | Trinket |  |  | Unknown |
 | Deflated Football | Uncommon | 15x Rubber Parts | 1,000 | Recyclable |  | 750 | Sell |
@@ -70,7 +72,7 @@
 | Dog Collar | Rare | 8x Fabric 1x Metal Parts | 270 | Recyclable | 1x Workshop | 475 | Recycle |
 | Dried-Out ARC Resin | Uncommon | 9x Plastic Parts | 640 | Recyclable |  | 540 | Sell |
 | Duct Tape | Uncommon | 3x Fabric | 300 | Topside Material |  | 150 | Sell |
-| Durable Cloth | Uncommon | 6x Fabric | 640 | Refined Material | 5x Workshop 35x Expedition | 300 | Sell |
+| Durable Cloth | Uncommon | 6x Fabric | 640 | Refined Material | 5x Workshop 35x Expedition 1x Quest | 300 | Sell |
 | Electrical Components | Uncommon | 3x Plastic Parts 3x Rubber Parts | 640 | Refined Material | 10x Workshop 30x Expedition | 330 | Sell |
 | Empty Wine Bottle | Common | Cannot be recycled | 1,000 | Trinket |  |  | Unknown |
 | Exodus Modules | Epic | 2x Magnet 1x Mechanical Components | 2,750 | Topside Material |  | 2600 | Sell |
@@ -86,7 +88,7 @@
 | Fried Motherboard | Rare | 5x Plastic Parts 1x Electrical Components | 2,000 | Recyclable | 3x Workshop | 940 | Sell |
 | Frying Pan | Rare | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
 | Garlic Press | Uncommon | 12x Metal Parts | 1,000 | Recyclable |  | 900 | Sell |
-| Great Mullein | Uncommon | 4x Assorted Seeds | 300 | Topside Material |  | 400 | Recycle |
+| Great Mullein | Uncommon | 4x Assorted Seeds | 300 | Topside Material | 1x Quest | 400 | Recycle |
 | Headphones | Rare | 6x Rubber Parts 2x Speaker Component | 1,000 | Recyclable |  | 1300 | Recycle |
 | Heavy Gun Parts | Rare | 2x Simple Gun Parts | 700 | Topside Material |  | 660 | Sell |
 | Hornet Driver | Rare | 2x ARC Alloy 2x Electrical Components | 2,000 | Recyclable | 5x Workshop | 1680 | Sell |
@@ -105,11 +107,11 @@
 | Light Gun Parts | Rare | 2x Simple Gun Parts | 700 | Topside Material |  | 660 | Sell |
 | Magnet | Uncommon | 3x Metal Parts | 300 | Topside Material |  | 225 | Sell |
 | Magnetic Accelerator | Epic | 1x Advanced Mechanical Components 1x ARC Motion Core | 5,500 | Refined Material | 3x Expedition | 2750 | Sell |
-| Mechanical Components | Rare | 8x Metal Parts 2x Steel Spring | 2,000 | Refined Material | 5x Workshop | 1200 | Sell |
+| Mechanical Components | Rare | 3x Metal Parts 2x Rubber Parts | 2,000 | Refined Material | 5x Workshop | 325 | Sell |
 | Medium Gun Parts | Rare | 2x Simple Gun Parts | 700 | Topside Material |  | 660 | Sell |
 | Metal Brackets | Uncommon | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
 | Metal Parts | Common | Cannot be recycled | 75 | Basic Material | 80x Workshop 150x Expedition |  | Unknown |
-| Mod Components | Epic | 4x Steel Spring 3x ARC Alloy | 3,000 | Advanced Material |  | 1800 | Sell |
+| Mod Components | Epic | 1x Mechanical Components 1x Steel Spring | 3,000 | Advanced Material |  | 2300 | Sell |
 | Moss | Rare | 5x Chemicals | 500 | Topside Material |  | 250 | Sell |
 | Motor | Rare | 2x Oil 2x Mechanical Components | 1,000 | Recyclable | 3x Workshop | 4600 | Recycle |
 | Mushroom | Uncommon | Cannot be recycled | 1,000 | Nature | 12x Scrappy |  | Unknown |
@@ -134,7 +136,7 @@
 | Processor | Rare | 1x Wires 1x Plastic Parts | 500 | Topside Material |  | 260 | Sell |
 | Projector | Rare | 1x Processor 2x Wires | 640 | Recyclable |  | 900 | Recycle |
 | Queen Reactor | Legendary | 1x Power Rod 1x Magnetic Accelerator | 13,000 | Recyclable |  | 11000 | Sell |
-| Radio | Rare | 1x Speaker Component 2x Sensors | 1,000 | Recyclable |  | 1500 | Recycle |
+| Radio | Rare | 1x Speaker Component 1x Sensors | 1,000 | Recyclable |  | 1000 | Sell |
 | Raider Hatch Key | Rare | Cannot be recycled | 1,000 | Key |  |  | Unknown |
 | Red Coral Jewelry | Rare | Cannot be recycled | 5,000 | Trinket |  |  | Unknown |
 | Remote Control | Uncommon | 2x Plastic Parts 1x Sensors | 1,000 | Recyclable |  | 620 | Sell |
@@ -174,9 +176,9 @@
 | Spotter Relay | Uncommon | 2x Electrical Components 1x ARC Alloy | 5,000 | Recyclable |  | 1480 | Sell |
 | Statuette | Common | Cannot be recycled | 3,000 | Trinket |  |  | Unknown |
 | Steel Spring | Uncommon | 3x Metal Parts | 300 | Topside Material | 15x Expedition | 225 | Sell |
-| Surveyor Vault | Rare | 2x Mechanical Components 2x ARC Alloy | 2,000 | Topside Material | 5x Workshop | 4400 | Recycle |
+| Surveyor Vault | Rare | 2x Mechanical Components 2x ARC Alloy | 2,000 | Topside Material | 5x Workshop 1x Quest | 4400 | Recycle |
 | Synthesized Fuel | Rare | 1x Oil 1x Plastic Parts | 700 | Topside Material | 3x Workshop | 360 | Sell |
-| Syringe | Rare | 3x Plastic Parts 2x Chemicals | 500 | Topside Material |  | 280 | Sell |
+| Syringe | Rare | 3x Plastic Parts 2x Chemicals | 500 | Topside Material | 1x Quest | 280 | Sell |
 | Tattered ARC Lining | Uncommon | 12x Fabric | 640 | Recyclable |  | 600 | Sell |
 | Tattered Clothes | Uncommon | 11x Fabric | 270 | Recyclable |  | 550 | Recycle |
 | Thermostat | Rare | 6x Rubber Parts 2x Sensors | 1,000 | Recyclable |  | 1300 | Recycle |
@@ -193,4 +195,4 @@
 | Wasp Driver | Rare | 1x ARC Alloy 1x Electrical Components | 1,000 | Recyclable | 8x Workshop | 840 | Sell |
 | Water Filter | Rare | 2x Rubber Parts 3x Canister | 1,000 | Recyclable |  | 1000 | Sell |
 | Water Pump | Rare | 4x Metal Parts 2x Oil | 1,000 | Recyclable | 2x Quest | 900 | Sell |
-| Wires | Uncommon | 2x Rubber Parts | 200 | Topside Material | 30x Expedition | 100 | Sell |
+| Wires | Uncommon | 2x Rubber Parts | 200 | Topside Material | 30x Expedition 3x Quest | 100 | Sell |

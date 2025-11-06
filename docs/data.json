@@ -76,7 +76,7 @@
       "10x Chemicals",
       "1,000",
       "Refined Material",
-      "8x Workshop",
+      "8x Workshop 2x Quest",
       "500",
       "Sell"
     ],
@@ -391,6 +391,16 @@
       "Sell"
     ],
     [
+      "Burned Tick Pod",
+      "Common",
+      "?",
+      "?",
+      "Recyclable",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
       "Camera Lens",
       "Uncommon",
       "8x Plastic Parts",
@@ -631,6 +641,16 @@
       "Sell"
     ],
     [
+      "Damaged Snitch Scanner",
+      "Common",
+      "-",
+      "659",
+      "Recyclable",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
       "Damaged Wasp Driver",
       "Common",
       "1x ARC Alloy",
@@ -716,7 +736,7 @@
       "6x Fabric",
       "640",
       "Refined Material",
-      "5x Workshop 35x Expedition",
+      "5x Workshop 35x Expedition 1x Quest",
       "300",
       "Sell"
     ],
@@ -876,7 +896,7 @@
       "4x Assorted Seeds",
       "300",
       "Topside Material",
-      "",
+      "1x Quest",
       "400",
       "Recycle"
     ],
@@ -1063,11 +1083,11 @@
     [
       "Mechanical Components",
       "Rare",
-      "8x Metal Parts 2x Steel Spring",
+      "3x Metal Parts 2x Rubber Parts",
       "2,000",
       "Refined Material",
       "5x Workshop",
-      "1200",
+      "325",
       "Sell"
     ],
     [
@@ -1103,11 +1123,11 @@
     [
       "Mod Components",
       "Epic",
-      "4x Steel Spring 3x ARC Alloy",
+      "1x Mechanical Components 1x Steel Spring",
       "3,000",
       "Advanced Material",
       "",
-      "1800",
+      "2300",
       "Sell"
     ],
     [
@@ -1353,12 +1373,12 @@
     [
       "Radio",
       "Rare",
-      "1x Speaker Component 2x Sensors",
+      "1x Speaker Component 1x Sensors",
       "1,000",
       "Recyclable",
       "",
-      "1500",
-      "Recycle"
+      "1000",
+      "Sell"
     ],
     [
       "Raider Hatch Key",
@@ -1756,7 +1776,7 @@
       "2x Mechanical Components 2x ARC Alloy",
       "2,000",
       "Topside Material",
-      "5x Workshop",
+      "5x Workshop 1x Quest",
       "4400",
       "Recycle"
     ],
@@ -1776,7 +1796,7 @@
       "3x Plastic Parts 2x Chemicals",
       "500",
       "Topside Material",
-      "",
+      "1x Quest",
       "280",
       "Sell"
     ],
@@ -1946,10 +1966,10 @@
       "2x Rubber Parts",
       "200",
       "Topside Material",
-      "30x Expedition",
+      "30x Expedition 3x Quest",
       "100",
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-05T03:00:00Z"
+  "generated_at": "2025-11-06T03:00:33Z"
 }
