@@ -129,7 +129,7 @@
 | Portable TV | Rare | 2x Battery 6x Wires | 2,000 | Recyclable |  | 1700 | Sell |
 | Poster of Natural Wonders | Uncommon | Cannot be recycled | 2,000 | Trinket |  |  | Unknown |
 | Pottery | Uncommon | Cannot be recycled | 2,000 | Trinket |  |  | Unknown |
-| Power Bank | Rare | 4x Battery 2x Wires | 1,000 | Recyclable |  | 1400 | Recycle |
+| Power Bank | Rare | 2x Battery 2x Wires | 1,000 | Recyclable |  | 900 | Sell |
 | Power Cable | Rare | 4x Wires | 1,000 | Recyclable | 3x Workshop | 800 | Sell |
 | Power Rod | Epic | 1x Advanced Electrical Components 1x ARC Circuitry | 5,500 | Advanced Material |  | 2750 | Sell |
 | Prickly Pear | Common | 3x Assorted Seeds | 640 | Nature | 6x Scrappy | 300 | Sell |

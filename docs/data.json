@@ -1303,12 +1303,12 @@
     [
       "Power Bank",
       "Rare",
-      "4x Battery 2x Wires",
+      "2x Battery 2x Wires",
       "1,000",
       "Recyclable",
       "",
-      "1400",
-      "Recycle"
+      "900",
+      "Sell"
     ],
     [
       "Power Cable",
@@ -1971,5 +1971,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-06T03:00:33Z"
+  "generated_at": "2025-11-07T02:59:54Z"
 }
