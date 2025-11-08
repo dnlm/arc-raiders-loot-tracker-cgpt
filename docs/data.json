@@ -52,7 +52,7 @@
     ],
     [
       "Air Freshener",
-      "Common",
+      "Uncommon",
       "Cannot be recycled",
       "2,000",
       "Trinket",
@@ -186,7 +186,7 @@
       "Cannot be recycled",
       "100",
       "Nature",
-      "",
+      "Currency for Celeste",
       "",
       "Unknown"
     ],
@@ -1493,12 +1493,12 @@
     [
       "Rubber Pad",
       "Rare",
-      "22x Rubber Parts",
+      "18x Rubber Parts",
       "1,000",
       "Recyclable",
       "",
-      "1100",
-      "Recycle"
+      "900",
+      "Sell"
     ],
     [
       "Rubber Parts",
@@ -1971,5 +1971,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-07T02:59:54Z"
+  "generated_at": "2025-11-08T02:53:24Z"
 }
