@@ -206,7 +206,7 @@
       "2x Metal Parts",
       "250",
       "Topside Material",
-      "",
+      "30x Expedition",
       "150",
       "Sell"
     ],
@@ -926,7 +926,7 @@
       "2x ARC Alloy 2x Electrical Components",
       "2,000",
       "Recyclable",
-      "5x Workshop",
+      "5x Workshop 2x Quest",
       "1680",
       "Sell"
     ],
@@ -1971,5 +1971,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-08T02:53:24Z"
+  "generated_at": "2025-11-09T03:00:18Z"
 }

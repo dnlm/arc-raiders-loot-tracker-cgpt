@@ -18,7 +18,7 @@ ARC Synthetic Resin,Rare,14x Plastic Parts,"1,000",Recyclable,,840,Sell
 ARC Thermo Lining,Rare,16x Fabric,"1,000",Recyclable,,800,Sell
 Assorted Seeds,Common,Cannot be recycled,100,Nature,Currency for Celeste,,Unknown
 Bastion Cell,Epic,2x ARC Motion Core 2x Advanced Mechanical Components,"5,000",Recyclable,6x Workshop,5500,Recycle
-Battery,Uncommon,2x Metal Parts,250,Topside Material,,150,Sell
+Battery,Uncommon,2x Metal Parts,250,Topside Material,30x Expedition,150,Sell
 Bicycle Pump,Rare,4x Canister 10x Metal Parts,"2,000",Recyclable,,1950,Sell
 Bloated Tuna Can,Common,Cannot be recycled,"1,000",Trinket,,,Unknown
 Blown Fuses,Common,Cannot be recycled,?,Trinket,,,Unknown
@@ -90,7 +90,7 @@ Garlic Press,Uncommon,12x Metal Parts,"1,000",Recyclable,,900,Sell
 Great Mullein,Uncommon,4x Assorted Seeds,300,Topside Material,1x Quest,400,Recycle
 Headphones,Rare,6x Rubber Parts 2x Speaker Component,"1,000",Recyclable,,1300,Recycle
 Heavy Gun Parts,Rare,2x Simple Gun Parts,700,Topside Material,,660,Sell
-Hornet Driver,Rare,2x ARC Alloy 2x Electrical Components,"2,000",Recyclable,5x Workshop,1680,Sell
+Hornet Driver,Rare,2x ARC Alloy 2x Electrical Components,"2,000",Recyclable,5x Workshop 2x Quest,1680,Sell
 Household Cleaner,Uncommon,13x Chemicals,640,Recyclable,,650,Recycle
 Humidifier,Rare,2x Canister 2x Wires,1000,Recyclable,5x Expedition,1000,Sell
 Ice Cream Scooper,Uncommon,7x Metal Parts,640,Recyclable,,525,Sell
