@@ -38,7 +38,6 @@
 | Buried City Residential Mastery Key | Uncommon | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Buried City Town Hall Key | Epic | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Burned ARC Circuitry | Uncommon | 2x ARC Alloy | 640 | Recyclable |  | 400 | Sell |
-| Burned Tick Pod | Common | ? | ? | Recyclable |  |  | Unknown |
 | Camera Lens | Uncommon | 8x Plastic Parts | 640 | Recyclable |  | 480 | Sell |
 | Candle Holder | Uncommon | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
 | Canister | Uncommon | 3x Plastic Parts | 300 | Topside Material |  | 180 | Sell |
@@ -58,12 +57,13 @@
 | Dam Testing Annex Key | Rare | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Dam Utility Key | Uncommon | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Damaged ARC Motion Core | Uncommon | 2x ARC Alloy | 640 | Recyclable |  | 400 | Sell |
-| Damaged ARC Powercell | Uncommon | 1x ARC Alloy | 293 | Recyclable |  | 200 | Sell |
+| Damaged ARC Powercell | Common | 1x ARC Alloy | 293 | Recyclable |  | 200 | Sell |
 | Damaged Fireball Burner | Common | 1x ARC Alloy | 270 | Recyclable |  | 200 | Sell |
 | Damaged Heat Sink | Rare | 6x Metal Parts 2x Wires | 1,000 | Recyclable | 2x Workshop | 850 | Sell |
 | Damaged Hornet Driver | Common | 2x ARC Alloy | 640 | Recyclable |  | 400 | Sell |
 | Damaged Rocketeer Driver | Common | 3x ARC Alloy | 2,000 | Recyclable |  | 600 | Sell |
 | Damaged Snitch Scanner | Common | - | 659 | Recyclable |  |  | Unknown |
+| Damaged Tick Pod | Common | 1x ARC Alloy | 270 | Recyclable |  | 200 | Sell |
 | Damaged Wasp Driver | Common | 1x ARC Alloy | 270 | Recyclable |  | 200 | Sell |
 | Dart Board | Uncommon | Cannot be recycled | 2,000 | Trinket |  |  | Unknown |
 | Deflated Football | Uncommon | 15x Rubber Parts | 1,000 | Recyclable |  | 750 | Sell |

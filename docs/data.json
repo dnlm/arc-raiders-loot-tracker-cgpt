@@ -391,16 +391,6 @@
       "Sell"
     ],
     [
-      "Burned Tick Pod",
-      "Common",
-      "?",
-      "?",
-      "Recyclable",
-      "",
-      "",
-      "Unknown"
-    ],
-    [
       "Camera Lens",
       "Uncommon",
       "8x Plastic Parts",
@@ -592,7 +582,7 @@
     ],
     [
       "Damaged ARC Powercell",
-      "Uncommon",
+      "Common",
       "1x ARC Alloy",
       "293",
       "Recyclable",
@@ -649,6 +639,16 @@
       "",
       "",
       "Unknown"
+    ],
+    [
+      "Damaged Tick Pod",
+      "Common",
+      "1x ARC Alloy",
+      "270",
+      "Recyclable",
+      "",
+      "200",
+      "Sell"
     ],
     [
       "Damaged Wasp Driver",
@@ -1971,5 +1971,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-09T03:00:18Z"
+  "generated_at": "2025-11-10T03:01:59Z"
 }
