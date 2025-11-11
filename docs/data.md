@@ -75,15 +75,15 @@
 | Durable Cloth | Uncommon | 6x Fabric | 640 | Refined Material | 5x Workshop 35x Expedition 1x Quest | 300 | Sell |
 | Electrical Components | Uncommon | 3x Plastic Parts 3x Rubber Parts | 640 | Refined Material | 10x Workshop 30x Expedition | 330 | Sell |
 | Empty Wine Bottle | Common | Cannot be recycled | 1,000 | Trinket |  |  | Unknown |
-| Exodus Modules | Epic | 2x Magnet 1x Mechanical Components | 2,750 | Topside Material |  | 2600 | Sell |
+| Exodus Modules | Epic | 2x Magnet 1x Mechanical Components | 2,750 | Topside Material | 1x Expedition | 2600 | Sell |
 | Expired Pasta | Common | Cannot be recycled | 1,000 | Trinket |  |  | Unknown |
 | Expired Respirator | Rare | 8x Rubber Parts 4x Fabric | 640 | Recyclable |  | 600 | Sell |
 | Explosive Compound | Rare | 2x Crude Explosives | 1,000 | Refined Material | 5x Workshop | 540 | Sell |
 | Fabric | Common | Cannot be recycled | 50 | Basic Material | 80x Workshop |  | Unknown |
 | Faded Photograph | Common | Cannot be recycled | 640 | Trinket | 2x Quest |  | Unknown |
 | Fertilizer | Uncommon | 2x Assorted Seeds | 1,000 | Nature |  | 200 | Sell |
-| Film Reel | Common | Cannot be recycled | 2,000 | Trinket | 1x Quest |  | Unknown |
-| Fine Wristwatch | Common | Cannot be recycled | 3,000 | Trinket |  |  | Unknown |
+| Film Reel | Rare | Cannot be recycled | 2,000 | Trinket | 1x Quest |  | Unknown |
+| Fine Wristwatch | Rare | Cannot be recycled | 3,000 | Trinket |  |  | Unknown |
 | Fireball Burner | Uncommon | 1x ARC Alloy 1x Chemicals | 640 | Recyclable | 8x Workshop | 250 | Sell |
 | Fried Motherboard | Rare | 5x Plastic Parts 1x Electrical Components | 2,000 | Recyclable | 3x Workshop | 940 | Sell |
 | Frying Pan | Rare | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
@@ -112,7 +112,7 @@
 | Metal Brackets | Uncommon | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
 | Metal Parts | Common | Cannot be recycled | 75 | Basic Material | 80x Workshop 150x Expedition |  | Unknown |
 | Mod Components | Epic | 1x Mechanical Components 1x Steel Spring | 3,000 | Advanced Material |  | 2300 | Sell |
-| Moss | Rare | 5x Chemicals | 500 | Topside Material |  | 250 | Sell |
+| Moss | Rare | 3x Assorted Seeds | 500 | Topside Material |  | 300 | Sell |
 | Motor | Rare | 2x Oil 2x Mechanical Components | 1,000 | Recyclable | 3x Workshop | 4600 | Recycle |
 | Mushroom | Uncommon | Cannot be recycled | 1,000 | Nature | 12x Scrappy |  | Unknown |
 | Music Album | Rare | Cannot be recycled | 3,000 | Trinket |  |  | Unknown |
@@ -156,13 +156,13 @@
 | Ruined Handcuffs | Uncommon | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
 | Ruined Parachute | Uncommon | 10x Fabric | 640 | Recyclable |  | 500 | Sell |
 | Ruined Tactical Vest | Uncommon | 5x Fabric 1x Magnet | 640 | Recyclable |  | 550 | Sell |
-| Ruined Riot Shield | Rare | 10x Plastic Parts 6x Rubber Parts | 2,000 | Recyclable |  | 900 | Sell |
+| Ruined Riot Shield | Rare | 10x Plastic Parts 6x Rubber Parts | 1,000 | Recyclable |  | 900 | Sell |
 | Rusted Bolts | Uncommon | 8x Metal Parts | 640 | Recyclable |  | 600 | Sell |
 | Rusted Gear | Rare | 4x Metal Parts 2x Mechanical Components | 2,000 | Recyclable | 3x Workshop | 4300 | Recycle |
 | Rusted Shut Medical Kit | Rare | 2x Syringe 1x Antiseptic | 1,000 | Recyclable | 3x Workshop | 2000 | Recycle |
 | Rusted Tools | Rare | 8x Metal Parts 1x Steel Spring | 1,000 | Recyclable | 3x Workshop | 900 | Sell |
 | Rusty ARC Steel | Uncommon | 8x Metal Parts | 640 | Recyclable |  | 600 | Sell |
-| Sensors | Rare | 2x Wires 2x Metal Parts | 500 | Topside Material |  | 550 | Recycle |
+| Sensors | Rare | 2x Wires 2x Metal Parts | 500 | Topside Material | 20x Expedition | 550 | Recycle |
 | Sentinel Firing Core | Rare | 2x ARC Alloy 3x Mechanical Components | 3,000 | Recyclable | 4x Workshop | 6400 | Recycle |
 | Silver Teaspoon Set | Common | Cannot be recycled | 3,000 | Trinket |  |  | Unknown |
 | Simple Gun Parts | Uncommon | 2x Metal Parts | 330 | Topside Material |  | 150 | Sell |

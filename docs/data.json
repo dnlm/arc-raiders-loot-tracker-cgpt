@@ -766,7 +766,7 @@
       "2x Magnet 1x Mechanical Components",
       "2,750",
       "Topside Material",
-      "",
+      "1x Expedition",
       "2600",
       "Sell"
     ],
@@ -832,7 +832,7 @@
     ],
     [
       "Film Reel",
-      "Common",
+      "Rare",
       "Cannot be recycled",
       "2,000",
       "Trinket",
@@ -842,7 +842,7 @@
     ],
     [
       "Fine Wristwatch",
-      "Common",
+      "Rare",
       "Cannot be recycled",
       "3,000",
       "Trinket",
@@ -1133,11 +1133,11 @@
     [
       "Moss",
       "Rare",
-      "5x Chemicals",
+      "3x Assorted Seeds",
       "500",
       "Topside Material",
       "",
-      "250",
+      "300",
       "Sell"
     ],
     [
@@ -1574,7 +1574,7 @@
       "Ruined Riot Shield",
       "Rare",
       "10x Plastic Parts 6x Rubber Parts",
-      "2,000",
+      "1,000",
       "Recyclable",
       "",
       "900",
@@ -1636,7 +1636,7 @@
       "2x Wires 2x Metal Parts",
       "500",
       "Topside Material",
-      "",
+      "20x Expedition",
       "550",
       "Recycle"
     ],
@@ -1971,5 +1971,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-10T03:01:59Z"
+  "generated_at": "2025-11-11T03:00:32Z"
 }
