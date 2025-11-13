@@ -147,7 +147,7 @@
 | Roots | Uncommon | 1x Assorted Seeds | 640 | Nature |  | 100 | Sell |
 | Rope | Rare | 5x Fabric | 500 | Topside Material |  | 250 | Sell |
 | Rosary | Common | Cannot be recycled | 2,000 | Trinket |  |  | Unknown |
-| Rubber Duck | Common | Cannot be recycled | 1,000 | Trinket | 2x  Quest |  | Unknown |
+| Rubber Duck | Common | Cannot be recycled | 1,000 | Trinket |  |  | Unknown |
 | Rubber Pad | Rare | 18x Rubber Parts | 1,000 | Recyclable |  | 900 | Sell |
 | Rubber Parts | Common | Cannot be recycled | 50 | Basic Material | 30x Workshop 200x Expedition |  | Unknown |
 | Ruined Accordion | Rare | 18x Rubber Parts 3x Steel Spring | 2,000 | Recyclable |  | 1800 | Sell |
@@ -159,7 +159,7 @@
 | Ruined Riot Shield | Rare | 10x Plastic Parts 6x Rubber Parts | 1,000 | Recyclable |  | 900 | Sell |
 | Rusted Bolts | Uncommon | 8x Metal Parts | 640 | Recyclable |  | 600 | Sell |
 | Rusted Gear | Rare | 4x Metal Parts 2x Mechanical Components | 2,000 | Recyclable | 3x Workshop | 4300 | Recycle |
-| Rusted Shut Medical Kit | Rare | 2x Syringe 1x Antiseptic | 1,000 | Recyclable | 3x Workshop | 2000 | Recycle |
+| Rusted Shut Medical Kit | Rare | 2x Syringe 1x Antiseptic | 2,000 | Recyclable | 3x Workshop | 2000 | Sell |
 | Rusted Tools | Rare | 8x Metal Parts 1x Steel Spring | 1,000 | Recyclable | 3x Workshop | 900 | Sell |
 | Rusty ARC Steel | Uncommon | 8x Metal Parts | 640 | Recyclable |  | 600 | Sell |
 | Sensors | Rare | 2x Wires 2x Metal Parts | 500 | Topside Material | 20x Expedition | 550 | Recycle |

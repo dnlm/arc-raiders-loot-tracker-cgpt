@@ -1486,7 +1486,7 @@
       "Cannot be recycled",
       "1,000",
       "Trinket",
-      "2x  Quest",
+      "",
       "",
       "Unknown"
     ],
@@ -1604,11 +1604,11 @@
       "Rusted Shut Medical Kit",
       "Rare",
       "2x Syringe 1x Antiseptic",
-      "1,000",
+      "2,000",
       "Recyclable",
       "3x Workshop",
       "2000",
-      "Recycle"
+      "Sell"
     ],
     [
       "Rusted Tools",
@@ -1971,5 +1971,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-12T03:00:02Z"
+  "generated_at": "2025-11-13T03:00:48Z"
 }
