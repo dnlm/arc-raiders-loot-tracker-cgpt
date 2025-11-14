@@ -706,7 +706,7 @@
       "8x Fabric 1x Metal Parts",
       "270",
       "Recyclable",
-      "1x Workshop",
+      "1x Scrappy",
       "475",
       "Recycle"
     ],
@@ -826,7 +826,7 @@
       "2x Assorted Seeds",
       "1,000",
       "Nature",
-      "",
+      "1x Quest",
       "200",
       "Sell"
     ],
@@ -1078,6 +1078,16 @@
       "Refined Material",
       "3x Expedition",
       "2750",
+      "Sell"
+    ],
+    [
+      "Matriarch Reactor",
+      "Legendary",
+      "1x Power Rod 1x Magnetic Accelerator",
+      "13,000",
+      "Recyclable",
+      "",
+      "11000",
       "Sell"
     ],
     [
@@ -1744,7 +1754,7 @@
       "Spotter Relay",
       "Uncommon",
       "2x Electrical Components 1x ARC Alloy",
-      "5,000",
+      "2,000",
       "Recyclable",
       "",
       "1480",
@@ -1769,6 +1779,26 @@
       "15x Expedition",
       "225",
       "Sell"
+    ],
+    [
+      "Stella Montis Archives Key",
+      "Epic",
+      "Cannot be recycled",
+      "100",
+      "Key",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
+      "Stella Montis Medical Storage Key",
+      "Uncommon",
+      "Cannot be recycled",
+      "100",
+      "Key",
+      "",
+      "",
+      "Unknown"
     ],
     [
       "Surveyor Vault",
@@ -1956,7 +1986,7 @@
       "4x Metal Parts 2x Oil",
       "1,000",
       "Recyclable",
-      "2x Quest",
+      "1x Quest",
       "900",
       "Sell"
     ],
@@ -1971,5 +2001,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-13T03:00:48Z"
+  "generated_at": "2025-11-14T03:00:14Z"
 }

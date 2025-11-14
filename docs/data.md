@@ -69,7 +69,7 @@
 | Deflated Football | Uncommon | 15x Rubber Parts | 1,000 | Recyclable |  | 750 | Sell |
 | Degraded ARC Rubber | Uncommon | 11x Rubber Parts | 640 | Recyclable |  | 550 | Sell |
 | Diving Goggles | Rare | 12x Rubber Parts | 640 | Recyclable |  | 600 | Sell |
-| Dog Collar | Rare | 8x Fabric 1x Metal Parts | 270 | Recyclable | 1x Workshop | 475 | Recycle |
+| Dog Collar | Rare | 8x Fabric 1x Metal Parts | 270 | Recyclable | 1x Scrappy | 475 | Recycle |
 | Dried-Out ARC Resin | Uncommon | 9x Plastic Parts | 640 | Recyclable |  | 540 | Sell |
 | Duct Tape | Uncommon | 3x Fabric | 300 | Topside Material |  | 150 | Sell |
 | Durable Cloth | Uncommon | 6x Fabric | 640 | Refined Material | 5x Workshop 35x Expedition 1x Quest | 300 | Sell |
@@ -81,7 +81,7 @@
 | Explosive Compound | Rare | 2x Crude Explosives | 1,000 | Refined Material | 5x Workshop | 540 | Sell |
 | Fabric | Common | Cannot be recycled | 50 | Basic Material | 80x Workshop |  | Unknown |
 | Faded Photograph | Common | Cannot be recycled | 640 | Trinket | 2x Quest |  | Unknown |
-| Fertilizer | Uncommon | 2x Assorted Seeds | 1,000 | Nature |  | 200 | Sell |
+| Fertilizer | Uncommon | 2x Assorted Seeds | 1,000 | Nature | 1x Quest | 200 | Sell |
 | Film Reel | Rare | Cannot be recycled | 2,000 | Trinket | 1x Quest |  | Unknown |
 | Fine Wristwatch | Rare | Cannot be recycled | 3,000 | Trinket |  |  | Unknown |
 | Fireball Burner | Uncommon | 1x ARC Alloy 1x Chemicals | 640 | Recyclable | 8x Workshop | 250 | Sell |
@@ -107,6 +107,7 @@
 | Light Gun Parts | Rare | 2x Simple Gun Parts | 700 | Topside Material |  | 660 | Sell |
 | Magnet | Uncommon | 3x Metal Parts | 300 | Topside Material |  | 225 | Sell |
 | Magnetic Accelerator | Epic | 1x Advanced Mechanical Components 1x ARC Motion Core | 5,500 | Refined Material | 3x Expedition | 2750 | Sell |
+| Matriarch Reactor | Legendary | 1x Power Rod 1x Magnetic Accelerator | 13,000 | Recyclable |  | 11000 | Sell |
 | Mechanical Components | Rare | 3x Metal Parts 2x Rubber Parts | 2,000 | Refined Material | 5x Workshop | 325 | Sell |
 | Medium Gun Parts | Rare | 2x Simple Gun Parts | 700 | Topside Material |  | 660 | Sell |
 | Metal Brackets | Uncommon | 8x Metal Parts | 270 | Recyclable |  | 600 | Recycle |
@@ -173,9 +174,11 @@
 | Spaceport Warehouse Key | Uncommon | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Speaker Component | Rare | 2x Plastic Parts 2x Rubber Parts | 500 | Topside Material |  | 220 | Sell |
 | Spring Cushion | Rare | 2x Durable Cloth 2x Steel Spring | 2,000 | Recyclable |  | 1880 | Sell |
-| Spotter Relay | Uncommon | 2x Electrical Components 1x ARC Alloy | 5,000 | Recyclable |  | 1480 | Sell |
+| Spotter Relay | Uncommon | 2x Electrical Components 1x ARC Alloy | 2,000 | Recyclable |  | 1480 | Sell |
 | Statuette | Common | Cannot be recycled | 3,000 | Trinket |  |  | Unknown |
 | Steel Spring | Uncommon | 3x Metal Parts | 300 | Topside Material | 15x Expedition | 225 | Sell |
+| Stella Montis Archives Key | Epic | Cannot be recycled | 100 | Key |  |  | Unknown |
+| Stella Montis Medical Storage Key | Uncommon | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Surveyor Vault | Rare | 2x Mechanical Components 2x ARC Alloy | 2,000 | Topside Material | 5x Workshop 1x Quest | 4400 | Recycle |
 | Synthesized Fuel | Rare | 1x Oil 1x Plastic Parts | 700 | Topside Material | 3x Workshop | 360 | Sell |
 | Syringe | Rare | 3x Plastic Parts 2x Chemicals | 500 | Topside Material | 1x Quest | 280 | Sell |
@@ -194,5 +197,5 @@
 | Voltage Converter | Rare | 1x Wires 1x Rubber Parts | 500 | Topside Material |  | 250 | Sell |
 | Wasp Driver | Rare | 1x ARC Alloy 1x Electrical Components | 1,000 | Recyclable | 8x Workshop | 840 | Sell |
 | Water Filter | Rare | 2x Rubber Parts 3x Canister | 1,000 | Recyclable |  | 1000 | Sell |
-| Water Pump | Rare | 4x Metal Parts 2x Oil | 1,000 | Recyclable | 2x Quest | 900 | Sell |
+| Water Pump | Rare | 4x Metal Parts 2x Oil | 1,000 | Recyclable | 1x Quest | 900 | Sell |
 | Wires | Uncommon | 2x Rubber Parts | 200 | Topside Material | 30x Expedition 3x Quest | 100 | Sell |
