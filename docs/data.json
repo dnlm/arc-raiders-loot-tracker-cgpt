@@ -37,8 +37,8 @@
       "1,750",
       "Advanced Material",
       "5x Workshop",
-      "2200",
-      "Recycle"
+      "840",
+      "Sell"
     ],
     [
       "Agave",
@@ -225,16 +225,6 @@
       "Common",
       "Cannot be recycled",
       "1,000",
-      "Trinket",
-      "",
-      "",
-      "Unknown"
-    ],
-    [
-      "Blown Fuses",
-      "Common",
-      "Cannot be recycled",
-      "?",
       "Trinket",
       "",
       "",
@@ -767,7 +757,7 @@
       "2,750",
       "Topside Material",
       "1x Expedition",
-      "2600",
+      "1240",
       "Sell"
     ],
     [
@@ -861,6 +851,16 @@
       "Sell"
     ],
     [
+      "Frequency Modulation Box",
+      "Rare",
+      "1x Advanced Electrical Components 1x Speaker Component",
+      "3,000",
+      "Recyclable",
+      "",
+      "2250",
+      "Sell"
+    ],
+    [
       "Fried Motherboard",
       "Rare",
       "5x Plastic Parts 1x Electrical Components",
@@ -888,6 +888,15 @@
       "Recyclable",
       "",
       "900",
+      "Sell"
+    ],
+    [
+      "Geiger Counter",
+      "Epic",
+      "3x Battery 1x Exodus Modules",
+      "3,500",
+      "Recyclable",
+      "3500",
       "Sell"
     ],
     [
@@ -944,7 +953,7 @@
       "Humidifier",
       "Rare",
       "2x Canister 2x Wires",
-      "1000",
+      "1,000",
       "Recyclable",
       "5x Expedition",
       "1000",
@@ -998,6 +1007,16 @@
       "Recyclable",
       "",
       "900",
+      "Sell"
+    ],
+    [
+      "Ion Sputter",
+      "Epic",
+      "4x Voltage Converter 1x Exodus Modules",
+      "6,000",
+      "Recyclable",
+      "",
+      "4750",
       "Sell"
     ],
     [
@@ -1131,13 +1150,33 @@
       "Unknown"
     ],
     [
+      "Microscope",
+      "Rare",
+      "1x Advanced Mechanical Components 3x Magnet",
+      "3,000",
+      "Recyclable",
+      "",
+      "2650",
+      "Sell"
+    ],
+    [
+      "Mini Centrifuge",
+      "Rare",
+      "1x Advanced Mechanical Components 2x Canister",
+      "3,000",
+      "Recyclable",
+      "",
+      "2350",
+      "Sell"
+    ],
+    [
       "Mod Components",
       "Epic",
       "1x Mechanical Components 1x Steel Spring",
       "3,000",
       "Advanced Material",
       "",
-      "2300",
+      "940",
       "Sell"
     ],
     [
@@ -1157,7 +1196,7 @@
       "1,000",
       "Recyclable",
       "3x Workshop",
-      "4600",
+      "1880",
       "Recycle"
     ],
     [
@@ -1254,7 +1293,7 @@
       "Playing Cards",
       "Rare",
       "Cannot be recycled",
-      "5000",
+      "5,000",
       "Trinket",
       "",
       "",
@@ -1391,6 +1430,16 @@
       "Sell"
     ],
     [
+      "Radio Relay",
+      "Rare",
+      "2x Speaker Component 2x Sensors",
+      "3,000",
+      "Recyclable",
+      "",
+      "2000",
+      "Sell"
+    ],
+    [
       "Raider Hatch Key",
       "Rare",
       "Cannot be recycled",
@@ -1431,16 +1480,6 @@
       "Unknown"
     ],
     [
-      "Rocketeer Driver",
-      "Epic",
-      "2x Advanced Electrical Components 3x ARC Alloy",
-      "5,000",
-      "Recyclable",
-      "3x Workshop",
-      "4100",
-      "Sell"
-    ],
-    [
       "Ripped Safety Vest",
       "Uncommon",
       "1x Magnet 1x Durable Cloth",
@@ -1458,6 +1497,16 @@
       "Recyclable",
       "",
       "1850",
+      "Sell"
+    ],
+    [
+      "Rocketeer Driver",
+      "Epic",
+      "2x Advanced Electrical Components 3x ARC Alloy",
+      "5,000",
+      "Recyclable",
+      "3x Workshop",
+      "4100",
       "Sell"
     ],
     [
@@ -1489,6 +1538,16 @@
       "",
       "",
       "Unknown"
+    ],
+    [
+      "Rotary Encoder",
+      "Rare",
+      "2x Electrical Components 2x Processor",
+      "3,000",
+      "Recyclable",
+      "",
+      "2280",
+      "Sell"
     ],
     [
       "Rubber Duck",
@@ -1607,8 +1666,8 @@
       "2,000",
       "Recyclable",
       "3x Workshop",
-      "4300",
-      "Recycle"
+      "1580",
+      "Sell"
     ],
     [
       "Rusted Shut Medical Kit",
@@ -1641,6 +1700,16 @@
       "Sell"
     ],
     [
+      "Sample Cleaner",
+      "Rare",
+      "2x Electrical Components 14x Assorted Seeds",
+      "3,000",
+      "Recyclable",
+      "",
+      "2680",
+      "Sell"
+    ],
+    [
       "Sensors",
       "Rare",
       "2x Wires 2x Metal Parts",
@@ -1657,8 +1726,27 @@
       "3,000",
       "Recyclable",
       "4x Workshop",
-      "6400",
-      "Recycle"
+      "2320",
+      "Sell"
+    ],
+    [
+      "Shredder Gyro",
+      "Uncommon",
+      "3x Mechanical Components 3x ARC Alloy",
+      "3,000",
+      "Recyclable",
+      "2520",
+      "Sell"
+    ],
+    [
+      "Signal Amplifier",
+      "Rare",
+      "2x Electrical Components 2x Voltage Converter",
+      "3,000",
+      "Recyclable",
+      "",
+      "2280",
+      "Sell"
     ],
     [
       "Silver Teaspoon Set",
@@ -1706,7 +1794,7 @@
       "Cannot be recycled",
       "100",
       "Key",
-      "",
+      "1x Quest",
       "",
       "Unknown"
     ],
@@ -1716,7 +1804,7 @@
       "Cannot be recycled",
       "100",
       "Key",
-      "",
+      "1x Quest",
       "",
       "Unknown"
     ],
@@ -1738,6 +1826,16 @@
       "Topside Material",
       "",
       "220",
+      "Sell"
+    ],
+    [
+      "Spectrum Analyzer",
+      "Epic",
+      "1x Sensors 1x Exodus Modules",
+      "3,500",
+      "Recyclable",
+      "",
+      "3250",
       "Sell"
     ],
     [
@@ -1791,8 +1889,28 @@
       "Unknown"
     ],
     [
+      "Stella Montis Assembly Admin Key",
+      "Uncommon",
+      "Cannot be recycled",
+      "100",
+      "Key",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
       "Stella Montis Medical Storage Key",
       "Uncommon",
+      "Cannot be recycled",
+      "100",
+      "Key",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
+      "Stella Montis Security Checkpoint Key",
+      "Rare",
       "Cannot be recycled",
       "100",
       "Key",
@@ -1807,8 +1925,8 @@
       "2,000",
       "Topside Material",
       "5x Workshop 1x Quest",
-      "4400",
-      "Recycle"
+      "1680",
+      "Sell"
     ],
     [
       "Synthesized Fuel",
@@ -1849,6 +1967,16 @@
       "",
       "550",
       "Recycle"
+    ],
+    [
+      "Telemetry Transceiver",
+      "Rare",
+      "1x Advanced Electrical Components 1x Processor",
+      "3,000",
+      "Recyclable",
+      "",
+      "2250",
+      "Sell"
     ],
     [
       "Thermostat",
@@ -1907,8 +2035,8 @@
       "2,000",
       "Recyclable",
       "",
-      "2900",
-      "Recycle"
+      "1540",
+      "Sell"
     ],
     [
       "Unusable Weapon",
@@ -2001,5 +2129,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-14T03:00:14Z"
+  "generated_at": "2025-11-15T02:57:31Z"
 }
