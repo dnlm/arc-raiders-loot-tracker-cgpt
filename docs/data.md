@@ -1,6 +1,6 @@
 | Name | Rarity | Recycles To | Sell Price | Category | Keep for Quests/Workshop | Recycled Sell Price | Decision (Recycle/Sell) |
 |---|---|---|---|---|---|---|---|
-| Advanced ARC Powercell | Rare | 2x ARC Powercell | 640 | Misc |  | 1280 | Recycle |
+| Advanced ARC Powercell | Rare | 2x ARC Powercell | 640 | Misc |  | 540 | Sell |
 | Advanced Electrical Components | Rare | 1x Electrical Components 1x Wires | 1,750 | Advanced Material | 5x Workshop 5x Expedition | 840 | Sell |
 | Advanced Mechanical Components | Rare | 1x Mechanical Components 1x Wires | 1,750 | Advanced Material | 5x Workshop | 840 | Sell |
 | Agave | Uncommon | 3x Assorted Seeds | 1,000 | Nature |  | 300 | Sell |
