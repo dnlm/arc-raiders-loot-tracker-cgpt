@@ -154,7 +154,7 @@
       "ARC Powercell",
       "Common",
       "Cannot be recycled",
-      "640",
+      "270",
       "Topside Material",
       "5x Workshop",
       "",
@@ -293,12 +293,12 @@
     [
       "Broken Flashlight",
       "Rare",
-      "3x Battery 7x Metal Parts",
+      "2x Battery 6x Metal Parts",
       "1,000",
       "Recyclable",
       "",
-      "1275",
-      "Recycle"
+      "950",
+      "Sell"
     ],
     [
       "Broken Guidance System",
@@ -2149,5 +2149,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-21T02:59:40Z"
+  "generated_at": "2025-11-22T02:55:10Z"
 }

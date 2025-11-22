@@ -14,7 +14,7 @@
 | ARC Flex Rubber | Rare | 16x Rubber Parts | 1,000 | Recyclable |  | 800 | Sell |
 | ARC Motion Core | Rare | 2x ARC Alloy | 1,000 | Topside Material | 5x Workshop | 400 | Sell |
 | ARC Performance Steel | Rare | 12x Metal Parts | 1,000 | Recyclable |  | 900 | Sell |
-| ARC Powercell | Common | Cannot be recycled | 640 | Topside Material | 5x Workshop |  | Unknown |
+| ARC Powercell | Common | Cannot be recycled | 270 | Topside Material | 5x Workshop |  | Unknown |
 | ARC Synthetic Resin | Rare | 14x Plastic Parts | 1,000 | Recyclable |  | 840 | Sell |
 | ARC Thermo Lining | Rare | 16x Fabric | 1,000 | Recyclable |  | 800 | Sell |
 | Assorted Seeds | Common | Cannot be recycled | 100 | Nature | Currency for Celeste |  | Unknown |
@@ -28,7 +28,7 @@
 | Blue Gate Village Key | Uncommon | Cannot be recycled | 100 | Key |  |  | Unknown |
 | Bombardier Cell | Epic | 2x Advanced Mechanical Components 2x ARC Alloy | 5,000 | Recyclable | 6x Workshop | 3900 | Sell |
 | Breathtaking Snow Globe | Epic | Cannot be recycled | 7,000 | Trinket |  |  | Unknown |
-| Broken Flashlight | Rare | 3x Battery 7x Metal Parts | 1,000 | Recyclable |  | 1275 | Recycle |
+| Broken Flashlight | Rare | 2x Battery 6x Metal Parts | 1,000 | Recyclable |  | 950 | Sell |
 | Broken Guidance System | Rare | 4x Processor | 2,000 | Recyclable |  | 2000 | Sell |
 | Broken Handheld Radio | Rare | 3x Sensors 3x Wires | 1,000 | Recyclable |  | 2100 | Recycle |
 | Broken Taser | Rare | 2x Battery 2x Wires | 1,000 | Recyclable |  | 900 | Sell |
