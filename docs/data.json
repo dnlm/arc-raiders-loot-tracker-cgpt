@@ -709,7 +709,7 @@
       "Common",
       "1x ARC Alloy",
       "270",
-      "",
+      "3",
       "Recyclable",
       "",
       "200",
@@ -1761,7 +1761,7 @@
     ],
     [
       "Ruined Augment",
-      "-",
+      "Common",
       "2x Plastic Parts 2x Rubber Parts",
       "270",
       "1",
@@ -2364,5 +2364,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-11-25T03:01:17Z"
+  "generated_at": "2025-11-26T03:01:19Z"
 }

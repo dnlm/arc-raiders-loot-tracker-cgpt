@@ -63,7 +63,7 @@
 | Damaged Rocketeer Driver | Common | 3x ARC Alloy | 2,000 | 3 | Recyclable |  | 600 | Sell |
 | Damaged Snitch Scanner | Common | - | 659 | 3 | Recyclable |  |  | Unknown |
 | Damaged Tick Pod | Common | 1x ARC Alloy | 270 | 3 | Recyclable |  | 200 | Sell |
-| Damaged Wasp Driver | Common | 1x ARC Alloy | 270 |  | Recyclable |  | 200 | Sell |
+| Damaged Wasp Driver | Common | 1x ARC Alloy | 270 | 3 | Recyclable |  | 200 | Sell |
 | Dart Board | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket |  |  | Unknown |
 | Deflated Football | Uncommon | 15x Rubber Parts | 1,000 | 3 | Recyclable |  | 750 | Sell |
 | Degraded ARC Rubber | Uncommon | 11x Rubber Parts | 640 | 3 | Recyclable |  | 550 | Sell |
@@ -159,7 +159,7 @@
 | Rubber Pad | Rare | 18x Rubber Parts | 1,000 | 3 | Recyclable |  | 900 | Sell |
 | Rubber Parts | Common | Cannot be recycled | 50 | 50 | Basic Material | 30x Workshop 200x Expedition |  | Unknown |
 | Ruined Accordion | Rare | 18x Rubber Parts 3x Steel Spring | 2,000 | 3 | Recyclable |  | 1800 | Sell |
-| Ruined Augment | - | 2x Plastic Parts 2x Rubber Parts | 270 | 1 | Recyclable |  | 220 | Sell |
+| Ruined Augment | Common | 2x Plastic Parts 2x Rubber Parts | 270 | 1 | Recyclable |  | 220 | Sell |
 | Ruined Baton | Uncommon | 6x Metal Parts 3x Rubber Parts | 640 | 3 | Recyclable |  | 600 | Sell |
 | Ruined Handcuffs | Uncommon | 8x Metal Parts | 640 | 3 | Recyclable |  | 600 | Sell |
 | Ruined Parachute | Uncommon | 10x Fabric | 640 | 3 | Recyclable |  | 500 | Sell |
