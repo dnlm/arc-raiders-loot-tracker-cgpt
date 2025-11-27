@@ -4,7 +4,7 @@
 | Advanced Electrical Components | Rare | 1x Electrical Components 1x Wires | 1,750 | 5 | Advanced Material | 5x Workshop 5x Expedition | 840 | Sell |
 | Advanced Mechanical Components | Rare | 1x Mechanical Components 1x Wires | 1,750 | 5 | Advanced Material | 5x Workshop | 840 | Sell |
 | Agave | Uncommon | 3x Assorted Seeds | 1,000 | 10 | Nature |  | 300 | Sell |
-| Air Freshener | Uncommon | Cannot be recycled | 2,000 | 15 | Trinket |  |  | Unknown |
+| Air Freshener | Uncommon | Cannot be recycled | 2,000 | 5 | Trinket |  |  | Unknown |
 | Alarm Clock | Rare | 1x Processor 6x Plastic Parts | 1,000 | 3 | Recyclable |  | 860 | Sell |
 | Antiseptic | Rare | 10x Chemicals | 1,000 | 5 | Refined Material | 8x Workshop 2x Quest | 500 | Sell |
 | Apricot | Uncommon | 3x Assorted Seeds | 640 | 10 | Nature | 15x Scrappy | 300 | Sell |
