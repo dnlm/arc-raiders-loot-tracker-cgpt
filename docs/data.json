@@ -1228,7 +1228,7 @@
       "1",
       "Recyclable",
       "",
-      "11000",
+      "10500",
       "Sell"
     ],
     [
@@ -1521,7 +1521,7 @@
       "Power Rod",
       "Epic",
       "1x Advanced Electrical Components 1x ARC Circuitry",
-      "5,500",
+      "5,000",
       "3",
       "Advanced Material",
       "",
@@ -1569,7 +1569,7 @@
       "1",
       "Recyclable",
       "",
-      "11000",
+      "10500",
       "Sell"
     ],
     [
@@ -2364,5 +2364,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-03T03:01:30Z"
+  "generated_at": "2025-12-04T03:02:18Z"
 }

@@ -110,7 +110,7 @@
 | Magnet | Uncommon | 3x Metal Parts | 300 | 15 | Topside Material |  | 225 | Sell |
 | Magnetic Accelerator | Epic | 1x Advanced Mechanical Components 1x ARC Motion Core | 5,500 | 3 | Refined Material | 3x Expedition | 2750 | Sell |
 | Magnetron | Epic | 1x Magnetic Accelerator 1x Steel Spring | 6,000 | 3 | Recyclable | 1x Quest | 5800 | Sell |
-| Matriarch Reactor | Legendary | 1x Power Rod 1x Magnetic Accelerator | 13,000 | 1 | Recyclable |  | 11000 | Sell |
+| Matriarch Reactor | Legendary | 1x Power Rod 1x Magnetic Accelerator | 13,000 | 1 | Recyclable |  | 10500 | Sell |
 | Mechanical Components | Uncommon | 3x Metal Parts 2x Rubber Parts | 640 | 10 | Refined Material | 5x Workshop | 325 | Sell |
 | Medium Gun Parts | Rare | 2x Simple Gun Parts | 700 | 5 | Topside Material |  | 660 | Sell |
 | Metal Brackets | Uncommon | 8x Metal Parts | 640 | 5 | Recyclable |  | 600 | Sell |
@@ -137,11 +137,11 @@
 | Pottery | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket |  |  | Unknown |
 | Power Bank | Rare | 2x Battery 2x Wires | 1,000 | 3 | Recyclable |  | 900 | Sell |
 | Power Cable | Rare | 4x Wires | 1,000 | 3 | Recyclable | 3x Workshop | 800 | Sell |
-| Power Rod | Epic | 1x Advanced Electrical Components 1x ARC Circuitry | 5,500 | 3 | Advanced Material |  | 2750 | Sell |
+| Power Rod | Epic | 1x Advanced Electrical Components 1x ARC Circuitry | 5,000 | 3 | Advanced Material |  | 2750 | Sell |
 | Prickly Pear | Common | 3x Assorted Seeds | 640 | 10 | Nature | 6x Scrappy | 300 | Sell |
 | Processor | Rare | 1x Wires 1x Plastic Parts | 500 | 5 | Topside Material |  | 260 | Sell |
 | Projector | Rare | 1x Processor 2x Wires | 1000 | 3 | Recyclable |  | 900 | Sell |
-| Queen Reactor | Legendary | 1x Power Rod 1x Magnetic Accelerator | 13,000 | 1 | Recyclable |  | 11000 | Sell |
+| Queen Reactor | Legendary | 1x Power Rod 1x Magnetic Accelerator | 13,000 | 1 | Recyclable |  | 10500 | Sell |
 | Radio | Rare | 1x Speaker Component 1x Sensors | 1,000 | 3 | Recyclable |  | 1000 | Sell |
 | Radio Relay | Rare | 2x Speaker Component 2x Sensors | 3,000 | 3 | Recyclable |  | 2000 | Sell |
 | Raider Hatch Key | Rare | Cannot be recycled | 1,000 | 1 | Key |  |  | Unknown |
