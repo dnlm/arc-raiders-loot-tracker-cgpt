@@ -488,7 +488,7 @@
       "Complex Gun Parts",
       "Epic",
       "3x Simple Gun Parts",
-      "2,000",
+      "3,000",
       "3",
       "Topside Material",
       "",
@@ -1301,7 +1301,7 @@
       "Mod Components",
       "Epic",
       "1x Mechanical Components 1x Steel Spring",
-      "3,000",
+      "1750",
       "3",
       "Advanced Material",
       "",
@@ -2364,5 +2364,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-06T02:59:12Z"
+  "generated_at": "2025-12-07T03:06:46Z"
 }
