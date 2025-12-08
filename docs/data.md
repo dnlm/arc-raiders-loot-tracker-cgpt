@@ -40,7 +40,7 @@
 | Camera Lens | Uncommon | 8x Plastic Parts | 640 | 5 | Recyclable |  | 480 | Sell |
 | Candle Holder | Uncommon | 8x Metal Parts | 640 | 3 | Recyclable |  | 600 | Sell |
 | Canister | Uncommon | 3x Plastic Parts | 300 | 15 | Topside Material |  | 180 | Sell |
-| Cat Bed | Common | Cannot be recycled | 1,000 | 3 | Trinket | 1x Scrappy |  | Unknown |
+| Cat Bed | Uncommon | Cannot be recycled | 1,000 | 3 | Trinket | 1x Scrappy |  | Unknown |
 | Chemicals | Common | Cannot be recycled | 50 | 50 | Basic Material | 50x Workshop |  | Unknown |
 | Coffee Pot | Common | Cannot be recycled | 1,000 | 3 | Trinket |  |  | Unknown |
 | Complex Gun Parts | Epic | 3x Simple Gun Parts | 3,000 | 3 | Topside Material |  | 990 | Sell |
@@ -117,7 +117,7 @@
 | Metal Parts | Common | Cannot be recycled | 75 | 50 | Basic Material | 80x Workshop 150x Expedition |  | Unknown |
 | Microscope | Rare | 1x Advanced Mechanical Components 3x Magnet | 3,000 | 3 | Recyclable |  | 2650 | Sell |
 | Mini Centrifuge | Rare | 1x Advanced Mechanical Components 2x Canister | 3,000 | 3 | Recyclable |  | 2350 | Sell |
-| Mod Components | Epic | 1x Mechanical Components 1x Steel Spring | 1750 | 3 | Advanced Material |  | 940 | Sell |
+| Mod Components | Epic | 1x Mechanical Components 1x Steel Spring | 1,750 | 3 | Advanced Material |  | 940 | Sell |
 | Moss | Rare | 3x Assorted Seeds | 500 | 10 | Topside Material |  | 300 | Sell |
 | Motor | Rare | 2x Oil 2x Mechanical Components | 2,000 | 3 | Recyclable | 3x Workshop | 1880 | Sell |
 | Mushroom | Uncommon | Cannot be recycled | 1,000 | 10 | Nature | 12x Scrappy |  | Unknown |
@@ -207,7 +207,7 @@
 | Turbo Pump | Rare | 1x Mechanical Components 3x Oil | 2,000 | 3 | Recyclable |  | 1540 | Sell |
 | Unusable Weapon | Rare | 4x Metal Parts 5x Simple Gun Parts | 2,000 | 3 | Recyclable |  | 1950 | Sell |
 | Vase | Rare | Cannot be recycled | 3,000 | 3 | Trinket |  |  | Unknown |
-| Very Comfortable Pillow | Common | Cannot be recycled | 2,000 | 3 | Trinket | 3x Scrappy |  | Unknown |
+| Very Comfortable Pillow | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket | 3x Scrappy |  | Unknown |
 | Volcanic Rock | Common | Cannot be recycled | 270 | 5 | Misc |  |  | Unknown |
 | Voltage Converter | Rare | 1x Wires 1x Rubber Parts | 500 | 5 | Topside Material |  | 250 | Sell |
 | Wasp Driver | Rare | 1x ARC Alloy 1x Electrical Components | 1,000 | 3 | Recyclable | 8x Workshop | 840 | Sell |

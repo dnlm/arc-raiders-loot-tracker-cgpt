@@ -453,7 +453,7 @@
     ],
     [
       "Cat Bed",
-      "Common",
+      "Uncommon",
       "Cannot be recycled",
       "1,000",
       "3",
@@ -1301,7 +1301,7 @@
       "Mod Components",
       "Epic",
       "1x Mechanical Components 1x Steel Spring",
-      "1750",
+      "1,750",
       "3",
       "Advanced Material",
       "",
@@ -2288,7 +2288,7 @@
     ],
     [
       "Very Comfortable Pillow",
-      "Common",
+      "Uncommon",
       "Cannot be recycled",
       "2,000",
       "3",
@@ -2364,5 +2364,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-07T03:06:46Z"
+  "generated_at": "2025-12-08T03:02:54Z"
 }
