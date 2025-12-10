@@ -1554,7 +1554,7 @@
       "Projector",
       "Rare",
       "1x Processor 2x Wires",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
@@ -1598,7 +1598,7 @@
       "Raider Hatch Key",
       "Rare",
       "Cannot be recycled",
-      "1,000",
+      "2,000",
       "1",
       "Key",
       "",
@@ -2068,7 +2068,7 @@
     ],
     [
       "Statuette",
-      "Common",
+      "Rare",
       "Cannot be recycled",
       "3,000",
       "3",
@@ -2364,5 +2364,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-09T03:01:56Z"
+  "generated_at": "2025-12-10T03:03:27Z"
 }

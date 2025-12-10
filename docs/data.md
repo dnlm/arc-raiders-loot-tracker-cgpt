@@ -140,11 +140,11 @@
 | Power Rod | Epic | 1x Advanced Electrical Components 1x ARC Circuitry | 5,000 | 3 | Advanced Material |  | 2750 | Sell |
 | Prickly Pear | Common | 3x Assorted Seeds | 640 | 10 | Nature | 6x Scrappy | 300 | Sell |
 | Processor | Rare | 1x Wires 1x Plastic Parts | 500 | 5 | Topside Material |  | 260 | Sell |
-| Projector | Rare | 1x Processor 2x Wires | 1000 | 3 | Recyclable |  | 900 | Sell |
+| Projector | Rare | 1x Processor 2x Wires | 1,000 | 3 | Recyclable |  | 900 | Sell |
 | Queen Reactor | Legendary | 1x Power Rod 1x Magnetic Accelerator | 13,000 | 1 | Recyclable |  | 10500 | Sell |
 | Radio | Rare | 1x Speaker Component 1x Sensors | 1,000 | 3 | Recyclable |  | 1000 | Sell |
 | Radio Relay | Rare | 2x Speaker Component 2x Sensors | 3,000 | 3 | Recyclable |  | 2000 | Sell |
-| Raider Hatch Key | Rare | Cannot be recycled | 1,000 | 1 | Key |  |  | Unknown |
+| Raider Hatch Key | Rare | Cannot be recycled | 2,000 | 1 | Key |  |  | Unknown |
 | Red Coral Jewelry | Rare | Cannot be recycled | 5,000 | 3 | Trinket |  |  | Unknown |
 | Remote Control | Uncommon | 2x Plastic Parts 1x Sensors | 1,000 | 3 | Recyclable |  | 620 | Sell |
 | Resin | Common | Cannot be recycled | 1,000 | 10 | Nature |  |  | Unknown |
@@ -187,7 +187,7 @@
 | Spectrum Analyzer | Epic | 1x Sensors 1x Exodus Modules | 3,500 | 3 | Recyclable |  | 3250 | Sell |
 | Spring Cushion | Rare | 2x Durable Cloth 2x Steel Spring | 2,000 | 3 | Recyclable |  | 1880 | Sell |
 | Spotter Relay | Uncommon | 2x Electrical Components 1x ARC Alloy | 2,000 | 3 | Recyclable |  | 1480 | Sell |
-| Statuette | Common | Cannot be recycled | 3,000 | 3 | Trinket |  |  | Unknown |
+| Statuette | Rare | Cannot be recycled | 3,000 | 3 | Trinket |  |  | Unknown |
 | Steel Spring | Uncommon | 3x Metal Parts | 300 | 15 | Topside Material | 15x Expedition | 225 | Sell |
 | Stella Montis Archives Key | Epic | Cannot be recycled | 100 | 1 | Key |  |  | Unknown |
 | Stella Montis Assembly Admin Key | Uncommon | Cannot be recycled | 100 | 1 | Key |  |  | Unknown |
