@@ -24,7 +24,7 @@
 | Bloated Tuna Can | Common | Cannot be recycled | 1,000 | 15 | Trinket |  |  | Unknown |
 | Blue Gate Communication Tower Key | Rare | Cannot be recycled | 100 | 1 | Key |  |  | Unknown |
 | Blue Gate Confiscation Room Key | Epic | Cannot be recycled | 100 | 1 | Key |  |  | Unknown |
-| Blue Gate Cellar Key | Uncommon | Cannot be recycled | 100 | 1 | Key |  |  | Unknown |
+| Blue Gate Cellar Key | Rare | Cannot be recycled | 100 | 1 | Key |  |  | Unknown |
 | Blue Gate Village Key | Uncommon | Cannot be recycled | 100 | 1 | Key |  |  | Unknown |
 | Bombardier Cell | Epic | 2x Advanced Mechanical Components 2x ARC Alloy | 5,000 | 3 | Recyclable | 6x Workshop | 3900 | Sell |
 | Breathtaking Snow Globe | Epic | Cannot be recycled | 7,000 | 1 | Trinket |  |  | Unknown |
@@ -84,6 +84,7 @@
 | Film Reel | Rare | Cannot be recycled | 2,000 | 3 | Trinket |  |  | Unknown |
 | Fine Wristwatch | Rare | Cannot be recycled | 3,000 | 3 | Trinket |  |  | Unknown |
 | Fireball Burner | Uncommon | 1x ARC Alloy 1x Chemicals | 640 | 3 | Recyclable | 8x Workshop | 250 | Sell |
+| Fossilized Lightning | Epic | 3x Explosive Compound | 4,000 | 1 | Nature |  | 3000 | Sell |
 | Frequency Modulation Box | Rare | 1x Advanced Electrical Components 1x Speaker Component | 3,000 | 3 | Recyclable |  | 2250 | Sell |
 | Fried Motherboard | Rare | 5x Plastic Parts 1x Electrical Components | 2,000 | 3 | Recyclable | 3x Workshop | 940 | Sell |
 | Frying Pan | Rare | 8x Metal Parts | 640 | 3 | Recyclable |  | 600 | Sell |
@@ -131,7 +132,7 @@
 | Plastic Parts | Common | Cannot be recycled | 60 | 50 | Basic Material | 75x Workshop |  | Unknown |
 | Playing Cards | Rare | Cannot be recycled | 5,000 | 3 | Trinket |  |  | Unknown |
 | Polluted Air Filter | Rare | 6x Fabric 2x Oil | 1,000 | 3 | Recyclable |  | 900 | Sell |
-| Pop Trigger | Common | 1x Crude Explosives 1x ARC Alloy | 640 | 3 | Recyclable | 5x Workshop | 470 | Sell |
+| Pop Trigger | Uncommon | 1x Crude Explosives 1x ARC Alloy | 640 | 3 | Recyclable | 5x Workshop | 470 | Sell |
 | Portable TV | Rare | 2x Battery 6x Wires | 2,000 | 1 | Recyclable |  | 1700 | Sell |
 | Poster of Natural Wonders | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket |  |  | Unknown |
 | Pottery | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket |  |  | Unknown |

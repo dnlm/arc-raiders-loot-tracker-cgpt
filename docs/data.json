@@ -277,7 +277,7 @@
     ],
     [
       "Blue Gate Cellar Key",
-      "Uncommon",
+      "Rare",
       "Cannot be recycled",
       "100",
       "1",
@@ -936,6 +936,17 @@
       "Sell"
     ],
     [
+      "Fossilized Lightning",
+      "Epic",
+      "3x Explosive Compound",
+      "4,000",
+      "1",
+      "Nature",
+      "",
+      "3000",
+      "Sell"
+    ],
+    [
       "Frequency Modulation Box",
       "Rare",
       "1x Advanced Electrical Components 1x Speaker Component",
@@ -1453,7 +1464,7 @@
     ],
     [
       "Pop Trigger",
-      "Common",
+      "Uncommon",
       "1x Crude Explosives 1x ARC Alloy",
       "640",
       "3",
@@ -2364,5 +2375,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-17T03:02:28Z"
+  "generated_at": "2025-12-18T03:02:38Z"
 }
