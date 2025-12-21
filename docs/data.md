@@ -1,6 +1,6 @@
 | Name | Rarity | Recycles To | Recycled From | Sell Price | Max Stack Size | Category | Keep for Quests/Workshop | Recycled Sell Price | Decision (Recycle/Sell) |
 |---|---|---|---|---|---|---|---|---|---|
-| Advanced ARC Powercell | Rare | 2x ARC Powercell |  | 640 | 5 | Misc |  | 540 | Sell |
+| Advanced ARC Powercell | Rare | 2x ARC Powercell | None | 640 | 5 | Misc |  | 540 | Sell |
 | Advanced Electrical Components | Rare | 1x Electrical Components 1x Wires | Frequency Modulation Box (1) Power Rod (1) Rocketeer Driver (2) Spectrometer (1) Telemetry Transceiver (1) | 1,750 | 5 | Advanced Material | 5x Workshop 5x Expedition | 840 | Sell |
 | Advanced Mechanical Components | Rare | 1x Mechanical Components 1x Wires | Bastion Cell (2) Bombardier Cell (2) Leaper Pulse Unit (2) Magnetic Accelerator (1) Microscope (1) Mini Centrifuge (1) | 1,750 | 5 | Advanced Material | 5x Workshop | 840 | Sell |
 | Agave | Uncommon | 3x Assorted Seeds | None | 1,000 | 10 | Nature |  | 300 | Sell |
@@ -174,7 +174,7 @@
 | Sample Cleaner | Rare | 2x Electrical Components 14x Assorted Seeds | None | 3,000 | 3 | Recyclable |  | 2680 | Sell |
 | Sensors | Rare | 2x Wires 2x Metal Parts | Broken Handheld Radio (3) Radio (1) Radio Relay (2) Remote Control (1) Spectrometer (1) Spectrum Analyzer (1) Thermostat (2) | 500 | 5 | Topside Material | 20x Expedition | 550 | Recycle |
 | Sentinel Firing Core | Rare | 2x ARC Alloy 3x Mechanical Components | None | 3,000 | 3 | Recyclable | 4x Workshop | 2320 | Sell |
-| Shredder Gyro | Uncommon | 3x Mechanical Components 3x ARC Alloy | None | 3,000 | 3 | Recyclable | 2520 | Sell |
+| Shredder Gyro | Rare | 3x Mechanical Components 3x ARC Alloy | None | 3,000 | 3 | Recyclable | 2520 | Sell |
 | Signal Amplifier | Rare | 2x Electrical Components 2x Voltage Converter | None | 3,000 | 3 | Recyclable |  | 2280 | Sell |
 | Silver Teaspoon Set | Common | Cannot be recycled | None | 3,000 | 3 | Trinket |  |  | Unknown |
 | Simple Gun Parts | Uncommon | 2x Metal Parts | Complex Gun Parts (3) Heavy Gun Parts (2) Light Gun Parts (2) Medium Gun Parts (2) Unusable Weapon (5) | 330 | 10 | Topside Material |  | 150 | Sell |

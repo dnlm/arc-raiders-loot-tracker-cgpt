@@ -16,7 +16,7 @@
       "Advanced ARC Powercell",
       "Rare",
       "2x ARC Powercell",
-      "",
+      "None",
       "640",
       "5",
       "Misc",
@@ -2101,7 +2101,7 @@
     ],
     [
       "Shredder Gyro",
-      "Uncommon",
+      "Rare",
       "3x Mechanical Components 3x ARC Alloy",
       "None",
       "3,000",
@@ -2591,5 +2591,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-20T03:01:04Z"
+  "generated_at": "2025-12-21T03:08:31Z"
 }
