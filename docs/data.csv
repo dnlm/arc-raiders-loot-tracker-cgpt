@@ -79,7 +79,7 @@ Expired Respirator,Rare,8x Rubber Parts 4x Fabric,None,640,3,Recyclable,,600,Sel
 Explosive Compound,Rare,2x Crude Explosives,Fossilized Lightning (3),"1,000",5,Refined Material,5x Workshop,540,Sell
 Fabric,Common,Cannot be recycled,ARC Thermo Lining (16) Dog Collar (8) Duct Tape (3) Durable Cloth (6) Expired Respirator (4) Polluted Air Filter (6) Rope (5) Ruined Parachute (10) Ruined Tactical Vest (5) Tattered ARC Lining (12) Tattered Clothes (11) Torn Blanket (12),50,50,Basic Material,80x Workshop,,Unknown
 Faded Photograph,Common,Cannot be recycled,None,640,15,Trinket,,,Unknown
-Fertilizer,Uncommon,2x Assorted Seeds,None,"1,000",5,Nature,1x Quest,200,Sell
+Fertilizer,Uncommon,2x Assorted Seeds,None,"1,000",5,Nature,,200,Sell
 Film Reel,Rare,Cannot be recycled,None,"2,000",3,Trinket,,,Unknown
 Fine Wristwatch,Rare,Cannot be recycled,None,"3,000",3,Trinket,,,Unknown
 Fireball Burner,Uncommon,1x ARC Alloy 1x Chemicals,None,640,3,Recyclable,8x Workshop,250,Sell
@@ -212,5 +212,5 @@ Volcanic Rock,Common,Cannot be recycled,None,270,5,Misc,,,Unknown
 Voltage Converter,Rare,1x Wires 1x Rubber Parts,Industrial Charger (1) Ion Sputter (4) Signal Amplifier (2),500,5,Topside Material,,250,Sell
 Wasp Driver,Rare,1x ARC Alloy 1x Electrical Components,None,"1,000",3,Recyclable,8x Workshop,840,Sell
 Water Filter,Rare,2x Rubber Parts 3x Canister,None,"1,000",3,Recyclable,,1000,Sell
-Water Pump,Rare,4x Metal Parts 2x Oil,None,"1,000",3,Recyclable,1x Quest,900,Sell
+Water Pump,Rare,4x Metal Parts 2x Oil,None,"1,000",3,Recyclable,,900,Sell
 Wires,Uncommon,2x Rubber Parts,Advanced Electrical Components (1) Advanced Mechanical Components (1) Broken Handheld Radio (3) Broken Taser (2) Damaged Heat Sink (2) Humidifier (2) Portable TV (6) Power Bank (2) Power Cable (4) Processor (1) Projector (2) Sensors (2) Toaster (3) Voltage Converter (1),200,15,Topside Material,30x Expedition 3x Quest,100,Sell
