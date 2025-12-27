@@ -567,13 +567,13 @@
     [
       "Cooling Fan",
       "Rare",
-      "14x Plastic Parts 4x Battery",
+      "14x Plastic Parts 4x Wires",
       "None",
       "2,000",
       "3",
       "Recyclable",
       "5x Expedition",
-      "1840",
+      "1640",
       "Sell"
     ],
     [
@@ -747,7 +747,7 @@
     [
       "Damaged Snitch Scanner",
       "Common",
-      "-",
+      "Cannot be recycled",
       "None",
       "659",
       "3",
@@ -2591,5 +2591,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-26T03:04:45Z"
+  "generated_at": "2025-12-27T03:03:29Z"
 }

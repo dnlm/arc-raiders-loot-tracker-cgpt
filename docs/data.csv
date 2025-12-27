@@ -45,7 +45,7 @@ Coffee Pot,Common,Cannot be recycled,None,"1,000",3,Trinket,,,Unknown
 Complex Gun Parts,Epic,3x Simple Gun Parts,None,"3,000",3,Topside Material,,990,Sell
 Coolant,Rare,5x Chemicals 2x Oil,None,"1,000",3,Recyclable,,850,Sell
 Cooling Coil,Rare,6x Chemicals 2x Steel Spring,None,"1,000",3,Recyclable,,900,Sell
-Cooling Fan,Rare,14x Plastic Parts 4x Battery,None,"2,000",3,Recyclable,5x Expedition,1840,Sell
+Cooling Fan,Rare,14x Plastic Parts 4x Wires,None,"2,000",3,Recyclable,5x Expedition,1640,Sell
 Cracked Bioscanner,Rare,3x Rubber Parts 5x Battery,None,"1,000",3,Recyclable,2x Workshop,1400,Recycle
 Crude Explosives,Uncommon,3x Chemicals,Explosive Compound (2) Laboratory Reagents (2) Pop Trigger (1),270,10,Refined Material,5x Workshop,150,Sell
 Crumpled Plastic Bottle,Uncommon,3x Plastic Parts,None,270,3,Recyclable,,180,Sell
@@ -60,7 +60,7 @@ Damaged Fireball Burner,Common,1x ARC Alloy,None,270,3,Recyclable,,200,Sell
 Damaged Heat Sink,Rare,6x Metal Parts 2x Wires,None,"1,000",3,Recyclable,2x Workshop,850,Sell
 Damaged Hornet Driver,Common,2x ARC Alloy,None,640,3,Recyclable,,400,Sell
 Damaged Rocketeer Driver,Common,3x ARC Alloy,None,"2,000",3,Recyclable,,600,Sell
-Damaged Snitch Scanner,Common,-,None,659,3,Recyclable,,,Unknown
+Damaged Snitch Scanner,Common,Cannot be recycled,None,659,3,Recyclable,,,Unknown
 Damaged Tick Pod,Common,1x ARC Alloy,None,270,3,Recyclable,,200,Sell
 Damaged Wasp Driver,Common,1x ARC Alloy,None,270,3,Recyclable,,200,Sell
 Dart Board,Uncommon,Cannot be recycled,None,"2,000",3,Trinket,,,Unknown
