@@ -84,6 +84,7 @@
 | Film Reel | Rare | Cannot be recycled | None | 2,000 | 3 | Trinket |  |  | Unknown |
 | Fine Wristwatch | Rare | Cannot be recycled | None | 3,000 | 3 | Trinket |  |  | Unknown |
 | Fireball Burner | Uncommon | 1x ARC Alloy 1x Chemicals | None | 640 | 3 | Recyclable | 8x Workshop | 250 | Sell |
+| Flow Controller | Rare | 1× Advanced Mechanical Components 1× Sensors | None | 3,000 | 3 | Recyclable | 1x Quest | 2250 | Sell |
 | Fossilized Lightning | Epic | 3x Explosive Compound | None | 4,000 | 1 | Nature |  | 3000 | Sell |
 | Frequency Modulation Box | Rare | 1x Advanced Electrical Components 1x Speaker Component | None | 3,000 | 3 | Recyclable |  | 2250 | Sell |
 | Fried Motherboard | Rare | 5x Plastic Parts 1x Electrical Components | None | 2,000 | 3 | Recyclable | 3x Workshop | 940 | Sell |
@@ -174,7 +175,7 @@
 | Sample Cleaner | Rare | 2x Electrical Components 14x Assorted Seeds | None | 3,000 | 3 | Recyclable |  | 2680 | Sell |
 | Sensors | Rare | 2x Wires 2x Metal Parts | Broken Handheld Radio (3) Radio (1) Radio Relay (2) Remote Control (1) Spectrometer (1) Spectrum Analyzer (1) Thermostat (2) | 500 | 5 | Topside Material | 20x Expedition | 550 | Recycle |
 | Sentinel Firing Core | Rare | 2x ARC Alloy 3x Mechanical Components | None | 3,000 | 3 | Recyclable | 4x Workshop | 2320 | Sell |
-| Shredder Gyro | Rare | 3x Mechanical Components 3x ARC Alloy | None | 3,000 | 3 | Recyclable | 2520 | Sell |
+| Shredder Gyro | Rare | 3x Mechanical Components 3x ARC Alloy | None | 3,000 | 3 | Recyclable | 10x Expedition | 2520 | Sell |
 | Signal Amplifier | Rare | 2x Electrical Components 2x Voltage Converter | None | 3,000 | 3 | Recyclable |  | 2280 | Sell |
 | Silver Teaspoon Set | Common | Cannot be recycled | None | 3,000 | 3 | Trinket |  |  | Unknown |
 | Simple Gun Parts | Uncommon | 2x Metal Parts | Complex Gun Parts (3) Heavy Gun Parts (2) Light Gun Parts (2) Medium Gun Parts (2) Unusable Weapon (5) | 330 | 10 | Topside Material |  | 150 | Sell |

@@ -1021,6 +1021,18 @@
       "Sell"
     ],
     [
+      "Flow Controller",
+      "Rare",
+      "1× Advanced Mechanical Components 1× Sensors",
+      "None",
+      "3,000",
+      "3",
+      "Recyclable",
+      "1x Quest",
+      "2250",
+      "Sell"
+    ],
+    [
       "Fossilized Lightning",
       "Epic",
       "3x Explosive Compound",
@@ -2107,6 +2119,7 @@
       "3,000",
       "3",
       "Recyclable",
+      "10x Expedition",
       "2520",
       "Sell"
     ],
@@ -2591,5 +2604,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2025-12-29T03:13:09Z"
+  "generated_at": "2025-12-30T03:06:53Z"
 }
