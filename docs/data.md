@@ -332,6 +332,6 @@
 | Wasp Driver | Rare | 1× ARC Alloy 1× Electrical Components | 1,000 | 3 | Recyclable | 840 | Sell |
 | Water Filter | Rare | 2× Rubber Parts 3× Canister | 1,000 | 3 | Recyclable | 1000 | Sell |
 | Water Pump | Rare | 2× Oil 4× Metal Parts | 1,000 | 3 | Recyclable | 900 | Sell |
-| Wires | Uncommon | 3× Rubber Parts | 200 | 15 | Topside Material | 150 | Sell |
+| Wires | Uncommon | 2× Rubber Parts | 200 | 15 | Topside Material | 100 | Sell |
 | Wolfpack | Epic | 1× ARC Motion Core 1× Explosive Compound | 5,000 | 1 | Quick Use-Grenade | 2000 | Sell |
 | Zipline | Rare | 1× Metal Parts 1× Rope | 1,000 | 3 | Quick Use-Utility | 575 | Sell |
