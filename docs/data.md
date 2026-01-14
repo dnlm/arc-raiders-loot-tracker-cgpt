@@ -1,12 +1,12 @@
 | Item | Rarity | Recycles To | Sell Price | Stack Size | Category | Recycled Sell Price | Decision (Recycle/Sell) |
 |---|---|---|---|---|---|---|---|
-| Acoustic Guitar | Legendary | 4× Metal Parts 6× Wires | 7,000 | 1 | Quick Use-Gadget | 1500 | Sell |
-| Adrenaline Shot | Common | 1× Chemicals 1× Plastic Parts | 300 | 5 | Quick Use-Regen | 110 | Sell |
+| Acoustic Guitar | Legendary | 4× Metal Parts 6× Wires | 7,000 | 1 | Quick Use | 1500 | Sell |
+| Adrenaline Shot | Common | 1× Chemicals 1× Plastic Parts | 300 | 5 | Quick Use | 110 | Sell |
 | Advanced ARC Powercell | Rare | 2× ARC Powercell | 640 | 5 | Topside Material | 540 | Sell |
 | Advanced Electrical Components | Rare | 1× Electrical Components 1× Wires | 1,750 | 5 | Refined Material | 840 | Sell |
 | Advanced Mechanical Components | Rare | 1× Mechanical Components 1× Steel Spring | 1,750 | 5 | Refined Material | 940 | Sell |
 | Agave | Uncommon | 3× Assorted Seeds | 1,000 | 10 | Nature | 300 | Sell |
-| Agave Juice | Common | Cannot be recycled | 1,800 | 5 | Quick Use-Regen |  | Unknown |
+| Agave Juice | Common | Cannot be recycled | 1,800 | 5 | Quick Use |  | Unknown |
 | Air Freshener | Uncommon | Cannot be recycled | 2,000 | 5 | Trinket |  | Unknown |
 | Alarm Clock | Rare | 1× Processor 6× Plastic Parts | 1,000 | 3 | Recyclable | 860 | Sell |
 | Ancient Fort Security Code | Common | Cannot be recycled | 0 | 1 | Key |  | Unknown |
@@ -26,14 +26,14 @@
 | ARC Synthetic Resin | Rare | 14× Plastic Parts | 1,000 | 3 | Recyclable | 840 | Sell |
 | ARC Thermo Lining | Rare | 16× Fabric | 1,000 | 3 | Recyclable | 800 | Sell |
 | Assorted Seeds | Common | Cannot be recycled | 100 | 100 | Nature |  | Unknown |
-| Bandage | Common | 2× Fabric | 250 | 5 | Quick Use-Regen | 100 | Sell |
-| Barricade Kit | Uncommon | 4× Metal Parts | 640 | 3 | Quick Use-Utility | 300 | Sell |
+| Bandage | Common | 2× Fabric | 250 | 5 | Quick Use | 100 | Sell |
+| Barricade Kit | Uncommon | 4× Metal Parts | 640 | 3 | Quick Use | 300 | Sell |
 | Bastion Cell | Epic | 2× Advanced Mechanical Components 2× ARC Alloy | 5,000 | 3 | Recyclable | 3900 | Sell |
 | Battery | Uncommon | 2× Metal Parts | 250 | 15 | Topside Material | 150 | Sell |
 | Bicycle Pump | Rare | 10× Metal Parts 4× Canister | 2,000 | 3 | Recyclable | 1950 | Sell |
-| Binoculars | Common | 2× Rubber Parts 4× Plastic Parts | 640 | 1 | Quick Use-Gadget | 340 | Sell |
-| Blaze Grenade | Rare | 2× Oil 4× Metal Parts | 1,600 | 5 | Quick Use-Grenade | 900 | Sell |
-| Blaze Grenade Trap | Rare | Cannot be recycled | 1,000 | 3 | Quick Use-Trap |  | Unknown |
+| Binoculars | Common | 2× Rubber Parts 4× Plastic Parts | 640 | 1 | Quick Use | 340 | Sell |
+| Blaze Grenade | Rare | 2× Oil 4× Metal Parts | 1,600 | 5 | Quick Use | 900 | Sell |
+| Blaze Grenade Trap | Rare | Cannot be recycled | 1,000 | 3 | Quick Use |  | Unknown |
 | Bloated Tuna Can | Common | Cannot be recycled | 1,000 | 15 | Trinket |  | Unknown |
 | Blue Gate Cellar Key | Rare | Cannot be recycled | 100 | 1 | Key |  | Unknown |
 | Blue Gate Communication Tower Key | Rare | Cannot be recycled | 100 | 1 | Key |  | Unknown |
@@ -88,24 +88,24 @@
 | Damaged Tick Pod | Common | 1× ARC Alloy | 270 | 3 | Recyclable | 200 | Sell |
 | Damaged Wasp Driver | Common | 1× ARC Alloy | 270 | 3 | Recyclable | 200 | Sell |
 | Dart Board | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket |  | Unknown |
-| Deadline | Epic | 1× ARC Circuitry 1× Explosive Compound | 5,000 | 1 | Quick Use-Trap | 2000 | Sell |
-| Defibrillator | Rare | 1× Moss 1× Plastic Parts | 1,000 | 3 | Quick Use-Regen | 560 | Sell |
+| Deadline | Epic | 1× ARC Circuitry 1× Explosive Compound | 5,000 | 1 | Quick Use | 2000 | Sell |
+| Defibrillator | Rare | 1× Moss 1× Plastic Parts | 1,000 | 3 | Quick Use | 560 | Sell |
 | Deflated Football | Uncommon | 9× Fabric 9× Rubber Parts | 1,000 | 3 | Recyclable | 900 | Sell |
 | Degraded ARC Rubber | Uncommon | 11× Rubber Parts | 640 | 3 | Recyclable | 550 | Sell |
 | Diving Goggles | Rare | 12× Rubber Parts | 640 | 3 | Recyclable | 600 | Sell |
 | Dog Collar | Rare | 1× Metal Parts 8× Fabric | 640 | 3 | Recyclable | 475 | Sell |
-| Door Blocker | Common | 2× Metal Parts | 270 | 3 | Quick Use-Utility | 150 | Sell |
+| Door Blocker | Common | 2× Metal Parts | 270 | 3 | Quick Use | 150 | Sell |
 | Dried-Out ARC Resin | Uncommon | 9× Plastic Parts | 640 | 3 | Recyclable | 540 | Sell |
 | Duct Tape | Uncommon | 3× Fabric | 300 | 15 | Topside Material | 150 | Sell |
 | Durable Cloth | Uncommon | 6× Fabric | 640 | 10 | Refined Material | 300 | Sell |
 | Electrical Components | Uncommon | 3× Plastic Parts 3× Rubber Parts | 640 | 10 | Refined Material | 330 | Sell |
 | Empty Wine Bottle | Common | Cannot be recycled | 1,000 | 5 | Trinket |  | Unknown |
-| Energy Clip | Rare | Cannot be recycled | 1,000 | 5 | Ammunition-Energy |  | Unknown |
+| Energy Clip | Rare | Cannot be recycled | 1,000 | 5 | Ammunition |  | Unknown |
 | Exodus Modules | Epic | 2× Magnet 2× Processor | 2,750 | 3 | Topside Material | 1600 | Sell |
 | Expired Pasta | Common | Cannot be recycled | 1,000 | 15 | Trinket |  | Unknown |
 | Expired Respirator | Rare | 4× Fabric 8× Rubber Parts | 640 | 3 | Recyclable | 600 | Sell |
 | Explosive Compound | Rare | 2× Crude Explosives | 1,000 | 5 | Refined Material | 540 | Sell |
-| Explosive Mine | Rare | 1× Sensors 2× Oil | 1,500 | 3 | Quick Use-Trap | 1100 | Sell |
+| Explosive Mine | Rare | 1× Sensors 2× Oil | 1,500 | 3 | Quick Use | 1100 | Sell |
 | Extended Barrel | Epic | 1× Mod Components 1× Wires | 5,000 | 1 | Modification | 1950 | Sell |
 | Extended Light Mag I | Common | 6× Plastic Parts | 640 | 1 | Modification | 360 | Sell |
 | Extended Light Mag II | Uncommon | 1× Mechanical Components 1× Steel Spring | 2,000 | 1 | Modification | 940 | Sell |
@@ -122,28 +122,28 @@
 | Film Reel | Rare | Cannot be recycled | 2,000 | 3 | Trinket |  | Unknown |
 | Fine Wristwatch | Rare | Cannot be recycled | 3,000 | 3 | Trinket |  | Unknown |
 | Fireball Burner | Uncommon | 1× ARC Alloy 1× Chemicals | 640 | 3 | Recyclable | 250 | Sell |
-| Firecracker | Common | 3× Plastic Parts | 270 | 5 | Quick Use-Grenade | 180 | Sell |
-| Fireworks Box | Rare | 1× Explosive Compound | 2,000 | 1 | Quick Use-Utility | 1000 | Sell |
-| Flame Spray | Uncommon | 1× Canister 1× Fireball Burner | 2,000 | 1 | Quick Use-Gadget | 940 | Sell |
+| Firecracker | Common | 3× Plastic Parts | 270 | 5 | Quick Use | 180 | Sell |
+| Fireworks Box | Rare | 1× Explosive Compound | 2,000 | 1 | Quick Use | 1000 | Sell |
+| Flame Spray | Uncommon | 1× Canister 1× Fireball Burner | 2,000 | 1 | Quick Use | 940 | Sell |
 | Flow Controller | Rare | 1× Advanced Mechanical Components 1× Sensors | 3,000 | 3 | Recyclable | 2250 | Sell |
 | Fossilized Lightning | Epic | 3× Explosive Compound | 4,000 | 1 | Nature | 3000 | Sell |
 | Free Loadout Augment | Common | Cannot be recycled | 100 | 1 | Augment |  | Unknown |
 | Frequency Modulation Box | Rare | 1× Advanced Electrical Components 1× Speaker Component | 3,000 | 3 | Recyclable | 2250 | Sell |
 | Fried Motherboard | Rare | 2× Electrical Components 5× Plastic Parts | 2,000 | 3 | Recyclable | 1580 | Sell |
-| Fruit Mix | Uncommon | Cannot be recycled | 1,800 | 5 | Quick Use-Regen |  | Unknown |
+| Fruit Mix | Uncommon | Cannot be recycled | 1,800 | 5 | Quick Use |  | Unknown |
 | Frying Pan | Rare | 8× Metal Parts | 640 | 3 | Recyclable | 600 | Sell |
 | Garlic Press | Uncommon | 12× Metal Parts | 1,000 | 3 | Recyclable | 900 | Sell |
-| Gas Grenade | Common | 1× Chemicals 1× Rubber Parts | 270 | 3 | Quick Use-Grenade | 100 | Sell |
-| Gas Grenade Trap | Common | Cannot be recycled | 300 | 3 | Quick Use-Trap |  | Unknown |
-| Gas Mine | Common | 1× Chemicals 1× Rubber Parts | 270 | 3 | Quick Use-Trap | 100 | Sell |
+| Gas Grenade | Common | 1× Chemicals 1× Rubber Parts | 270 | 3 | Quick Use | 100 | Sell |
+| Gas Grenade Trap | Common | Cannot be recycled | 300 | 3 | Quick Use |  | Unknown |
+| Gas Mine | Common | 1× Chemicals 1× Rubber Parts | 270 | 3 | Quick Use | 100 | Sell |
 | Geiger Counter | Epic | 1× Exodus Modules 3× Battery | 3,500 | 3 | Recyclable | 3500 | Sell |
 | Great Mullein | Uncommon | 2× Assorted Seeds | 300 | 15 | Topside Material | 200 | Sell |
 | Headphones | Rare | 1× Speaker Component 7× Rubber Parts | 1,000 | 3 | Recyclable | 850 | Sell |
-| Heavy Ammo | Common | Cannot be recycled | 12 | 40 | Ammunition-Heavy |  | Unknown |
-| Heavy Fuze Grenade | Rare | 1× Oil 2× Rubber Parts | 1,600 | 3 | Quick Use-Grenade | 400 | Sell |
+| Heavy Ammo | Common | Cannot be recycled | 12 | 40 | Ammunition |  | Unknown |
+| Heavy Fuze Grenade | Rare | 1× Oil 2× Rubber Parts | 1,600 | 3 | Quick Use | 400 | Sell |
 | Heavy Gun Parts | Rare | 2× Simple Gun Parts | 700 | 5 | Topside Material | 660 | Sell |
 | Heavy Shield | Epic | 1× Voltage Converter 2× ARC Circuitry | 5,500 | 1 | Shield | 2500 | Sell |
-| Herbal Bandage | Uncommon | 2× Assorted Seeds 5× Fabric | 900 | 5 | Quick Use-Regen | 450 | Sell |
+| Herbal Bandage | Uncommon | 2× Assorted Seeds 5× Fabric | 900 | 5 | Quick Use | 450 | Sell |
 | Horizontal Grip | Epic | 1× Mod Components 2× Duct Tape | 7,000 | 1 | Modification | 2350 | Sell |
 | Hornet Driver | Rare | 2× ARC Alloy 2× Electrical Components | 2,000 | 3 | Recyclable | 1680 | Sell |
 | Household Cleaner | Uncommon | 11× Chemicals | 640 | 3 | Recyclable | 550 | Sell |
@@ -153,36 +153,36 @@
 | Industrial Battery | Rare | 2× Battery 7× Chemicals | 1,000 | 3 | Recyclable | 850 | Sell |
 | Industrial Charger | Rare | 1× Voltage Converter 5× Metal Parts | 1,000 | 3 | Recyclable | 875 | Sell |
 | Industrial Magnet | Rare | 2× Magnet 4× Metal Parts | 1,000 | 3 | Recyclable | 900 | Sell |
-| Integrated Binoculars | Common | Cannot be recycled |  |  | Quick Use-Gadget |  | Unknown |
-| Integrated Shield Recharger | Common | Cannot be recycled |  | 1 | Quick Use-Gadget |  | Unknown |
+| Integrated Binoculars | Common | Cannot be recycled |  |  | Quick Use |  | Unknown |
+| Integrated Shield Recharger | Common | Cannot be recycled |  | 1 | Quick Use |  | Unknown |
 | Ion Sputter | Epic | 1× Exodus Modules 4× Voltage Converter | 6,000 | 3 | Recyclable | 4750 | Sell |
-| Jolt Mine | Rare | 1× Battery 2× Plastic Parts | 850 | 3 | Quick Use-Trap | 370 | Sell |
+| Jolt Mine | Rare | 1× Battery 2× Plastic Parts | 850 | 3 | Quick Use | 370 | Sell |
 | Kinetic Converter | Legendary | 1× Mod Components 2× Duct Tape | 7,000 | 1 | Modification | 2350 | Sell |
 | Laboratory Reagents | Rare | 16× Chemicals 3× Crude Explosives | 2,000 | 3 | Recyclable | 1610 | Sell |
 | Lance's Mixtape (5th Edition) | Epic | Cannot be recycled | 10,000 | 3 | Trinket |  | Unknown |
-| Launcher Ammo | Rare | Cannot be recycled | 250 | 24 | Ammunition-Launcher |  | Unknown |
+| Launcher Ammo | Rare | Cannot be recycled | 250 | 24 | Ammunition |  | Unknown |
 | Leaper Pulse Unit | Epic | 2× Advanced Mechanical Components 3× ARC Alloy | 5,000 | 3 | Recyclable | 4100 | Sell |
 | Lemon | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | 300 | Sell |
-| Li'l Smoke Grenade | Common | 1× Chemicals 1× Plastic Parts | 300 | 5 | Quick Use-Grenade | 110 | Sell |
-| Light Ammo | Common | Cannot be recycled | 4 | 100 | Ammunition-Light |  | Unknown |
+| Li'l Smoke Grenade | Common | 1× Chemicals 1× Plastic Parts | 300 | 5 | Quick Use | 110 | Sell |
+| Light Ammo | Common | Cannot be recycled | 4 | 100 | Ammunition |  | Unknown |
 | Light Bulb | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket |  | Unknown |
 | Light Gun Parts | Rare | 2× Simple Gun Parts | 700 | 5 | Topside Material | 660 | Sell |
-| Light Impact Grenade | Common | 1× Chemicals 1× Plastic Parts | 270 | 5 | Quick Use-Grenade | 110 | Sell |
+| Light Impact Grenade | Common | 1× Chemicals 1× Plastic Parts | 270 | 5 | Quick Use | 110 | Sell |
 | Light Shield | Uncommon | 4× Plastic Parts | 640 | 1 | Shield | 240 | Sell |
-| Light Stick | Common | 1× Chemicals | 150 | 5 | Quick Use-Grenade | 50 | Sell |
+| Light Stick | Common | 1× Chemicals | 150 | 5 | Quick Use | 50 | Sell |
 | Lightweight Stock | Epic | 1× Duct Tape 1× Mod Components | 5,000 | 1 | Modification | 2050 | Sell |
 | Looting Mk. 1 | Uncommon | 3× Plastic Parts 3× Rubber Parts | 640 | 1 | Augment | 330 | Sell |
 | Looting Mk. 2 | Rare | 1× Electrical Components 1× Magnet | 2,000 | 1 | Augment | 940 | Sell |
 | Looting Mk. 3 (Cautious) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | 2250 | Sell |
 | Looting Mk. 3 (Survivor) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | 2250 | Sell |
-| Lure Grenade | Uncommon | 1× Speaker Component | 1,000 | 3 | Quick Use-Grenade | 500 | Sell |
-| Lure Grenade Trap | Uncommon | Cannot be recycled | 1,000 | 3 | Quick Use-Trap |  | Unknown |
+| Lure Grenade | Uncommon | 1× Speaker Component | 1,000 | 3 | Quick Use | 500 | Sell |
+| Lure Grenade Trap | Uncommon | Cannot be recycled | 1,000 | 3 | Quick Use |  | Unknown |
 | Magnet | Uncommon | 2× Metal Parts | 300 | 15 | Topside Material | 150 | Sell |
 | Magnetic Accelerator | Epic | 1× Advanced Mechanical Components 1× ARC Motion Core | 5,500 | 3 | Refined Material | 2750 | Sell |
 | Magnetron | Epic | 1× Magnetic Accelerator 1× Steel Spring | 6,000 | 3 | Recyclable | 5800 | Sell |
 | Matriarch Reactor | Legendary | 1× Magnetic Accelerator 1× Power Rod | 13,000 | 1 | Recyclable | 10500 | Sell |
 | Mechanical Components | Uncommon | 2× Rubber Parts 3× Metal Parts | 640 | 10 | Refined Material | 325 | Sell |
-| Medium Ammo | Common | Cannot be recycled | 6 | 80 | Ammunition-Medium |  | Unknown |
+| Medium Ammo | Common | Cannot be recycled | 6 | 80 | Ammunition |  | Unknown |
 | Medium Gun Parts | Rare | 2× Simple Gun Parts | 700 | 5 | Topside Material | 660 | Sell |
 | Medium Shield | Rare | 1× ARC Circuitry | 2,000 | 1 | Shield | 1000 | Sell |
 | Metal Brackets | Uncommon | 8× Metal Parts | 640 | 3 | Recyclable | 600 | Sell |
@@ -198,14 +198,14 @@
 | Muzzle Brake I | Common | 5× Metal Parts | 640 | 1 | Modification | 375 | Sell |
 | Muzzle Brake II | Uncommon | 1× Mechanical Components 1× Wires | 2,000 | 1 | Modification | 840 | Sell |
 | Muzzle Brake III | Rare | 1× Mod Components 2× Wires | 5,000 | 1 | Modification | 2150 | Sell |
-| Noisemaker | Common | 1× Speaker Component | 640 | 3 | Quick Use-Gadget | 500 | Sell |
+| Noisemaker | Common | 1× Speaker Component | 640 | 3 | Quick Use | 500 | Sell |
 | Number Plate | Uncommon | 3× Metal Parts | 270 | 3 | Recyclable | 225 | Sell |
 | Oil | Uncommon | 3× Chemicals | 300 | 15 | Topside Material | 150 | Sell |
 | Olives | Uncommon | 2× Assorted Seeds | 640 | 10 | Nature | 200 | Sell |
 | Padded Stock | Epic | 1× Duct Tape 1× Mod Components | 5,000 | 1 | Modification | 2050 | Sell |
 | Painted Box | Common | Cannot be recycled | 2,000 | 3 | Trinket |  | Unknown |
 | Patrol Car Key | Uncommon | Cannot be recycled | 100 | 1 | Key |  | Unknown |
-| Photoelectric Cloak | Epic | 1× Advanced Electrical Components 1× Speaker Component | 5,000 | 1 | Quick Use-Gadget | 2250 | Sell |
+| Photoelectric Cloak | Epic | 1× Advanced Electrical Components 1× Speaker Component | 5,000 | 1 | Quick Use | 2250 | Sell |
 | Pilgrim's Peak Security Code | Common | Cannot be recycled | 0 | 1 | Key |  | Unknown |
 | Plastic Parts | Common | Cannot be recycled | 60 | 50 | Basic Material |  | Unknown |
 | Playing Cards | Rare | Cannot be recycled | 5,000 | 3 | Trinket |  | Unknown |
@@ -220,17 +220,17 @@
 | Prickly Pear | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | 300 | Sell |
 | Processor | Rare | 1× Plastic Parts 1× Wires | 500 | 5 | Topside Material | 260 | Sell |
 | Projector | Rare | 1× Processor 2× Wires | 1,000 | 3 | Recyclable | 900 | Sell |
-| Pulse Mine | Uncommon | 6× Chemicals | 470 | 3 | Quick Use-Trap | 300 | Sell |
+| Pulse Mine | Uncommon | 6× Chemicals | 470 | 3 | Quick Use | 300 | Sell |
 | Queen Reactor | Legendary | 1× Magnetic Accelerator 1× Power Rod | 13,000 | 1 | Recyclable | 10500 | Sell |
 | Radio | Rare | 1× Sensors 1× Speaker Component | 1,000 | 3 | Recyclable | 1000 | Sell |
 | Radio Relay | Rare | 2× Sensors 2× Speaker Component | 3,000 | 3 | Recyclable | 2000 | Sell |
 | Raider Hatch Key | Rare | Cannot be recycled | 2,000 | 1 | Key |  | Unknown |
 | Raider's Refuge Security Code | Common | Cannot be recycled | 0 | 1 | Key |  | Unknown |
-| Recorder | Uncommon | 10× Plastic Parts | 1,000 | 1 | Quick Use-Gadget | 600 | Sell |
+| Recorder | Uncommon | 10× Plastic Parts | 1,000 | 1 | Quick Use | 600 | Sell |
 | Red Coral Jewelry | Rare | Cannot be recycled | 5,000 | 3 | Trinket |  | Unknown |
 | Reinforced Reception Security Code | Common | Cannot be recycled | 0 | 1 | Key |  | Unknown |
 | Remote Control | Rare | 1× Sensors 7× Plastic Parts | 1,000 | 3 | Recyclable | 920 | Sell |
-| Remote Raider Flare | Common | 1× Chemicals 1× Rubber Parts | 270 | 3 | Quick Use-Utility | 100 | Sell |
+| Remote Raider Flare | Common | 1× Chemicals 1× Rubber Parts | 270 | 3 | Quick Use | 100 | Sell |
 | Resin | Common | Cannot be recycled | 1,000 | 10 | Nature |  | Unknown |
 | Ripped Safety Vest | Uncommon | 1× Durable Cloth 1× Magnet | 1,000 | 3 | Recyclable | 940 | Sell |
 | Rocket Thruster | Rare | 2× Synthesized Fuel 6× Metal Parts | 2,000 | 3 | Recyclable | 1850 | Sell |
@@ -255,18 +255,18 @@
 | Rusted Tools | Rare | 1× Steel Spring 8× Metal Parts | 1,000 | 3 | Recyclable | 900 | Sell |
 | Rusty ARC Steel | Uncommon | 8× Metal Parts | 640 | 3 | Recyclable | 600 | Sell |
 | Sample Cleaner | Rare | 14× Assorted Seeds 2× Electrical Components | 3,000 | 3 | Recyclable | 2680 | Sell |
-| Seeker Grenade | Uncommon | 1× Crude Explosives | 640 | 5 | Quick Use-Grenade | 270 | Sell |
+| Seeker Grenade | Uncommon | 1× Crude Explosives | 640 | 5 | Quick Use | 270 | Sell |
 | Sensors | Rare | 1× Metal Parts 1× Wires | 500 | 5 | Topside Material | 275 | Sell |
 | Sentinel Firing Core | Rare | 2× ARC Alloy 3× Mechanical Components | 3,000 | 3 | Recyclable | 2320 | Sell |
-| Shaker | Uncommon | 10× Plastic Parts | 1,000 | 1 | Quick Use-Gadget | 600 | Sell |
-| Shield Recharger | Uncommon | 4× Rubber Parts | 520 | 5 | Quick Use-Regen | 200 | Sell |
-| Shotgun Ammo | Common | Cannot be recycled | 20 | 20 | Ammunition-Shotgun |  | Unknown |
+| Shaker | Uncommon | 10× Plastic Parts | 1,000 | 1 | Quick Use | 600 | Sell |
+| Shield Recharger | Uncommon | 4× Rubber Parts | 520 | 5 | Quick Use | 200 | Sell |
+| Shotgun Ammo | Common | Cannot be recycled | 20 | 20 | Ammunition |  | Unknown |
 | Shotgun Choke I | Common | 5× Metal Parts | 640 | 1 | Modification | 375 | Sell |
 | Shotgun Choke II | Uncommon | 1× Mechanical Components 1× Wires | 2,000 | 1 | Modification | 840 | Sell |
 | Shotgun Choke III | Rare | 1× Mod Components 2× Wires | 5,000 | 1 | Modification | 2150 | Sell |
 | Shotgun Silencer | Epic | 1× Mod Components 1× Wires | 5,000 | 1 | Modification | 1950 | Sell |
-| Showstopper | Rare | 1× Electrical Components 2× Battery | 2,200 | 5 | Quick Use-Grenade | 1140 | Sell |
-| Shrapnel Grenade | Uncommon | 1× Crude Explosives 1× Metal Parts | 800 | 5 | Quick Use-Grenade | 345 | Sell |
+| Showstopper | Rare | 1× Electrical Components 2× Battery | 2,200 | 5 | Quick Use | 1140 | Sell |
+| Shrapnel Grenade | Uncommon | 1× Crude Explosives 1× Metal Parts | 800 | 5 | Quick Use | 345 | Sell |
 | Shredder Gyro | Rare | 3× ARC Alloy 3× Mechanical Components | 3,000 | 3 | Recyclable | 2520 | Sell |
 | Signal Amplifier | Rare | 2× Electrical Components 2× Voltage Converter | 3,000 | 3 | Recyclable | 2280 | Sell |
 | Silencer I | Uncommon | 1× Mechanical Components 1× Wires | 2,000 | 1 | Modification | 840 | Sell |
@@ -274,10 +274,10 @@
 | Silencer III | Epic | 1× Mod Components 3× Wires | 7,000 | 1 | Modification | 2350 | Sell |
 | Silver Teaspoon Set | Rare | Cannot be recycled | 3,000 | 3 | Trinket |  | Unknown |
 | Simple Gun Parts | Uncommon | 2× Metal Parts | 330 | 10 | Topside Material | 150 | Sell |
-| Smoke Grenade | Rare | 1× Canister 2× Chemicals | 1,000 | 5 | Quick Use-Grenade | 400 | Sell |
-| Smoke Grenade Trap | Rare | Cannot be recycled | 640 | 3 | Quick Use-Trap |  | Unknown |
-| Snap Blast Grenade | Uncommon | 1× Chemicals 1× Magnet | 800 | 3 | Quick Use-Grenade | 350 | Sell |
-| Snap Hook | Legendary | 1× Power Rod 3× Rope | 14,000 | 1 | Quick Use-Gadget | 6500 | Sell |
+| Smoke Grenade | Rare | 1× Canister 2× Chemicals | 1,000 | 5 | Quick Use | 400 | Sell |
+| Smoke Grenade Trap | Rare | Cannot be recycled | 640 | 3 | Quick Use |  | Unknown |
+| Snap Blast Grenade | Uncommon | 1× Chemicals 1× Magnet | 800 | 3 | Quick Use | 350 | Sell |
+| Snap Hook | Legendary | 1× Power Rod 3× Rope | 14,000 | 1 | Quick Use | 6500 | Sell |
 | Snitch Scanner | Uncommon | 1× ARC Alloy 2× Electrical Components | 2,000 | 3 | Recyclable | 1480 | Sell |
 | Snowball | Common | Cannot be recycled | 10 | 5 | Misc |  | Unknown |
 | Spaceport Container Storage Key | Rare | Cannot be recycled | 100 | 1 | Key |  | Unknown |
@@ -298,8 +298,8 @@
 | Stella Montis Assembly Admin Key | Uncommon | Cannot be recycled | 250 | 1 | Key |  | Unknown |
 | Stella Montis Medical Storage Key | Uncommon | Cannot be recycled | 100 | 1 | Key |  | Unknown |
 | Stella Montis Security Checkpoint Key | Rare | Cannot be recycled | 100 | 1 | Key |  | Unknown |
-| Sterilized Bandage | Rare | 1× Antiseptic 1× Fabric | 2,000 | 3 | Quick Use-Regen | 1050 | Sell |
-| Surge Shield Recharger | Rare | 1× Electrical Components | 1,200 | 5 | Quick Use-Regen | 640 | Sell |
+| Sterilized Bandage | Rare | 1× Antiseptic 1× Fabric | 2,000 | 3 | Quick Use | 1050 | Sell |
+| Surge Shield Recharger | Rare | 1× Electrical Components | 1,200 | 5 | Quick Use | 640 | Sell |
 | Surveyor Vault | Rare | 2× ARC Alloy 2× Mechanical Components | 2,000 | 3 | Recyclable | 1680 | Sell |
 | Synthesized Fuel | Rare | 1× Oil 1× Plastic Parts | 700 | 5 | Topside Material | 360 | Sell |
 | Syringe | Rare | 2× Chemicals 3× Plastic Parts | 500 | 5 | Topside Material | 280 | Sell |
@@ -307,7 +307,7 @@
 | Tactical Mk. 2 | Rare | 1× Electrical Components 1× Magnet | 2,000 | 1 | Augment | 940 | Sell |
 | Tactical Mk. 3 (Defensive) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | 2250 | Sell |
 | Tactical Mk. 3 (Healing) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | 2250 | Sell |
-| Tagging Grenade | Rare | 1× Plastic Parts 1× Sensors | 1,000 | 3 | Quick Use-Grenade | 560 | Sell |
+| Tagging Grenade | Rare | 1× Plastic Parts 1× Sensors | 1,000 | 3 | Quick Use | 560 | Sell |
 | Tattered ARC Lining | Uncommon | 12× Fabric | 640 | 3 | Recyclable | 600 | Sell |
 | Tattered Clothes | Uncommon | 11× Fabric | 640 | 3 | Recyclable | 550 | Sell |
 | Telemetry Transceiver | Rare | 1× Advanced Electrical Components 1× Processor | 3,000 | 3 | Recyclable | 2250 | Sell |
@@ -316,8 +316,8 @@
 | Toaster | Rare | 3× Wires 5× Plastic Parts | 1,000 | 3 | Recyclable | 900 | Sell |
 | Torn Blanket | Rare | 12× Fabric | 640 | 3 | Recyclable | 600 | Sell |
 | Torn Book | Common | Cannot be recycled | 1,000 | 5 | Trinket |  | Unknown |
-| Trailblazer | Rare | 2× Crude Explosives | 1,600 | 3 | Quick Use-Grenade | 540 | Sell |
-| Trigger 'Nade | Rare | 1× Chemicals 1× Processor | 1,000 | 3 | Quick Use-Grenade | 550 | Sell |
+| Trailblazer | Rare | 2× Crude Explosives | 1,600 | 3 | Quick Use | 540 | Sell |
+| Trigger 'Nade | Rare | 1× Chemicals 1× Processor | 1,000 | 3 | Quick Use | 550 | Sell |
 | Turbo Pump | Rare | 1× Mechanical Components 3× Oil | 2,000 | 3 | Recyclable | 1540 | Sell |
 | Unusable Weapon | Rare | 4× Metal Parts 5× Simple Gun Parts | 2,000 | 3 | Recyclable | 1950 | Sell |
 | Vase | Rare | Cannot be recycled | 3,000 | 3 | Trinket |  | Unknown |
@@ -325,13 +325,13 @@
 | Vertical Grip II | Uncommon | 1× Duct Tape 1× Mechanical Components | 2,000 | 1 | Modification | 940 | Sell |
 | Vertical Grip III | Rare | 2× Duct Tape 2× Mechanical Components | 5,000 | 1 | Modification | 1880 | Sell |
 | Very Comfortable Pillow | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket |  | Unknown |
-| Vita Shot | Rare | 1× Syringe 4× Chemicals | 2,200 | 3 | Quick Use-Regen | 700 | Sell |
-| Vita Spray | Epic | 1× Antiseptic 2× Canister | 3,000 | 1 | Quick Use-Regen | 1600 | Sell |
+| Vita Shot | Rare | 1× Syringe 4× Chemicals | 2,200 | 3 | Quick Use | 700 | Sell |
+| Vita Spray | Epic | 1× Antiseptic 2× Canister | 3,000 | 1 | Quick Use | 1600 | Sell |
 | Volcanic Rock | Common | Cannot be recycled | 270 | 5 | Misc |  | Unknown |
 | Voltage Converter | Rare | 1× Rubber Parts 1× Wires | 500 | 5 | Topside Material | 250 | Sell |
 | Wasp Driver | Rare | 1× ARC Alloy 1× Electrical Components | 1,000 | 3 | Recyclable | 840 | Sell |
 | Water Filter | Rare | 2× Rubber Parts 3× Canister | 1,000 | 3 | Recyclable | 1000 | Sell |
 | Water Pump | Rare | 2× Oil 4× Metal Parts | 1,000 | 3 | Recyclable | 900 | Sell |
 | Wires | Uncommon | 2× Rubber Parts | 200 | 15 | Topside Material | 100 | Sell |
-| Wolfpack | Epic | 1× ARC Motion Core 1× Explosive Compound | 5,000 | 1 | Quick Use-Grenade | 2000 | Sell |
-| Zipline | Rare | 1× Metal Parts 1× Rope | 1,000 | 3 | Quick Use-Utility | 575 | Sell |
+| Wolfpack | Epic | 1× ARC Motion Core 1× Explosive Compound | 5,000 | 1 | Quick Use | 2000 | Sell |
+| Zipline | Rare | 1× Metal Parts 1× Rope | 1,000 | 3 | Quick Use | 575 | Sell |
