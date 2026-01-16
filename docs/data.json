@@ -1123,6 +1123,17 @@
       "Unknown"
     ],
     [
+      "ESR Analyzer",
+      "",
+      "Cannot be recycled",
+      "0",
+      "1",
+      "Trinket",
+      "A Reveal In Ruins (1×)",
+      "",
+      "Unknown"
+    ],
+    [
       "Exodus Modules",
       "Epic",
       "2× Magnet 2× Processor",
@@ -1814,6 +1825,17 @@
       "—",
       "110",
       "Sell"
+    ],
+    [
+      "Lidar Scanner",
+      "",
+      "Cannot be recycled",
+      "0",
+      "1",
+      "Trinket",
+      "—",
+      "",
+      "Unknown"
     ],
     [
       "Light Ammo",
@@ -3697,5 +3719,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2026-01-15T03:11:06Z"
+  "generated_at": "2026-01-16T03:11:08Z"
 }

@@ -101,6 +101,7 @@
 | Electrical Components | Uncommon | 3× Plastic Parts 3× Rubber Parts | 640 | 10 | Refined Material | — | 330 | Sell |
 | Empty Wine Bottle | Common | Cannot be recycled | 1,000 | 5 | Trinket | — |  | Unknown |
 | Energy Clip | Rare | Cannot be recycled | 1,000 | 5 | Ammunition | — |  | Unknown |
+| ESR Analyzer |  | Cannot be recycled | 0 | 1 | Trinket | A Reveal In Ruins (1×) |  | Unknown |
 | Exodus Modules | Epic | 2× Magnet 2× Processor | 2,750 | 3 | Topside Material | — | 1600 | Sell |
 | Expired Pasta | Common | Cannot be recycled | 1,000 | 15 | Trinket | — |  | Unknown |
 | Expired Respirator | Rare | 4× Fabric 8× Rubber Parts | 640 | 3 | Recyclable | — | 600 | Sell |
@@ -164,6 +165,7 @@
 | Leaper Pulse Unit | Epic | 2× Advanced Mechanical Components 3× ARC Alloy | 5,000 | 3 | Recyclable | Into The Fray (1×) | 4100 | Sell |
 | Lemon | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | 300 | Sell |
 | Li'l Smoke Grenade | Common | 1× Chemicals 1× Plastic Parts | 300 | 5 | Quick Use | — | 110 | Sell |
+| Lidar Scanner |  | Cannot be recycled | 0 | 1 | Trinket | — |  | Unknown |
 | Light Ammo | Common | Cannot be recycled | 4 | 100 | Ammunition | — |  | Unknown |
 | Light Bulb | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket | — |  | Unknown |
 | Light Gun Parts | Rare | 2× Simple Gun Parts | 700 | 5 | Topside Material | — | 660 | Sell |
