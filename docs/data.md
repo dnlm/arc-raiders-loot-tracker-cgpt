@@ -15,7 +15,7 @@
 | Angled Grip III | Rare | 1× Mod Components 2× Duct Tape | 5,000 | 1 | Mods | — | — | 2350 | Sell |
 | Antiseptic | Rare | 10× Chemicals | 1,000 | 5 | Refined Material | Doctor's Orders (2×) | Medical Lab 3 (8×) | 500 | Sell |
 | Anvil Splitter | Legendary | 1× Mod Components 1× Processor | 7,000 | 1 | Mods | — | — | 2250 | Sell |
-| Apricot | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | Scrappy 3 (3×) Scrappy 5 (12×) | 300 | Sell |
+| Apricot | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | — | 300 | Sell |
 | ARC Alloy | Uncommon | 2× Metal Parts | 200 | 15 | Topside Material | Clearer Skies (3×) | Explosives Station 1 (6×) Medical Lab 1 (6×) Utility Station 1 (6×) | 150 | Sell |
 | ARC Circuitry | Rare | 2× ARC Alloy | 1,000 | 5 | Topside Material | — | Refiner 3 (10×) | 400 | Sell |
 | ARC Coolant | Rare | 16× Chemicals | 1,000 | 3 | Recyclable | — | — | 800 | Sell |
@@ -55,7 +55,7 @@
 | Candle Holder | Uncommon | 8× Metal Parts | 640 | 3 | Recyclable | — | — | 600 | Sell |
 | Candleberries | Rare | 2× Assorted Seeds | 460 | 10 | Nature | — | — | 200 | Sell |
 | Canister | Uncommon | 3× Plastic Parts | 300 | 15 | Topside Material | — | — | 180 | Sell |
-| Cat Bed | Uncommon | Cannot be recycled | 1,000 | 3 | Trinket | — | Scrappy 4 (1×) |  | Unknown |
+| Cat Bed | Uncommon | Cannot be recycled | 1,000 | 3 | Trinket | — | — |  | Unknown |
 | Chemicals | Common | Cannot be recycled | 50 | 50 | Basic Material | — | Explosives Station 1 (50×) |  | Unknown |
 | Coffee Pot | Common | Cannot be recycled | 1,000 | 3 | Trinket | — | — |  | Unknown |
 | Combat Mk. 1 | Uncommon | 3× Plastic Parts 3× Rubber Parts | 640 | 1 | Augment | — | — | 330 | Sell |
@@ -93,7 +93,7 @@
 | Deflated Football | Uncommon | 9× Fabric 9× Rubber Parts | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
 | Degraded ARC Rubber | Uncommon | 11× Rubber Parts | 640 | 3 | Recyclable | — | — | 550 | Sell |
 | Diving Goggles | Rare | 12× Rubber Parts | 640 | 3 | Recyclable | — | — | 600 | Sell |
-| Dog Collar | Rare | 1× Metal Parts 8× Fabric | 640 | 3 | Recyclable | — | Scrappy 2 (1×) | 475 | Sell |
+| Dog Collar | Rare | 1× Metal Parts 8× Fabric | 640 | 3 | Recyclable | — | — | 475 | Sell |
 | Door Blocker | Common | 2× Metal Parts | 270 | 3 | Quick Use | — | — | 150 | Sell |
 | Dried-Out ARC Resin | Uncommon | 9× Plastic Parts | 640 | 3 | Recyclable | — | — | 540 | Sell |
 | Duct Tape | Uncommon | 3× Fabric | 300 | 15 | Topside Material | — | — | 150 | Sell |
@@ -163,7 +163,7 @@
 | Lance's Mixtape (5th Edition) | Epic | Cannot be recycled | 10,000 | 3 | Trinket | — | — |  | Unknown |
 | Launcher Ammo | Rare | Cannot be recycled | 250 | 24 | Ammunition | — | — |  | Unknown |
 | Leaper Pulse Unit | Epic | 2× Advanced Mechanical Components 3× ARC Alloy | 5,000 | 3 | Recyclable | Into The Fray (1×) | Utility Station 3 (4×) | 4100 | Sell |
-| Lemon | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | Scrappy 3 (3×) | 300 | Sell |
+| Lemon | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | — | 300 | Sell |
 | Li'l Smoke Grenade | Common | 1× Chemicals 1× Plastic Parts | 300 | 5 | Quick Use | — | — | 110 | Sell |
 | Lidar Scanner |  | Cannot be recycled | 0 | 1 | Trinket | — | — |  | Unknown |
 | Light Ammo | Common | Cannot be recycled | 4 | 100 | Ammunition | — | — |  | Unknown |
@@ -194,7 +194,7 @@
 | Mod Components | Rare | 1× Mechanical Components 1× Steel Spring | 1,750 | 5 | Refined Material | — | — | 940 | Sell |
 | Moss | Rare | 3× Assorted Seeds | 500 | 10 | Topside Material | — | — | 300 | Sell |
 | Motor | Rare | 2× Mechanical Components 2× Oil | 2,000 | 3 | Recyclable | — | Refiner 3 (3×) | 1880 | Sell |
-| Mushroom | Uncommon | Cannot be recycled | 1,000 | 10 | Nature | — | Scrappy 5 (12×) |  | Unknown |
+| Mushroom | Uncommon | Cannot be recycled | 1,000 | 10 | Nature | — | — |  | Unknown |
 | Music Album | Rare | Cannot be recycled | 3,000 | 3 | Trinket | — | — |  | Unknown |
 | Music Box | Rare | Cannot be recycled | 5,000 | 3 | Trinket | — | — |  | Unknown |
 | Muzzle Brake I | Common | 5× Metal Parts | 640 | 1 | Mods | — | — | 375 | Sell |
@@ -203,7 +203,7 @@
 | Noisemaker | Common | 1× Speaker Component | 640 | 3 | Quick Use | — | — | 500 | Sell |
 | Number Plate | Uncommon | 3× Metal Parts | 270 | 3 | Recyclable | — | — | 225 | Sell |
 | Oil | Uncommon | 3× Chemicals | 300 | 15 | Topside Material | — | — | 150 | Sell |
-| Olives | Uncommon | 2× Assorted Seeds | 640 | 10 | Nature | — | Scrappy 4 (6×) | 200 | Sell |
+| Olives | Uncommon | 2× Assorted Seeds | 640 | 10 | Nature | — | — | 200 | Sell |
 | Padded Stock | Epic | 1× Duct Tape 1× Mod Components | 5,000 | 1 | Mods | — | — | 2050 | Sell |
 | Painted Box | Common | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
 | Patrol Car Key | Uncommon | Cannot be recycled | 100 | 1 | Key | — | — |  | Unknown |
@@ -219,7 +219,7 @@
 | Power Bank | Rare | 2× Battery 2× Wires | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
 | Power Cable | Rare | 4× Wires | 1,000 | 3 | Recyclable | — | Gear Bench 2 (3×) | 800 | Sell |
 | Power Rod | Epic | 1× Advanced Electrical Components 1× ARC Circuitry | 5,000 | 3 | Refined Material | — | — | 2750 | Sell |
-| Prickly Pear | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | Scrappy 4 (6×) | 300 | Sell |
+| Prickly Pear | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | — | 300 | Sell |
 | Processor | Rare | 1× Plastic Parts 1× Wires | 500 | 5 | Topside Material | — | — | 260 | Sell |
 | Projector | Rare | 1× Processor 2× Wires | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
 | Pulse Mine | Uncommon | 6× Chemicals | 470 | 3 | Quick Use | — | — | 300 | Sell |
@@ -326,7 +326,7 @@
 | Vertical Grip I | Common | 6× Plastic Parts | 640 | 1 | Mods | — | — | 360 | Sell |
 | Vertical Grip II | Uncommon | 1× Duct Tape 1× Mechanical Components | 2,000 | 1 | Mods | — | — | 940 | Sell |
 | Vertical Grip III | Rare | 2× Duct Tape 2× Mechanical Components | 5,000 | 1 | Mods | — | — | 1880 | Sell |
-| Very Comfortable Pillow | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket | — | Scrappy 5 (3×) |  | Unknown |
+| Very Comfortable Pillow | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
 | Vita Shot | Rare | 1× Syringe 4× Chemicals | 2,200 | 3 | Quick Use | — | — | 700 | Sell |
 | Vita Spray | Epic | 1× Antiseptic 2× Canister | 3,000 | 1 | Quick Use | — | — | 1600 | Sell |
 | Volcanic Rock | Common | Cannot be recycled | 270 | 5 | Misc | — | — |  | Unknown |
