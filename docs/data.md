@@ -164,7 +164,6 @@
 | Leaper Pulse Unit | Epic | 2× Advanced Mechanical Components 3× ARC Alloy | 5,000 | 3 | Recyclable | Into The Fray (1×) | Utility Station 3 (4×) | 4100 | Sell |
 | Lemon | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | — | 300 | Sell |
 | Li'l Smoke Grenade | Common | 1× Chemicals 1× Plastic Parts | 300 | 5 | Quick Use | — | — | 110 | Sell |
-| Lidar Scanner |  | Cannot be recycled | 0 | 1 | Trinket | — | — |  | Unknown |
 | Light Ammo | Common | Cannot be recycled | 4 | 100 | Ammunition | — | — |  | Unknown |
 | Light Bulb | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
 | Light Gun Parts | Rare | 2× Simple Gun Parts | 700 | 5 | Topside Material | — | — | 660 | Sell |
@@ -204,7 +203,7 @@
 | Oil | Uncommon | 3× Chemicals | 300 | 15 | Topside Material | — | — | 150 | Sell |
 | Olives | Uncommon | 2× Assorted Seeds | 640 | 10 | Nature | — | — | 200 | Sell |
 | Padded Stock | Epic | 1× Duct Tape 1× Mod Components | 5,000 | 1 | Mods | — | — | 2050 | Sell |
-| Painted Box | Common | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
+| Painted Box | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
 | Patrol Car Key | Uncommon | Cannot be recycled | 100 | 1 | Key | — | — |  | Unknown |
 | Photoelectric Cloak | Epic | 1× Advanced Electrical Components 1× Speaker Component | 5,000 | 1 | Quick Use | — | — | 2250 | Sell |
 | Pilgrim's Peak Security Code | Common | Cannot be recycled | 0 | 1 | Key | — | — |  | Unknown |

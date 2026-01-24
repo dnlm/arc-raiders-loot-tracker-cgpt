@@ -1981,18 +1981,6 @@
       "Sell"
     ],
     [
-      "Lidar Scanner",
-      "",
-      "Cannot be recycled",
-      "0",
-      "1",
-      "Trinket",
-      "—",
-      "—",
-      "",
-      "Unknown"
-    ],
-    [
       "Light Ammo",
       "Common",
       "Cannot be recycled",
@@ -2462,7 +2450,7 @@
     ],
     [
       "Painted Box",
-      "Common",
+      "Uncommon",
       "Cannot be recycled",
       "2,000",
       "3",
@@ -4045,5 +4033,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2026-01-23T03:12:05Z"
+  "generated_at": "2026-01-24T03:07:45Z"
 }
