@@ -121,6 +121,18 @@
       "Sell"
     ],
     [
+      "Alien Duck",
+      "Uncommon",
+      "Cannot be recycled",
+      "1,000",
+      "15",
+      "Trinket",
+      "—",
+      "—",
+      "",
+      "Unknown"
+    ],
+    [
       "Ancient Fort Security Code",
       "Common",
       "Cannot be recycled",
@@ -1141,6 +1153,18 @@
       "Sell"
     ],
     [
+      "Doodly Duck",
+      "Rare",
+      "Cannot be recycled",
+      "3,000",
+      "15",
+      "Trinket",
+      "—",
+      "—",
+      "",
+      "Unknown"
+    ],
+    [
       "Door Blocker",
       "Common",
       "2× Metal Parts",
@@ -1429,6 +1453,18 @@
       "Unknown"
     ],
     [
+      "Familiar Duck",
+      "Epic",
+      "Cannot be recycled",
+      "7,000",
+      "15",
+      "Trinket",
+      "—",
+      "—",
+      "",
+      "Unknown"
+    ],
+    [
       "Fertilizer",
       "Uncommon",
       "2× Assorted Seeds",
@@ -1511,6 +1547,18 @@
       "—",
       "940",
       "Sell"
+    ],
+    [
+      "Flashy Duck",
+      "Rare",
+      "Cannot be recycled",
+      "3,000",
+      "15",
+      "Trinket",
+      "—",
+      "—",
+      "",
+      "Unknown"
     ],
     [
       "Flow Controller",
@@ -1655,6 +1703,18 @@
       "—",
       "3500",
       "Sell"
+    ],
+    [
+      "Gentle Duck",
+      "Uncommon",
+      "Cannot be recycled",
+      "1,000",
+      "15",
+      "Trinket",
+      "—",
+      "—",
+      "",
+      "Unknown"
     ],
     [
       "Great Mullein",
@@ -1854,6 +1914,18 @@
       "Cannot be recycled",
       "",
       "",
+      "Quick Use",
+      "—",
+      "—",
+      "",
+      "Unknown"
+    ],
+    [
+      "Integrated Defibrillator",
+      "Rare",
+      "Cannot be recycled",
+      "",
+      "3",
       "Quick Use",
       "—",
       "—",
@@ -2099,6 +2171,18 @@
       "—",
       "2250",
       "Sell"
+    ],
+    [
+      "Looting Mk. 3 (Safekeeper)",
+      "Epic",
+      "Cannot be recycled",
+      "5,000",
+      "1",
+      "Augment",
+      "—",
+      "—",
+      "",
+      "Unknown"
     ],
     [
       "Looting Mk. 3 (Survivor)",
@@ -3697,6 +3781,18 @@
       "Sell"
     ],
     [
+      "Tactical Mk. 3 (Revival)",
+      "Epic",
+      "Cannot be recycled",
+      "5,000",
+      "1",
+      "Augment",
+      "—",
+      "—",
+      "",
+      "Unknown"
+    ],
+    [
       "Tagging Grenade",
       "Rare",
       "1× Plastic Parts 1× Sensors",
@@ -3827,6 +3923,18 @@
       "—",
       "550",
       "Sell"
+    ],
+    [
+      "Tropical Duck",
+      "Uncommon",
+      "Cannot be recycled",
+      "1,000",
+      "15",
+      "Trinket",
+      "—",
+      "—",
+      "",
+      "Unknown"
     ],
     [
       "Turbo Pump",
@@ -4033,5 +4141,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2026-01-27T03:15:43Z"
+  "generated_at": "2026-01-28T03:14:00Z"
 }

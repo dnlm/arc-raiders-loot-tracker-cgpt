@@ -9,6 +9,7 @@
 | Agave Juice | Common | Cannot be recycled | 1,800 | 5 | Quick Use | — | — |  | Unknown |
 | Air Freshener | Uncommon | Cannot be recycled | 2,000 | 5 | Trinket | — | — |  | Unknown |
 | Alarm Clock | Rare | 1× Processor 6× Plastic Parts | 1,000 | 3 | Recyclable | — | — | 860 | Sell |
+| Alien Duck | Uncommon | Cannot be recycled | 1,000 | 15 | Trinket | — | — |  | Unknown |
 | Ancient Fort Security Code | Common | Cannot be recycled | 0 | 1 | Key | — | — |  | Unknown |
 | Angled Grip I | Common | 6× Plastic Parts | 640 | 1 | Mods | — | — | 360 | Sell |
 | Angled Grip II | Uncommon | 1× Duct Tape 1× Mechanical Components | 2,000 | 1 | Mods | — | — | 940 | Sell |
@@ -94,6 +95,7 @@
 | Degraded ARC Rubber | Uncommon | 11× Rubber Parts | 640 | 3 | Recyclable | — | — | 550 | Sell |
 | Diving Goggles | Rare | 12× Rubber Parts | 640 | 3 | Recyclable | — | — | 600 | Sell |
 | Dog Collar | Rare | 1× Metal Parts 8× Fabric | 640 | 3 | Recyclable | — | — | 475 | Sell |
+| Doodly Duck | Rare | Cannot be recycled | 3,000 | 15 | Trinket | — | — |  | Unknown |
 | Door Blocker | Common | 2× Metal Parts | 270 | 3 | Quick Use | — | — | 150 | Sell |
 | Dried-Out ARC Resin | Uncommon | 9× Plastic Parts | 640 | 3 | Recyclable | — | — | 540 | Sell |
 | Duct Tape | Uncommon | 3× Fabric | 300 | 15 | Topside Material | — | — | 150 | Sell |
@@ -118,6 +120,7 @@
 | Extended Shotgun Mag III | Rare | 1× Mod Components 2× Steel Spring | 5,000 | 1 | Mods | — | — | 2350 | Sell |
 | Fabric | Common | Cannot be recycled | 50 | 50 | Basic Material | — | Gear Bench 1 (30×) Medical Lab 1 (50×) |  | Unknown |
 | Faded Photograph | Common | Cannot be recycled | 640 | 15 | Trinket | — | — |  | Unknown |
+| Familiar Duck | Epic | Cannot be recycled | 7,000 | 15 | Trinket | — | — |  | Unknown |
 | Fertilizer | Uncommon | 2× Assorted Seeds | 1,000 | 5 | Nature | — | — | 200 | Sell |
 | Film Reel | Rare | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
 | Fine Wristwatch | Rare | Cannot be recycled | 3,000 | 3 | Trinket | — | — |  | Unknown |
@@ -125,6 +128,7 @@
 | Firecracker | Common | 3× Plastic Parts | 270 | 5 | Quick Use | — | — | 180 | Sell |
 | Fireworks Box | Rare | 1× Explosive Compound | 2,000 | 1 | Quick Use | — | — | 1000 | Sell |
 | Flame Spray | Uncommon | 1× Canister 1× Fireball Burner | 2,000 | 1 | Quick Use | — | — | 940 | Sell |
+| Flashy Duck | Rare | Cannot be recycled | 3,000 | 15 | Trinket | — | — |  | Unknown |
 | Flow Controller | Rare | 1× Advanced Mechanical Components 1× Sensors | 3,000 | 3 | Recyclable | Snap And Salvage (1×) | — | 2250 | Sell |
 | Fossilized Lightning | Epic | 3× Explosive Compound | 4,000 | 1 | Nature | — | — | 3000 | Sell |
 | Free Loadout Augment | Common | Cannot be recycled | 100 | 1 | Augment | — | — |  | Unknown |
@@ -137,6 +141,7 @@
 | Gas Grenade Trap | Common | Cannot be recycled | 300 | 3 | Quick Use | — | — |  | Unknown |
 | Gas Mine | Common | 1× Chemicals 1× Rubber Parts | 270 | 3 | Quick Use | — | — | 100 | Sell |
 | Geiger Counter | Epic | 1× Exodus Modules 3× Battery | 3,500 | 3 | Recyclable | — | — | 3500 | Sell |
+| Gentle Duck | Uncommon | Cannot be recycled | 1,000 | 15 | Trinket | — | — |  | Unknown |
 | Great Mullein | Uncommon | 2× Assorted Seeds | 300 | 15 | Topside Material | Doctor's Orders (1×) | — | 200 | Sell |
 | Headphones | Rare | 1× Speaker Component 7× Rubber Parts | 1,000 | 3 | Recyclable | — | — | 850 | Sell |
 | Heavy Ammo | Common | Cannot be recycled | 12 | 40 | Ammunition | — | — |  | Unknown |
@@ -154,6 +159,7 @@
 | Industrial Charger | Rare | 1× Voltage Converter 5× Metal Parts | 1,000 | 3 | Recyclable | — | — | 875 | Sell |
 | Industrial Magnet | Rare | 2× Magnet 4× Metal Parts | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
 | Integrated Binoculars | Common | Cannot be recycled |  |  | Quick Use | — | — |  | Unknown |
+| Integrated Defibrillator | Rare | Cannot be recycled |  | 3 | Quick Use | — | — |  | Unknown |
 | Integrated Shield Recharger | Common | Cannot be recycled |  | 1 | Quick Use | — | — |  | Unknown |
 | Ion Sputter | Epic | 1× Exodus Modules 4× Voltage Converter | 6,000 | 3 | Recyclable | — | — | 4750 | Sell |
 | Jolt Mine | Rare | 1× Battery 2× Plastic Parts | 850 | 3 | Quick Use | — | — | 370 | Sell |
@@ -174,6 +180,7 @@
 | Looting Mk. 1 | Uncommon | 3× Plastic Parts 3× Rubber Parts | 640 | 1 | Augment | — | — | 330 | Sell |
 | Looting Mk. 2 | Rare | 1× Electrical Components 1× Magnet | 2,000 | 1 | Augment | — | — | 940 | Sell |
 | Looting Mk. 3 (Cautious) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | — | — | 2250 | Sell |
+| Looting Mk. 3 (Safekeeper) | Epic | Cannot be recycled | 5,000 | 1 | Augment | — | — |  | Unknown |
 | Looting Mk. 3 (Survivor) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | — | — | 2250 | Sell |
 | Lure Grenade | Uncommon | 1× Speaker Component | 1,000 | 3 | Quick Use | — | — | 500 | Sell |
 | Lure Grenade Trap | Uncommon | Cannot be recycled | 1,000 | 3 | Quick Use | — | — |  | Unknown |
@@ -307,6 +314,7 @@
 | Tactical Mk. 2 | Rare | 1× Electrical Components 1× Magnet | 2,000 | 1 | Augment | — | — | 940 | Sell |
 | Tactical Mk. 3 (Defensive) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | — | — | 2250 | Sell |
 | Tactical Mk. 3 (Healing) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | — | — | 2250 | Sell |
+| Tactical Mk. 3 (Revival) | Epic | Cannot be recycled | 5,000 | 1 | Augment | — | — |  | Unknown |
 | Tagging Grenade | Rare | 1× Plastic Parts 1× Sensors | 1,000 | 3 | Quick Use | — | — | 560 | Sell |
 | Tattered ARC Lining | Uncommon | 12× Fabric | 640 | 3 | Recyclable | — | — | 600 | Sell |
 | Tattered Clothes | Uncommon | 11× Fabric | 640 | 3 | Recyclable | — | — | 550 | Sell |
@@ -318,6 +326,7 @@
 | Torn Book | Common | Cannot be recycled | 1,000 | 5 | Trinket | — | — |  | Unknown |
 | Trailblazer | Rare | 2× Crude Explosives | 1,600 | 3 | Quick Use | — | — | 540 | Sell |
 | Trigger 'Nade | Rare | 1× Chemicals 1× Processor | 1,000 | 3 | Quick Use | — | — | 550 | Sell |
+| Tropical Duck | Uncommon | Cannot be recycled | 1,000 | 15 | Trinket | — | — |  | Unknown |
 | Turbo Pump | Rare | 1× Mechanical Components 3× Oil | 2,000 | 3 | Recyclable | — | — | 1540 | Sell |
 | Unusable Weapon | Rare | 4× Metal Parts 5× Simple Gun Parts | 2,000 | 3 | Recyclable | — | — | 1950 | Sell |
 | Vase | Rare | Cannot be recycled | 3,000 | 3 | Trinket | — | — |  | Unknown |
