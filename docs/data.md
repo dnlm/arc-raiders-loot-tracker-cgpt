@@ -161,7 +161,7 @@
 | Integrated Binoculars | Common | Cannot be recycled |  |  | Quick Use | — | — |  | Unknown |
 | Integrated Defibrillator | Rare | Cannot be recycled |  | 3 | Quick Use | — | — |  | Unknown |
 | Integrated Shield Recharger | Common | Cannot be recycled |  | 1 | Quick Use | — | — |  | Unknown |
-| Ion Sputter | Epic | 1× Exodus Modules 4× Voltage Converter | 6,000 | 3 | Recyclable | — | — | 4750 | Sell |
+| Ion Sputter | Epic | 1× Exodus Modules 4× Voltage Converter | 6,000 | 3 | Recyclable | With A View (1×) | — | 4750 | Sell |
 | Jolt Mine | Rare | 1× Battery 2× Plastic Parts | 850 | 3 | Quick Use | — | — | 370 | Sell |
 | Kinetic Converter | Legendary | 1× Mod Components 2× Duct Tape | 7,000 | 1 | Mods | — | — | 2350 | Sell |
 | Laboratory Reagents | Rare | 16× Chemicals 3× Crude Explosives | 2,000 | 3 | Recyclable | — | Explosives Station 3 (3×) | 1610 | Sell |
@@ -180,7 +180,7 @@
 | Looting Mk. 1 | Uncommon | 3× Plastic Parts 3× Rubber Parts | 640 | 1 | Augment | — | — | 330 | Sell |
 | Looting Mk. 2 | Rare | 1× Electrical Components 1× Magnet | 2,000 | 1 | Augment | — | — | 940 | Sell |
 | Looting Mk. 3 (Cautious) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | — | — | 2250 | Sell |
-| Looting Mk. 3 (Safekeeper) | Epic | Cannot be recycled | 5,000 | 1 | Augment | — | — |  | Unknown |
+| Looting Mk. 3 (Safekeeper) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | — | — | 2250 | Sell |
 | Looting Mk. 3 (Survivor) | Epic | 1× Advanced Electrical Components 1× Processor | 5,000 | 1 | Augment | — | — | 2250 | Sell |
 | Lure Grenade | Uncommon | 1× Speaker Component | 1,000 | 3 | Quick Use | — | — | 500 | Sell |
 | Lure Grenade Trap | Uncommon | Cannot be recycled | 1,000 | 3 | Quick Use | — | — |  | Unknown |
@@ -223,7 +223,7 @@
 | Pottery | Uncommon | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
 | Power Bank | Rare | 2× Battery 2× Wires | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
 | Power Cable | Rare | 4× Wires | 1,000 | 3 | Recyclable | — | Gear Bench 2 (3×) | 800 | Sell |
-| Power Rod | Epic | 1× Advanced Electrical Components 1× ARC Circuitry | 5,000 | 3 | Refined Material | — | — | 2750 | Sell |
+| Power Rod | Epic | 1× Advanced Electrical Components 1× ARC Circuitry | 5,000 | 3 | Refined Material | Tribute To Toledo (1×) | — | 2750 | Sell |
 | Prickly Pear | Uncommon | 3× Assorted Seeds | 640 | 10 | Nature | — | — | 300 | Sell |
 | Processor | Rare | 1× Plastic Parts 1× Wires | 500 | 5 | Topside Material | — | — | 260 | Sell |
 | Projector | Rare | 1× Processor 2× Wires | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
@@ -245,7 +245,7 @@
 | Roots | Uncommon | 1× Assorted Seeds | 640 | 10 | Nature | — | — | 100 | Sell |
 | Rope | Rare | 5× Fabric | 500 | 5 | Topside Material | — | — | 250 | Sell |
 | Rosary | Rare | Cannot be recycled | 2,000 | 3 | Trinket | — | — |  | Unknown |
-| Rotary Encoder | Rare | 2× Electrical Components 2× Processor | 3,000 | 3 | Recyclable | — | — | 2280 | Sell |
+| Rotary Encoder | Rare | 2× Electrical Components 2× Processor | 3,000 | 3 | Recyclable | With A View (1×) | — | 2280 | Sell |
 | Rubber Duck | Common | Cannot be recycled | 1,000 | 15 | Trinket | — | — |  | Unknown |
 | Rubber Pad | Rare | 18× Rubber Parts | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
 | Rubber Parts | Common | Cannot be recycled | 50 | 50 | Basic Material | — | Gunsmith 1 (30×) |  | Unknown |

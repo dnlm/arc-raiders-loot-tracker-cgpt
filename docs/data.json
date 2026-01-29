@@ -1951,7 +1951,7 @@
       "6,000",
       "3",
       "Recyclable",
-      "—",
+      "With A View (1×)",
       "—",
       "4750",
       "Sell"
@@ -2175,14 +2175,14 @@
     [
       "Looting Mk. 3 (Safekeeper)",
       "Epic",
-      "Cannot be recycled",
+      "1× Advanced Electrical Components 1× Processor",
       "5,000",
       "1",
       "Augment",
       "—",
       "—",
-      "",
-      "Unknown"
+      "2250",
+      "Sell"
     ],
     [
       "Looting Mk. 3 (Survivor)",
@@ -2695,7 +2695,7 @@
       "5,000",
       "3",
       "Refined Material",
-      "—",
+      "Tribute To Toledo (1×)",
       "—",
       "2750",
       "Sell"
@@ -2959,7 +2959,7 @@
       "3,000",
       "3",
       "Recyclable",
-      "—",
+      "With A View (1×)",
       "—",
       "2280",
       "Sell"
@@ -4141,5 +4141,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2026-01-28T03:14:00Z"
+  "generated_at": "2026-01-29T03:21:22Z"
 }
