@@ -1912,7 +1912,7 @@
       "Integrated Binoculars",
       "Common",
       "Cannot be recycled",
-      "",
+      "0",
       "",
       "Quick Use",
       "—",
@@ -1936,7 +1936,7 @@
       "Integrated Shield Recharger",
       "Common",
       "Cannot be recycled",
-      "",
+      "0",
       "1",
       "Quick Use",
       "—",
@@ -4141,5 +4141,5 @@
       "Sell"
     ]
   ],
-  "generated_at": "2026-01-31T03:19:37Z"
+  "generated_at": "2026-02-01T03:36:31Z"
 }

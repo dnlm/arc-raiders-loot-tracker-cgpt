@@ -158,9 +158,9 @@
 | Industrial Battery | Rare | 2× Battery 7× Chemicals | 1,000 | 3 | Recyclable | — | Gear Bench 3 (3×) | 850 | Sell |
 | Industrial Charger | Rare | 1× Voltage Converter 5× Metal Parts | 1,000 | 3 | Recyclable | — | — | 875 | Sell |
 | Industrial Magnet | Rare | 2× Magnet 4× Metal Parts | 1,000 | 3 | Recyclable | — | — | 900 | Sell |
-| Integrated Binoculars | Common | Cannot be recycled |  |  | Quick Use | — | — |  | Unknown |
+| Integrated Binoculars | Common | Cannot be recycled | 0 |  | Quick Use | — | — |  | Unknown |
 | Integrated Defibrillator | Rare | Cannot be recycled |  | 3 | Quick Use | — | — |  | Unknown |
-| Integrated Shield Recharger | Common | Cannot be recycled |  | 1 | Quick Use | — | — |  | Unknown |
+| Integrated Shield Recharger | Common | Cannot be recycled | 0 | 1 | Quick Use | — | — |  | Unknown |
 | Ion Sputter | Epic | 1× Exodus Modules 4× Voltage Converter | 6,000 | 3 | Recyclable | With A View (1×) | — | 4750 | Sell |
 | Jolt Mine | Rare | 1× Battery 2× Plastic Parts | 850 | 3 | Quick Use | — | — | 370 | Sell |
 | Kinetic Converter | Legendary | 1× Mod Components 2× Duct Tape | 7,000 | 1 | Mods | — | — | 2350 | Sell |
