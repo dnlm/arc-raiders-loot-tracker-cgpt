@@ -17,12 +17,12 @@
       "Acoustic Guitar",
       "Legendary",
       "4× Metal Parts 6× Wires",
-      "7000",
+      "7,000",
       "1",
       "Quick Use",
       "",
-      "1500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -33,8 +33,8 @@
       "5",
       "Quick Use",
       "",
-      "110",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -45,39 +45,39 @@
       "5",
       "Topside Material",
       "",
-      "540",
-      "Sell"
+      "1280",
+      "Recycle"
     ],
     [
       "",
       "Advanced Electrical Components",
       "Rare",
       "1× Electrical Components 1× Wires",
-      "1750",
+      "1,750",
       "5",
       "Refined Material",
       "Workshop Gear Bench 3 (5×) Utility Station 3 (5×)",
-      "840",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Advanced Mechanical Components",
       "Rare",
       "1× Mechanical Components 1× Steel Spring",
-      "1750",
+      "1,750",
       "5",
       "Refined Material",
       "Workshop Gunsmith 3 (5×)",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Agave Juice",
       "Common",
       "Cannot be recycled",
-      "1800",
+      "1,800",
       "5",
       "Quick Use",
       "",
@@ -89,19 +89,19 @@
       "Agave",
       "Uncommon",
       "3× Assorted Seeds",
-      "1000",
+      "1,000",
       "10",
       "Nature",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Air Freshener",
       "Uncommon",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "5",
       "Trinket",
       "",
@@ -113,19 +113,19 @@
       "Alarm Clock",
       "Rare",
       "1× Processor 6× Plastic Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "860",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Alien Duck",
       "Uncommon",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "15",
       "Trinket",
       "",
@@ -141,56 +141,56 @@
       "1",
       "Mods",
       "",
-      "360",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Angled Grip II",
       "Uncommon",
       "1× Duct Tape 1× Mechanical Components",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Angled Grip III",
       "Rare",
       "1× Mod Components 2× Duct Tape",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Antiseptic",
       "Rare",
       "10× Chemicals",
-      "1000",
+      "1,000",
       "5",
       "Refined Material",
       "Workshop Medical Lab 3 (8×) Quests Doctor's Orders (2×)",
-      "500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Anvil Splitter",
       "Legendary",
       "1× Mod Components 1× Processor",
-      "7000",
+      "7,000",
       "1",
       "Mods",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -201,8 +201,8 @@
       "10",
       "Nature",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -213,68 +213,68 @@
       "15",
       "Topside Material",
       "Workshop Explosives Station 1 (6×) Medical Lab 1 (6×) Utility Station 1 (6×) Quests Clearer Skies (3×)",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "ARC Circuitry",
       "Rare",
       "2× ARC Alloy",
-      "1000",
+      "1,000",
       "5",
       "Topside Material",
       "Workshop Refiner 3 (10×)",
-      "400",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "ARC Coolant",
       "Rare",
       "16× Chemicals",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "800",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "ARC Flex Rubber",
       "Rare",
       "16× Rubber Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "800",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "ARC Motion Core",
       "Rare",
       "2× ARC Alloy",
-      "1000",
+      "1,000",
       "5",
       "Topside Material",
       "Workshop Refiner 2 (5×)",
-      "400",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "ARC Performance Steel",
       "Rare",
       "12× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -293,24 +293,24 @@
       "ARC Synthetic Resin",
       "Rare",
       "14× Plastic Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "840",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "ARC Thermo Lining",
       "Rare",
       "16× Fabric",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "800",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -333,8 +333,8 @@
       "5",
       "Quick Use",
       "",
-      "100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -345,20 +345,20 @@
       "3",
       "Quick Use",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Bastion Cell",
       "Epic",
       "2× Advanced Mechanical Components 2× ARC Alloy",
-      "5000",
+      "5,000",
       "3",
       "Recyclable",
       "Workshop Gear Bench 3 (6×)",
-      "3900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -369,20 +369,20 @@
       "15",
       "Topside Material",
       "Quests After Rain Comes (2×) Trash Into Treasure (1×)",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Bicycle Pump",
       "Rare",
       "10× Metal Parts 4× Canister",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Quests The League (1×)",
-      "1950",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -393,8 +393,8 @@
       "1",
       "Quick Use",
       "",
-      "340",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -413,7 +413,7 @@
       "Blaze Grenade Trap",
       "Rare",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "3",
       "Quick Use",
       "",
@@ -425,19 +425,19 @@
       "Blaze Grenade",
       "Rare",
       "2× Oil 4× Metal Parts",
-      "1600",
+      "1,600",
       "5",
       "Quick Use",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Bloated Tuna Can",
       "Common",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "15",
       "Trinket",
       "",
@@ -501,27 +501,27 @@
       "5",
       "Quick Use",
       "",
-      "50",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Bombardier Cell",
       "Epic",
       "2× Advanced Mechanical Components 2× ARC Alloy",
-      "5000",
+      "5,000",
       "3",
       "Recyclable",
       "Workshop Refiner 3 (6×)",
-      "3900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Breathtaking Snow Globe",
       "Epic",
       "Cannot be recycled",
-      "7000",
+      "7,000",
       "1",
       "Trinket",
       "",
@@ -533,48 +533,48 @@
       "Broken Flashlight",
       "Rare",
       "2× Battery 6× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "950",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Broken Guidance System",
       "Rare",
       "4× Processor",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "2000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Broken Handheld Radio",
       "Rare",
       "2× Wires 3× Sensors",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Broken Taser",
       "Rare",
       "2× Battery 2× Wires",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -633,8 +633,8 @@
       "5",
       "Recyclable",
       "",
-      "400",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -657,8 +657,8 @@
       "5",
       "Recyclable",
       "",
-      "480",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -669,8 +669,8 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -681,8 +681,8 @@
       "10",
       "Nature",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -693,15 +693,15 @@
       "15",
       "Topside Material",
       "",
-      "180",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Cat Bed",
       "Uncommon",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "3",
       "Trinket",
       "",
@@ -725,7 +725,7 @@
       "Coffee Pot",
       "Common",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "3",
       "Trinket",
       "",
@@ -741,44 +741,44 @@
       "1",
       "Augment",
       "",
-      "330",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Combat Mk. 2",
       "Rare",
       "1× Electrical Components 1× Magnet",
-      "2000",
+      "2,000",
       "1",
       "Augment",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Combat Mk. 3 (Aggressive)",
       "Epic",
       "1× Advanced Electrical Components 1× Processor",
-      "5000",
+      "5,000",
       "1",
       "Augment",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Combat Mk. 3 (Flanking)",
       "Epic",
       "1× Advanced Electrical Components 1× Processor",
-      "5000",
+      "5,000",
       "1",
       "Augment",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -789,92 +789,92 @@
       "1",
       "Mods",
       "",
-      "375",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Compensator II",
       "Uncommon",
       "1× Mechanical Components 1× Wires",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "840",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Compensator III",
       "Rare",
       "1× Mod Components 2× Wires",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Complex Gun Parts",
       "Epic",
       "3× Simple Gun Parts",
-      "3000",
+      "3,000",
       "3",
       "Topside Material",
       "",
-      "990",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Coolant",
       "Rare",
       "2× Oil 5× Chemicals",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "850",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Cooling Coil",
       "Rare",
       "2× Steel Spring 6× Chemicals",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Cooling Fan",
       "Rare",
       "14× Plastic Parts 4× Wires",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1640",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Cracked Bioscanner",
       "Rare",
       "3× Battery 3× Rubber Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Workshop Medical Lab 2 (2×)",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -885,8 +885,8 @@
       "10",
       "Refined Material",
       "Workshop Explosives Station 2 (5×)",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -897,8 +897,8 @@
       "3",
       "Recyclable",
       "",
-      "240",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -969,8 +969,8 @@
       "5",
       "Recyclable",
       "",
-      "400",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -981,8 +981,8 @@
       "5",
       "Recyclable",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -993,20 +993,20 @@
       "3",
       "Recyclable",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Damaged Heat Sink",
       "Rare",
       "2× Wires 6× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Workshop Utility Station 2 (2×)",
-      "850",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1017,32 +1017,32 @@
       "3",
       "Recyclable",
       "",
-      "400",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Damaged Leaper Pulse Unit",
       "Common",
       "3× ARC Alloy",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Damaged Rocketeer Driver",
       "Common",
       "3× ARC Alloy",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1065,8 +1065,8 @@
       "3",
       "Recyclable",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1077,15 +1077,15 @@
       "3",
       "Recyclable",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Dart Board",
       "Uncommon",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -1097,32 +1097,32 @@
       "Deadline",
       "Epic",
       "1× ARC Circuitry 1× Explosive Compound",
-      "5000",
+      "5,000",
       "1",
       "Quick Use",
       "",
-      "2000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Defibrillator",
       "Rare",
       "1× Moss 1× Plastic Parts",
-      "1000",
+      "1,000",
       "3",
       "Quick Use",
       "",
-      "560",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Integrated Defibrillator",
       "Rare",
       "Cannot be recycled",
-      "",
-      "3",
+      "0",
+      "1",
       "Quick Use",
       "",
       "",
@@ -1133,12 +1133,12 @@
       "Deflated Football",
       "Uncommon",
       "9× Fabric 9× Rubber Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Quests The League (1×)",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1149,8 +1149,8 @@
       "3",
       "Recyclable",
       "",
-      "550",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1161,8 +1161,8 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1173,15 +1173,15 @@
       "3",
       "Recyclable",
       "",
-      "475",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Doodly Duck",
       "Rare",
       "Cannot be recycled",
-      "3000",
+      "3,000",
       "15",
       "Trinket",
       "",
@@ -1197,8 +1197,8 @@
       "3",
       "Quick Use",
       "",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1209,8 +1209,8 @@
       "3",
       "Recyclable",
       "",
-      "540",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1221,8 +1221,8 @@
       "15",
       "Topside Material",
       "",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1233,8 +1233,8 @@
       "10",
       "Refined Material",
       "Workshop Medical Lab 2 (5×) Quests Doctor's Orders (1×)",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1245,15 +1245,15 @@
       "10",
       "Refined Material",
       "Workshop Gear Bench 2 (5×) Utility Station 2 (5×)",
-      "330",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Empty Wine Bottle",
       "Common",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "5",
       "Trinket",
       "",
@@ -1265,7 +1265,7 @@
       "Energy Clip",
       "Rare",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "5",
       "Ammunition",
       "",
@@ -1277,19 +1277,19 @@
       "Exodus Modules",
       "Epic",
       "2× Magnet 2× Processor",
-      "2750",
+      "2,750",
       "3",
       "Topside Material",
       "",
-      "1600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Expired Pasta",
       "Common",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "15",
       "Trinket",
       "",
@@ -1305,44 +1305,44 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Explosive Compound",
       "Rare",
       "2× Crude Explosives",
-      "1000",
+      "1,000",
       "5",
       "Refined Material",
       "Workshop Explosives Station 3 (5×)",
-      "540",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Explosive Mine",
       "Rare",
       "1× Sensors 2× Oil",
-      "1500",
+      "1,500",
       "3",
       "Quick Use",
       "",
-      "1100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Extended Barrel",
       "Epic",
       "1× Mod Components 1× Wires",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "1950",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1353,32 +1353,32 @@
       "1",
       "Mods",
       "",
-      "360",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Extended Light Mag II",
       "Uncommon",
       "1× Mechanical Components 1× Steel Spring",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Extended Light Mag III",
       "Rare",
       "1× Mod Components 2× Steel Spring",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1389,32 +1389,32 @@
       "1",
       "Mods",
       "",
-      "360",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Extended Medium Mag II",
       "Uncommon",
       "1× Mechanical Components 1× Steel Spring",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Extended Medium Mag III",
       "Rare",
       "1× Mod Components 2× Steel Spring",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1425,32 +1425,32 @@
       "1",
       "Mods",
       "",
-      "360",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Extended Shotgun Mag II",
       "Uncommon",
       "1× Mechanical Components 1× Steel Spring",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Extended Shotgun Mag III",
       "Rare",
       "1× Mod Components 2× Steel Spring",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1481,7 +1481,7 @@
       "Familiar Duck",
       "Epic",
       "Cannot be recycled",
-      "7000",
+      "7,000",
       "15",
       "Trinket",
       "",
@@ -1493,19 +1493,19 @@
       "Fertilizer",
       "Uncommon",
       "2× Assorted Seeds",
-      "1000",
+      "1,000",
       "5",
       "Nature",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Film Reel",
       "Rare",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -1517,7 +1517,7 @@
       "Fine Wristwatch",
       "Rare",
       "Cannot be recycled",
-      "3000",
+      "3,000",
       "3",
       "Trinket",
       "",
@@ -1533,8 +1533,8 @@
       "3",
       "Recyclable",
       "Workshop Refiner 2 (8×)",
-      "250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1545,39 +1545,39 @@
       "5",
       "Quick Use",
       "",
-      "180",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Fireworks Box",
       "Rare",
       "1× Explosive Compound",
-      "2000",
+      "2,000",
       "1",
       "Quick Use",
       "",
-      "1000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Flame Spray",
       "Uncommon",
       "1× Canister 1× Fireball Burner",
-      "2000",
+      "2,000",
       "1",
       "Quick Use",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Flashy Duck",
       "Rare",
       "Cannot be recycled",
-      "3000",
+      "3,000",
       "15",
       "Trinket",
       "",
@@ -1589,24 +1589,24 @@
       "Flow Controller",
       "Rare",
       "1× Advanced Mechanical Components 1× Sensors",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "Quests Snap And Salvage (1×)",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Fossilized Lightning",
       "Epic",
       "3× Explosive Compound",
-      "4000",
+      "4,000",
       "1",
       "Nature",
       "",
-      "3000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1625,31 +1625,31 @@
       "Frequency Modulation Box",
       "Rare",
       "1× Advanced Electrical Components 1× Speaker Component",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Fried Motherboard",
       "Rare",
       "2× Electrical Components 5× Plastic Parts",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Utility Station 3 (3×)",
-      "1580",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Fruit Mix",
       "Uncommon",
       "Cannot be recycled",
-      "1800",
+      "1,800",
       "5",
       "Quick Use",
       "",
@@ -1665,20 +1665,20 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Garlic Press",
       "Uncommon",
       "12× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1701,8 +1701,8 @@
       "3",
       "Quick Use",
       "",
-      "100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1713,27 +1713,27 @@
       "3",
       "Quick Use",
       "",
-      "100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Geiger Counter",
       "Epic",
       "1× Exodus Modules 3× Battery",
-      "3500",
+      "3,500",
       "3",
       "Recyclable",
       "",
-      "3500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Gentle Duck",
       "Uncommon",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "15",
       "Trinket",
       "",
@@ -1749,20 +1749,20 @@
       "15",
       "Topside Material",
       "Quests Doctor's Orders (1×)",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Headphones",
       "Rare",
       "1× Speaker Component 7× Rubber Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "850",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1781,12 +1781,12 @@
       "Heavy Fuze Grenade",
       "Rare",
       "1× Oil 2× Rubber Parts",
-      "1600",
+      "1,600",
       "3",
       "Quick Use",
       "",
-      "400",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1797,20 +1797,20 @@
       "5",
       "Topside Material",
       "",
-      "660",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Heavy Shield",
       "Epic",
       "1× Voltage Converter 2× ARC Circuitry",
-      "5500",
+      "5,500",
       "1",
       "Shield",
       "",
-      "2500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1821,32 +1821,32 @@
       "5",
       "Quick Use",
       "",
-      "450",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Horizontal Grip",
       "Epic",
       "1× Mod Components 2× Duct Tape",
-      "7000",
+      "7,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Hornet Driver",
       "Rare",
       "2× ARC Alloy 2× Electrical Components",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Gear Bench 2 (5×) Quests The Trifecta (2×)",
-      "1680",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1857,20 +1857,20 @@
       "3",
       "Recyclable",
       "",
-      "550",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Humidifier",
       "Rare",
       "2× Canister 2× Wires",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "1000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1881,8 +1881,8 @@
       "3",
       "Recyclable",
       "",
-      "525",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1893,56 +1893,68 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Industrial Battery",
       "Rare",
       "2× Battery 7× Chemicals",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Workshop Gear Bench 3 (3×)",
-      "850",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Industrial Charger",
       "Rare",
       "1× Voltage Converter 5× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "875",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Industrial Magnet",
       "Rare",
       "2× Magnet 4× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
+    ],
+    [
+      "",
+      "Integrated Shield Recharger",
+      "Common",
+      "Cannot be recycled",
+      "0",
+      "",
+      "Quick Use",
+      "",
+      "",
+      "Unknown"
     ],
     [
       "",
       "Ion Sputter",
       "Epic",
       "1× Exodus Modules 4× Voltage Converter",
-      "6000",
+      "6,000",
       "3",
       "Recyclable",
       "Quests With A View (1×)",
-      "4750",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -1953,39 +1965,39 @@
       "3",
       "Quick Use",
       "",
-      "370",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Kinetic Converter",
       "Legendary",
       "1× Mod Components 2× Duct Tape",
-      "7000",
+      "7,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Laboratory Reagents",
       "Rare",
       "16× Chemicals 3× Crude Explosives",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Explosives Station 3 (3×)",
-      "1610",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Lance's Mixtape (5th Edition)",
       "Epic",
       "Cannot be recycled",
-      "10000",
+      "10,000",
       "3",
       "Trinket",
       "",
@@ -2009,12 +2021,12 @@
       "Leaper Pulse Unit",
       "Epic",
       "2× Advanced Mechanical Components 3× ARC Alloy",
-      "5000",
+      "5,000",
       "3",
       "Recyclable",
       "Workshop Utility Station 3 (4×) Quests Into The Fray (1×)",
-      "4100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2025,8 +2037,8 @@
       "10",
       "Nature",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2037,8 +2049,8 @@
       "5",
       "Quick Use",
       "",
-      "110",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2061,8 +2073,8 @@
       "5",
       "Topside Material",
       "",
-      "660",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2073,8 +2085,8 @@
       "5",
       "Quick Use",
       "",
-      "110",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2085,27 +2097,27 @@
       "1",
       "Shield",
       "",
-      "240",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Lightweight Stock",
       "Epic",
       "1× Duct Tape 1× Mod Components",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2050",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Light Bulb",
       "Uncommon",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -2121,63 +2133,63 @@
       "1",
       "Augment",
       "",
-      "330",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Looting Mk. 2",
       "Rare",
       "1× Electrical Components 1× Magnet",
-      "2000",
+      "2,000",
       "1",
       "Augment",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Looting Mk. 3 (Cautious)",
       "Epic",
       "1× Advanced Electrical Components 1× Processor",
-      "5000",
+      "5,000",
       "1",
       "Augment",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Looting Mk. 3 (Safekeeper)",
       "Epic",
       "1× Advanced Electrical Components 1× Processor",
-      "5000",
+      "5,000",
       "1",
       "Augment",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Looting Mk. 3 (Survivor)",
       "Epic",
       "1× Advanced Electrical Components 1× Processor",
-      "5000",
+      "5,000",
       "1",
       "Augment",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Lure Grenade Trap",
       "Uncommon",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "3",
       "Quick Use",
       "",
@@ -2189,12 +2201,12 @@
       "Lure Grenade",
       "Uncommon",
       "1× Speaker Component",
-      "1000",
+      "1,000",
       "3",
       "Quick Use",
       "",
-      "500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2205,44 +2217,44 @@
       "15",
       "Topside Material",
       "",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Magnetic Accelerator",
       "Epic",
       "1× Advanced Mechanical Components 1× ARC Motion Core",
-      "5500",
+      "5,500",
       "3",
       "Refined Material",
       "",
-      "2750",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Magnetron",
       "Epic",
       "1× Magnetic Accelerator 1× Steel Spring",
-      "6000",
+      "6,000",
       "3",
       "Recyclable",
       "Quests Snap And Salvage (1×)",
-      "5800",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Matriarch Reactor",
       "Legendary",
       "1× Magnetic Accelerator 1× Power Rod",
-      "13000",
+      "13,000",
       "1",
       "Recyclable",
       "",
-      "10500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2253,8 +2265,8 @@
       "10",
       "Refined Material",
       "Workshop Gunsmith 2 (5×)",
-      "325",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2277,20 +2289,20 @@
       "5",
       "Topside Material",
       "",
-      "660",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Medium Shield",
       "Rare",
       "1× ARC Circuitry",
-      "2000",
+      "2,000",
       "1",
       "Shield",
       "",
-      "1000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2301,8 +2313,8 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2321,36 +2333,36 @@
       "Microscope",
       "Rare",
       "1× Advanced Mechanical Components 3× Magnet",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2650",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Mini Centrifuge",
       "Rare",
       "1× Advanced Mechanical Components 2× Canister",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Mod Components",
       "Rare",
       "1× Mechanical Components 1× Steel Spring",
-      "1750",
+      "1,750",
       "5",
       "Refined Material",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2361,27 +2373,27 @@
       "10",
       "Topside Material",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Motor",
       "Rare",
       "2× Mechanical Components 2× Oil",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Refiner 3 (3×)",
-      "1880",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Mushroom",
       "Uncommon",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "10",
       "Nature",
       "",
@@ -2393,7 +2405,7 @@
       "Music Box",
       "Rare",
       "Cannot be recycled",
-      "5000",
+      "5,000",
       "3",
       "Trinket",
       "",
@@ -2405,7 +2417,7 @@
       "Music Album",
       "Rare",
       "Cannot be recycled",
-      "3000",
+      "3,000",
       "3",
       "Trinket",
       "",
@@ -2421,32 +2433,32 @@
       "1",
       "Mods",
       "",
-      "375",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Muzzle Brake II",
       "Uncommon",
       "1× Mechanical Components 1× Wires",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "840",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Muzzle Brake III",
       "Rare",
       "1× Mod Components 2× Wires",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2457,8 +2469,8 @@
       "3",
       "Quick Use",
       "",
-      "500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2469,8 +2481,8 @@
       "3",
       "Recyclable",
       "",
-      "225",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2481,8 +2493,8 @@
       "15",
       "Topside Material",
       "",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2493,27 +2505,27 @@
       "10",
       "Nature",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Padded Stock",
       "Epic",
       "1× Duct Tape 1× Mod Components",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2050",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Painted Box",
       "Uncommon",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -2537,12 +2549,12 @@
       "Photoelectric Cloak",
       "Epic",
       "1× Advanced Electrical Components 1× Speaker Component",
-      "5000",
+      "5,000",
       "1",
       "Quick Use",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2561,7 +2573,7 @@
       "Playing Cards",
       "Rare",
       "Cannot be recycled",
-      "5000",
+      "5,000",
       "3",
       "Trinket",
       "",
@@ -2573,12 +2585,12 @@
       "Polluted Air Filter",
       "Rare",
       "2× Oil 6× Fabric",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2589,27 +2601,27 @@
       "3",
       "Recyclable",
       "Workshop Explosives Station 2 (5×)",
-      "470",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Portable TV",
       "Rare",
       "2× Battery 6× Wires",
-      "2000",
+      "2,000",
       "1",
       "Recyclable",
       "",
-      "1700",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Poster Of Natural Wonders",
       "Uncommon",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -2621,7 +2633,7 @@
       "Pottery",
       "Uncommon",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -2633,36 +2645,36 @@
       "Power Bank",
       "Rare",
       "2× Battery 2× Wires",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Power Cable",
       "Rare",
       "4× Wires",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Workshop Gear Bench 2 (3×)",
-      "800",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Power Rod",
       "Epic",
       "1× Advanced Electrical Components 1× ARC Circuitry",
-      "5000",
+      "5,000",
       "3",
       "Refined Material",
       "Quests Tribute To Toledo (1×)",
-      "2750",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2673,8 +2685,8 @@
       "10",
       "Nature",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2685,20 +2697,20 @@
       "5",
       "Topside Material",
       "",
-      "260",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Projector",
       "Rare",
       "1× Processor 2× Wires",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2709,51 +2721,51 @@
       "3",
       "Quick Use",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Queen Reactor",
       "Legendary",
       "1× Magnetic Accelerator 1× Power Rod",
-      "13000",
+      "13,000",
       "1",
       "Recyclable",
       "",
-      "10500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Radio Relay",
       "Rare",
       "2× Sensors 2× Speaker Component",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Radio",
       "Rare",
       "1× Sensors 1× Speaker Component",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "1000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Raider Hatch Key",
       "Rare",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "1",
       "Key",
       "",
@@ -2765,19 +2777,19 @@
       "Recorder",
       "Uncommon",
       "10× Plastic Parts",
-      "1000",
+      "1,000",
       "1",
       "Quick Use",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Red Coral Jewelry",
       "Rare",
       "Cannot be recycled",
-      "5000",
+      "5,000",
       "3",
       "Trinket",
       "",
@@ -2789,12 +2801,12 @@
       "Remote Control",
       "Rare",
       "1× Sensors 7× Plastic Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "920",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2805,15 +2817,15 @@
       "3",
       "Quick Use",
       "",
-      "100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Resin",
       "Common",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "10",
       "Nature",
       "",
@@ -2825,36 +2837,36 @@
       "Ripped Safety Vest",
       "Uncommon",
       "1× Durable Cloth 1× Magnet",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Rocket Thruster",
       "Rare",
       "2× Synthesized Fuel 6× Metal Parts",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1850",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Rocketeer Driver",
       "Epic",
       "2× Advanced Electrical Components 3× ARC Alloy",
-      "5000",
+      "5,000",
       "3",
       "Recyclable",
       "Workshop Explosives Station 3 (3×) Quests Out Of The Shadows (1×)",
-      "4100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2865,8 +2877,8 @@
       "10",
       "Nature",
       "",
-      "100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2877,15 +2889,15 @@
       "5",
       "Topside Material",
       "",
-      "250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Rosary",
       "Rare",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -2897,19 +2909,19 @@
       "Rotary Encoder",
       "Rare",
       "2× Electrical Components 2× Processor",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "Quests With A View (1×)",
-      "2280",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Rubber Duck",
       "Common",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "15",
       "Trinket",
       "",
@@ -2921,12 +2933,12 @@
       "Rubber Pad",
       "Rare",
       "18× Rubber Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2945,12 +2957,12 @@
       "Ruined Accordion",
       "Rare",
       "18× Rubber Parts 3× Steel Spring",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1800",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2961,8 +2973,8 @@
       "1",
       "Recyclable",
       "",
-      "220",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2973,8 +2985,8 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2985,8 +2997,8 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -2997,20 +3009,20 @@
       "3",
       "Recyclable",
       "",
-      "500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Ruined Riot Shield",
       "Rare",
       "10× Plastic Parts 6× Rubber Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3021,8 +3033,8 @@
       "3",
       "Recyclable",
       "",
-      "550",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3033,44 +3045,44 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Rusted Gear",
       "Rare",
       "2× Mechanical Components 4× Metal Parts",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Gunsmith 3 (3×)",
-      "1580",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Rusted Shut Medical Kit",
       "Rare",
       "1× Antiseptic 2× Syringe",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Medical Lab 3 (3×)",
-      "2000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Rusted Tools",
       "Rare",
       "1× Steel Spring 8× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Workshop Gunsmith 2 (3×)",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3081,20 +3093,20 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Sample Cleaner",
       "Rare",
       "14× Assorted Seeds 2× Electrical Components",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2680",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3153,8 +3165,8 @@
       "5",
       "Quick Use",
       "",
-      "270",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3165,32 +3177,32 @@
       "5",
       "Topside Material",
       "",
-      "275",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Sentinel Firing Core",
       "Rare",
       "2× ARC Alloy 3× Mechanical Components",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "Workshop Gunsmith 3 (4×)",
-      "2320",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Shaker",
       "Uncommon",
       "10× Plastic Parts",
-      "1000",
+      "1,000",
       "1",
       "Quick Use",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3201,8 +3213,8 @@
       "5",
       "Quick Use",
       "",
-      "200",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3225,56 +3237,56 @@
       "1",
       "Mods",
       "",
-      "375",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Shotgun Choke II",
       "Uncommon",
       "1× Mechanical Components 1× Wires",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "840",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Shotgun Choke III",
       "Rare",
       "1× Mod Components 2× Wires",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Shotgun Silencer",
       "Epic",
       "1× Mod Components 1× Wires",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "1950",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Showstopper",
       "Rare",
       "1× Electrical Components 2× Battery",
-      "2200",
+      "2,200",
       "5",
       "Quick Use",
       "",
-      "1140",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3285,75 +3297,75 @@
       "5",
       "Quick Use",
       "",
-      "345",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Shredder Gyro",
       "Rare",
       "3× ARC Alloy 3× Mechanical Components",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2520",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Signal Amplifier",
       "Rare",
       "2× Electrical Components 2× Voltage Converter",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2280",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Silencer I",
       "Uncommon",
       "1× Mechanical Components 1× Wires",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "840",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Silencer II",
       "Rare",
       "1× Mod Components 2× Wires",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Silencer III",
       "Epic",
       "1× Mod Components 3× Wires",
-      "7000",
+      "7,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Silver Teaspoon Set",
       "Rare",
       "Cannot be recycled",
-      "3000",
+      "3,000",
       "3",
       "Trinket",
       "",
@@ -3369,8 +3381,8 @@
       "10",
       "Topside Material",
       "",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3389,12 +3401,12 @@
       "Smoke Grenade",
       "Rare",
       "1× Canister 2× Chemicals",
-      "1000",
+      "1,000",
       "5",
       "Quick Use",
       "",
-      "400",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3405,32 +3417,32 @@
       "3",
       "Quick Use",
       "",
-      "350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Snap Hook",
       "Legendary",
       "1× Power Rod 3× Rope",
-      "14000",
+      "14,000",
       "1",
       "Quick Use",
       "",
-      "6500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Snitch Scanner",
       "Uncommon",
       "1× ARC Alloy 2× Electrical Components",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Utility Station 2 (6×) Quests The Trifecta (2×)",
-      "1480",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3501,56 +3513,56 @@
       "5",
       "Topside Material",
       "",
-      "270",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Spectrometer",
       "Rare",
       "1× Advanced Electrical Components 1× Sensors",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Spectrum Analyzer",
       "Epic",
       "1× Exodus Modules 1× Sensors",
-      "3500",
+      "3,500",
       "3",
       "Recyclable",
       "",
-      "3250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Spotter Relay",
       "Uncommon",
       "1× ARC Alloy 2× Electrical Components",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1480",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Spring Cushion",
       "Rare",
       "2× Durable Cloth 2× Steel Spring",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1880",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3561,39 +3573,39 @@
       "1",
       "Mods",
       "",
-      "300",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Stable Stock II",
       "Uncommon",
       "1× Duct Tape 1× Mechanical Components",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Stable Stock III",
       "Rare",
       "1× Mod Components 2× Duct Tape",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "2350",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Statuette",
       "Rare",
       "Cannot be recycled",
-      "3000",
+      "3,000",
       "3",
       "Trinket",
       "",
@@ -3609,8 +3621,8 @@
       "15",
       "Topside Material",
       "",
-      "150",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3665,20 +3677,8 @@
       "Sterilized Bandage",
       "Rare",
       "1× Antiseptic 1× Fabric",
-      "2000",
+      "2,000",
       "3",
-      "Quick Use",
-      "",
-      "1050",
-      "Sell"
-    ],
-    [
-      "",
-      "Integrated Shield Recharger",
-      "Common",
-      "Cannot be recycled",
-      "0",
-      "1",
       "Quick Use",
       "",
       "",
@@ -3689,24 +3689,24 @@
       "Surge Shield Recharger",
       "Rare",
       "1× Electrical Components",
-      "1200",
+      "1,200",
       "5",
       "Quick Use",
       "",
-      "640",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Surveyor Vault",
       "Rare",
       "2× ARC Alloy 2× Mechanical Components",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "Workshop Medical Lab 3 (5×) Quests Mixed Signals (1×)",
-      "1680",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3717,8 +3717,8 @@
       "5",
       "Topside Material",
       "Workshop Explosives Station 2 (3×)",
-      "360",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3729,8 +3729,8 @@
       "5",
       "Topside Material",
       "Quests Doctor's Orders (1×)",
-      "280",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3741,51 +3741,51 @@
       "1",
       "Augment",
       "",
-      "330",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Tactical Mk. 2",
       "Rare",
       "1× Electrical Components 1× Magnet",
-      "2000",
+      "2,000",
       "1",
       "Augment",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Tactical Mk. 3 (Defensive)",
       "Epic",
       "1× Advanced Electrical Components 1× Processor",
-      "5000",
+      "5,000",
       "1",
       "Augment",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Tactical Mk. 3 (Healing)",
       "Epic",
       "1× Advanced Electrical Components 1× Processor",
-      "5000",
+      "5,000",
       "1",
       "Augment",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Tactical Mk. 3 (Revival)",
       "Epic",
-      "Cannot be recycled",
-      "5000",
+      "1× Advanced Electrical Components 1× Processor",
+      "5,000",
       "1",
       "Augment",
       "",
@@ -3797,12 +3797,12 @@
       "Tagging Grenade",
       "Rare",
       "1× Plastic Parts 1× Sensors",
-      "1000",
+      "1,000",
       "3",
       "Quick Use",
       "",
-      "560",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3813,8 +3813,8 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3825,32 +3825,32 @@
       "3",
       "Recyclable",
       "",
-      "550",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Telemetry Transceiver",
       "Rare",
       "1× Advanced Electrical Components 1× Processor",
-      "3000",
+      "3,000",
       "3",
       "Recyclable",
       "",
-      "2250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Thermostat",
       "Rare",
       "1× Sensors 7× Rubber Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "850",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3861,20 +3861,20 @@
       "3",
       "Recyclable",
       "Workshop Medical Lab 2 (8×)",
-      "500",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Toaster",
       "Rare",
       "3× Wires 5× Plastic Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Workshop Refiner 2 (3×)",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -3885,15 +3885,15 @@
       "3",
       "Recyclable",
       "",
-      "600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Torn Book",
       "Common",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "5",
       "Trinket",
       "",
@@ -3905,31 +3905,31 @@
       "Trailblazer",
       "Rare",
       "2× Crude Explosives",
-      "1600",
+      "1,600",
       "3",
       "Quick Use",
       "",
-      "540",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Trigger 'Nade",
       "Rare",
       "1× Chemicals 1× Processor",
-      "1000",
+      "1,000",
       "3",
       "Quick Use",
       "",
-      "550",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Tropical Duck",
       "Uncommon",
       "Cannot be recycled",
-      "1000",
+      "1,000",
       "15",
       "Trinket",
       "",
@@ -3941,31 +3941,31 @@
       "Turbo Pump",
       "Rare",
       "1× Mechanical Components 3× Oil",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1540",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Unusable Weapon",
       "Rare",
       "4× Metal Parts 5× Simple Gun Parts",
-      "2000",
+      "2,000",
       "3",
       "Recyclable",
       "",
-      "1950",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Vase",
       "Rare",
       "Cannot be recycled",
-      "3000",
+      "3,000",
       "3",
       "Trinket",
       "",
@@ -3981,39 +3981,39 @@
       "1",
       "Mods",
       "",
-      "360",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Vertical Grip II",
       "Uncommon",
       "1× Duct Tape 1× Mechanical Components",
-      "2000",
+      "2,000",
       "1",
       "Mods",
       "",
-      "940",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Vertical Grip III",
       "Rare",
       "2× Duct Tape 2× Mechanical Components",
-      "5000",
+      "5,000",
       "1",
       "Mods",
       "",
-      "1880",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Very Comfortable Pillow",
       "Uncommon",
       "Cannot be recycled",
-      "2000",
+      "2,000",
       "3",
       "Trinket",
       "",
@@ -4025,24 +4025,24 @@
       "Vita Shot",
       "Rare",
       "1× Syringe 4× Chemicals",
-      "2200",
+      "2,200",
       "3",
       "Quick Use",
       "",
-      "700",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Vita Spray",
       "Epic",
       "1× Antiseptic 2× Canister",
-      "3000",
+      "3,000",
       "1",
       "Quick Use",
       "",
-      "1600",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -4065,44 +4065,44 @@
       "5",
       "Topside Material",
       "",
-      "250",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Wasp Driver",
       "Rare",
       "1× ARC Alloy 1× Electrical Components",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "Workshop Gunsmith 1 (8×) Quests The Trifecta (2×)",
-      "840",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Water Filter",
       "Rare",
       "2× Rubber Parts 3× Canister",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "1000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Water Pump",
       "Rare",
       "2× Oil 4× Metal Parts",
-      "1000",
+      "1,000",
       "3",
       "Recyclable",
       "",
-      "900",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
@@ -4113,33 +4113,33 @@
       "15",
       "Topside Material",
       "Quests After Rain Comes (5×) Eyes On The Prize (3×) Trash Into Treasure (6×)",
-      "100",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Wolfpack",
       "Epic",
       "1× ARC Motion Core 1× Explosive Compound",
-      "5000",
+      "5,000",
       "1",
       "Quick Use",
       "",
-      "2000",
-      "Sell"
+      "",
+      "Unknown"
     ],
     [
       "",
       "Zipline",
       "Rare",
       "1× Metal Parts 1× Rope",
-      "1000",
+      "1,000",
       "3",
       "Quick Use",
       "",
-      "575",
-      "Sell"
+      "",
+      "Unknown"
     ]
   ],
-  "generated_at": "2026-02-02T03:31:49Z"
+  "generated_at": "2026-02-03T03:26:47Z"
 }
