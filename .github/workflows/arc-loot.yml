@@ -8,7 +8,7 @@ on:
         required: false
         default: "false"
   schedule:
-    - cron: "27 2 * * *"  # daily 02:27 UTC (03:27 Berlin in winter, 04:27 in summer)
+    - cron: "0 0 31 2 2"  # daily 02:27 UTC (03:27 Berlin in winter, 04:27 in summer)
 
 permissions:
   contents: write
