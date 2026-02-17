@@ -494,7 +494,7 @@
     ],
     [
       "",
-      "Light Stick",
+      "Blue Light Stick",
       "Common",
       "1× Chemicals",
       "150",
@@ -1754,6 +1754,18 @@
     ],
     [
       "",
+      "Green Light Stick",
+      "Common",
+      "1× Chemicals",
+      "150",
+      "5",
+      "Quick Use",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
+      "",
       "Headphones",
       "Rare",
       "1× Speaker Component 7× Rubber Parts",
@@ -2762,6 +2774,18 @@
     ],
     [
       "",
+      "Template:Infobox augment",
+      "Epic",
+      "Cannot be recycled",
+      "5,000",
+      "1",
+      "Augment",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
+      "",
       "Raider Hatch Key",
       "Rare",
       "Cannot be recycled",
@@ -2792,6 +2816,18 @@
       "5,000",
       "3",
       "Trinket",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
+      "",
+      "Red Light Stick",
+      "Common",
+      "1× Chemicals",
+      "150",
+      "5",
+      "Quick Use",
       "",
       "",
       "Unknown"
@@ -4130,6 +4166,18 @@
     ],
     [
       "",
+      "Yellow Light Stick",
+      "Common",
+      "1× Chemicals",
+      "150",
+      "5",
+      "Quick Use",
+      "",
+      "",
+      "Unknown"
+    ],
+    [
+      "",
       "Zipline",
       "Rare",
       "1× Metal Parts 1× Rope",
@@ -4141,5 +4189,5 @@
       "Unknown"
     ]
   ],
-  "generated_at": "2026-02-10T00:24:44Z"
+  "generated_at": "2026-02-17T00:20:38Z"
 }

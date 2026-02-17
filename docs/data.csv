@@ -39,7 +39,7 @@ Image,Item,Rarity,Recycles To,Sell Price,Stack Size,Category,Uses,Recycled Sell 
 ,Blue Gate Village Key,Uncommon,Cannot be recycled,100,1,Key,,,Unknown
 ,Blue Gate Communication Tower Key,Rare,Cannot be recycled,100,1,Key,,,Unknown
 ,Blue Gate Confiscation Room Key,Epic,Cannot be recycled,100,1,Key,,,Unknown
-,Light Stick,Common,1× Chemicals,150,5,Quick Use,,,Unknown
+,Blue Light Stick,Common,1× Chemicals,150,5,Quick Use,,,Unknown
 ,Bombardier Cell,Epic,2× Advanced Mechanical Components 2× ARC Alloy,"5,000",3,Recyclable,Workshop Refiner 3 (6×),,Unknown
 ,Breathtaking Snow Globe,Epic,Cannot be recycled,"7,000",1,Trinket,,,Unknown
 ,Broken Flashlight,Rare,2× Battery 6× Metal Parts,"1,000",3,Recyclable,,,Unknown
@@ -144,6 +144,7 @@ Image,Item,Rarity,Recycles To,Sell Price,Stack Size,Category,Uses,Recycled Sell 
 ,Geiger Counter,Epic,1× Exodus Modules 3× Battery,"3,500",3,Recyclable,,,Unknown
 ,Gentle Duck,Uncommon,Cannot be recycled,"1,000",15,Trinket,,,Unknown
 ,Great Mullein,Uncommon,2× Assorted Seeds,300,15,Topside Material,Quests Doctor's Orders (1×),,Unknown
+,Green Light Stick,Common,1× Chemicals,150,5,Quick Use,,,Unknown
 ,Headphones,Rare,1× Speaker Component 7× Rubber Parts,"1,000",3,Recyclable,,,Unknown
 ,Heavy Ammo,Common,Cannot be recycled,12,40,Ammunition,,,Unknown
 ,Heavy Fuze Grenade,Rare,1× Oil 2× Rubber Parts,"1,600",3,Quick Use,,,Unknown
@@ -228,9 +229,11 @@ Image,Item,Rarity,Recycles To,Sell Price,Stack Size,Category,Uses,Recycled Sell 
 ,Queen Reactor,Legendary,1× Magnetic Accelerator 1× Power Rod,"13,000",1,Recyclable,,,Unknown
 ,Radio Relay,Rare,2× Sensors 2× Speaker Component,"3,000",3,Recyclable,,,Unknown
 ,Radio,Rare,1× Sensors 1× Speaker Component,"1,000",3,Recyclable,,,Unknown
+,Template:Infobox augment,Epic,Cannot be recycled,"5,000",1,Augment,,,Unknown
 ,Raider Hatch Key,Rare,Cannot be recycled,"2,000",1,Key,,,Unknown
 ,Recorder,Uncommon,10× Plastic Parts,"1,000",1,Quick Use,,,Unknown
 ,Red Coral Jewelry,Rare,Cannot be recycled,"5,000",3,Trinket,,,Unknown
+,Red Light Stick,Common,1× Chemicals,150,5,Quick Use,,,Unknown
 ,Remote Control,Rare,1× Sensors 7× Plastic Parts,"1,000",3,Recyclable,,,Unknown
 ,Remote Raider Flare,Common,1× Chemicals 1× Rubber Parts,270,3,Quick Use,,,Unknown
 ,Resin,Common,Cannot be recycled,"1,000",10,Nature,,,Unknown
@@ -342,4 +345,5 @@ Image,Item,Rarity,Recycles To,Sell Price,Stack Size,Category,Uses,Recycled Sell 
 ,Water Pump,Rare,2× Oil 4× Metal Parts,"1,000",3,Recyclable,,,Unknown
 ,Wires,Uncommon,2× Rubber Parts,200,15,Topside Material,Quests After Rain Comes (5×) Eyes On The Prize (3×) Trash Into Treasure (6×),,Unknown
 ,Wolfpack,Epic,1× ARC Motion Core 1× Explosive Compound,"5,000",1,Quick Use,,,Unknown
+,Yellow Light Stick,Common,1× Chemicals,150,5,Quick Use,,,Unknown
 ,Zipline,Rare,1× Metal Parts 1× Rope,"1,000",3,Quick Use,,,Unknown
